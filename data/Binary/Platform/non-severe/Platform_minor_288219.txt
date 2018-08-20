@@ -1,0 +1,1 @@
+Mouse event listener is not working in MAC machine in Jfree chart panel with swt.jar in classpath.

@@ -1,0 +1,1 @@
+[BiDi] [IDE] BIDI3.3<HCG:Project name with BIDI name Hebrew/Arabic does not appear in "Location" label in properties Tab>

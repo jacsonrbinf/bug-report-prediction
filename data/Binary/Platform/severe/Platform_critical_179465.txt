@@ -1,0 +1,1 @@
+[Browser]Crash on Linux when visiting www.cnn.com in swt 3.3m6

@@ -1,0 +1,1 @@
+[DND] Cannot drag a single character selection in StyledText

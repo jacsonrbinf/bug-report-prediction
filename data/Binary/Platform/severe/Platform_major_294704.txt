@@ -1,0 +1,1 @@
+Setting new text for toggle command hides other command on view toolbar

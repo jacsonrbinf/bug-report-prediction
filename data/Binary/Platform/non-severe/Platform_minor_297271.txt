@@ -1,0 +1,1 @@
+[Undo] AbstractWorkspaceOperation and its subclasses don't have @noextend API tags

@@ -1,0 +1,1 @@
+SWT_AWT fails to deliver events reliably on Mac OS X

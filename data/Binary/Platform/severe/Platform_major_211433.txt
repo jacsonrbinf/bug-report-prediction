@@ -1,0 +1,1 @@
+[KeyBindings] Changing key binding broken (ends up in wrong context)

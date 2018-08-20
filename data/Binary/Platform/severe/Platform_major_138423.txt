@@ -1,0 +1,1 @@
+[ICU] Eclipse crashes when bringing up properties dialog of project in invalid locale

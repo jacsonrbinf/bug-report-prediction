@@ -1,0 +1,1 @@
+[Browser] Eclipse causes JVM crash in libxul when editing Java

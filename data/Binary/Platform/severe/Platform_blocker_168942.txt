@@ -1,0 +1,1 @@
+Solaris 10 sparc: Eclipse is unusable - Xsun ~ 100% cpu usage

@@ -1,0 +1,1 @@
+[Help] Can not print Dynamic Help content

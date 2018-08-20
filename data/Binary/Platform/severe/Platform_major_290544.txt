@@ -1,0 +1,1 @@
+'Next Change' does not selected last small diff (button disabled)

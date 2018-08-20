@@ -1,0 +1,1 @@
+[EditorMgmt] Save Resource if opened elsewhere dialog could be clearer

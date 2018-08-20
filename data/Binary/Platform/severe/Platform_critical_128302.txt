@@ -1,0 +1,1 @@
+ICU4J throws exceptions which cause Visual Editor to fail to open

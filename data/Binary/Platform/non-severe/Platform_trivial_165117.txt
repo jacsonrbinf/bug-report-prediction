@@ -1,0 +1,1 @@
+retrieve the workspace-path which Eclipse is running on startup

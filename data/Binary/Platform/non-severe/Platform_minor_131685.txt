@@ -1,0 +1,1 @@
+BiDi3.2: [HeapMonitor] Incorrect number format in heap size indicator

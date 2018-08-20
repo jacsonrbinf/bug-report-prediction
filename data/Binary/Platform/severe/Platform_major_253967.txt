@@ -1,0 +1,1 @@
+ComboBoxCellEditor interaction delay when in a table (SWT 3.4)

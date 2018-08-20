@@ -1,0 +1,1 @@
+[Webapp][Security] UrlUtil.HtmlEncode() should encode more characters

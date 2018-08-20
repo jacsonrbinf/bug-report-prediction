@@ -1,0 +1,1 @@
+Ant JRE tab has clipped widgets on the bottom

@@ -1,0 +1,1 @@
+[Forms] Incompatibility between SWT3.0 and SWT3.2RC4, Form.setBackgroundImage(..)

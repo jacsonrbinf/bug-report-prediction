@@ -1,0 +1,1 @@
+[Progress] ProgressMonitorDialogPerformanceTest#testLongNames() runs too short on windows test machines

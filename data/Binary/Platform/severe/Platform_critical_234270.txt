@@ -1,0 +1,1 @@
+NPE in org.eclipse.ui.internal.presentations.util.AbstractTabFolder.findItem

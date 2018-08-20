@@ -1,0 +1,1 @@
+Remove HTTP proxy code from update

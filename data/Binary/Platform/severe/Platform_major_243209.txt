@@ -1,0 +1,1 @@
+[ActivityMgmt] NPE in org.eclipse.ui.internal.activities.Identifer prevents menu contributions from showing up

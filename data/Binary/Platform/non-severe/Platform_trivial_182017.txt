@@ -1,0 +1,1 @@
+[Browser] Cursor not visible in editor window

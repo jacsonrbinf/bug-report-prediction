@@ -1,0 +1,1 @@
+NPE in Display.applicationDelegateProc(..) when creating display

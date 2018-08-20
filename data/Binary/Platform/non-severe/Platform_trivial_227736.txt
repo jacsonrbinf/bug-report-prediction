@@ -1,0 +1,1 @@
+Add @noextend tag to LocalResourceTypedElement

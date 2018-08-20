@@ -1,0 +1,1 @@
+[preferences] Colors and Fonts page should have keyword "text font"

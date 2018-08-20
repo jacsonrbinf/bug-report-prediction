@@ -1,0 +1,1 @@
+[Wizards] Cut and copy text to clipboard is broken in CVS commit wizard

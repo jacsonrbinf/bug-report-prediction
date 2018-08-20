@@ -1,0 +1,1 @@
+[Dialogs] CheckedTreeSelectionDialog#createSelectionButtons(Composite) fails to align the selection buttons to the right

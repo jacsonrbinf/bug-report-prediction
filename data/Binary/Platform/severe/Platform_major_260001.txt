@@ -1,0 +1,1 @@
+Cursor does not update on OS X to indicate hover over a draggable divider.

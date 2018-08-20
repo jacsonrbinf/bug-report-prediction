@@ -1,0 +1,1 @@
+Spinner.setDigits triggers a SWT.Selection Event on Linux and not on Windows

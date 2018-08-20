@@ -1,0 +1,1 @@
+[Proxy] Disable Gnome lib - Eclipse on RHEL/Gnome with IBM vm 1.4.2 crashes

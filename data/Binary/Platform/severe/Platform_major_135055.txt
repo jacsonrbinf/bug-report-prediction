@@ -1,0 +1,1 @@
+Save action state is not refreshed when Properties View is active for a selection in Common Navigator

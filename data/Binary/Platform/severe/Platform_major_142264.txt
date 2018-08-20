@@ -1,0 +1,1 @@
+[Workbench] After closing all perspectives, Project Explorer will never show content

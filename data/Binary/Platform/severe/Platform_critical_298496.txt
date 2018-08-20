@@ -1,0 +1,1 @@
+[Snippet195.java] or any OpenGL apps won't quit under Mac OS X.

@@ -1,0 +1,1 @@
+Segfault when disposing shell in keylistener of browser

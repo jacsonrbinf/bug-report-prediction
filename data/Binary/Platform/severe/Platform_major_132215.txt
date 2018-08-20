@@ -1,0 +1,1 @@
+[KeyBindings] SelectAll doesn't work in Swing widgets in dialogs

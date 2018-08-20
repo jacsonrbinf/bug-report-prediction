@@ -1,0 +1,1 @@
+Project Explorer drag and drop selection not working properly

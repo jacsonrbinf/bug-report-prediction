@@ -1,0 +1,1 @@
+[Viewers] TreeViewer.updateHasChildren() does not work if item is already expanded

@@ -1,0 +1,1 @@
+Persistent problems with 3.4M5 update manager on Mac OSX

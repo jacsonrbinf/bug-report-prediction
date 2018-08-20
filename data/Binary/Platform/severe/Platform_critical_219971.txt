@@ -1,0 +1,1 @@
+permissions.properties has no effect on mac os

@@ -1,0 +1,1 @@
+[Help] Java Heap Space issues with Eclipse Help IC

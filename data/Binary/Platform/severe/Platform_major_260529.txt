@@ -1,0 +1,1 @@
+[Viewers] (especially Java) moving caret dead slow if whitespaces are shown

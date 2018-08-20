@@ -1,0 +1,1 @@
+[cocoa 64] mouse selection in Combo doesn't send ModifyEvent

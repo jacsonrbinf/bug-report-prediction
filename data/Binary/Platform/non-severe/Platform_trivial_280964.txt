@@ -1,0 +1,1 @@
+[CommonNavigator] Confusing javadocs in CommonNavigator

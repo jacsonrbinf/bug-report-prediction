@@ -1,0 +1,1 @@
+Japanese Locale not supporting text correctly

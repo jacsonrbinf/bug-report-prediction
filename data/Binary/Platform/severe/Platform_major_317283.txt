@@ -1,0 +1,1 @@
+[breadcrumb] BreadcrumbItems not disposed when editor closed

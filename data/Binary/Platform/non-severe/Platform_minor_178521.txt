@@ -1,0 +1,1 @@
+[Min/Max] Restored view stack should become active

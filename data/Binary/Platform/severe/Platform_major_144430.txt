@@ -1,0 +1,1 @@
+Debug stops whithout being ordered to. happens when I step over or into.

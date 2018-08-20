@@ -1,0 +1,1 @@
+[GlobalActions] regression: command link to go to preference page broken

@@ -1,0 +1,1 @@
+[Browser] inconsistency in names in Preferences in English version

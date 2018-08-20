@@ -1,0 +1,1 @@
+Visual Tearing in Cocoa

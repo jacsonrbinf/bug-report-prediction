@@ -1,0 +1,1 @@
+[Encoding] Creation of element failed on Windows Thai because MS874 (Thai encoding) is not supported on Eclipse Platform.

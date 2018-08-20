@@ -1,0 +1,1 @@
+sdk and platform linux x86_64 and ppc zips are zero size in N20081005-2000

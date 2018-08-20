@@ -1,0 +1,1 @@
+Colors returned by Mac Color Dialog get shifted based on calibrated color space

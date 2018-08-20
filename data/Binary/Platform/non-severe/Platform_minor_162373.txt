@@ -1,0 +1,1 @@
+Screen cheese when resizing Table or Tree column (show contents while dragging disabled)

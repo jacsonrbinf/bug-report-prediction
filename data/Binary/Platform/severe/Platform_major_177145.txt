@@ -1,0 +1,1 @@
+[Mac] [Themes] Fatal Startup exception on Eclipse 3.3M5eh / OSX

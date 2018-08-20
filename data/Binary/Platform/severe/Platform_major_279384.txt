@@ -1,0 +1,1 @@
+"Hide Toolbar" doesn't work (don't remember to hide the toolbar after restart)

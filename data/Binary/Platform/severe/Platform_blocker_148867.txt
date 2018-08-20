@@ -1,0 +1,1 @@
+WebDAV Plugin doesn't work with SSL on any platform

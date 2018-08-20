@@ -1,0 +1,1 @@
+[Preferences] refresh on startup option has no keyword

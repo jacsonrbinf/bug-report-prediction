@@ -1,0 +1,1 @@
+No mouse move events on Cocoa64 unless you press left mouse button

@@ -1,0 +1,1 @@
+Ant build fail if Eclipse is located in a path with spaces !!

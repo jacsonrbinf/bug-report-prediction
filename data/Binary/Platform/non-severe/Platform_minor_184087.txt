@@ -1,0 +1,1 @@
+[ActivityMgmt] Optimize performance of MutableActivityManager#setEnabledActivityIds()

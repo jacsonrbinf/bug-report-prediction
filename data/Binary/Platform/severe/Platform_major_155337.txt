@@ -1,0 +1,1 @@
+[OpenGL] OpenGL plugin do not provide access to selection buffer

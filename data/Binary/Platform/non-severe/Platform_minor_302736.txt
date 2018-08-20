@@ -1,0 +1,1 @@
+keyboard folder(or file search) search does not work with cvs merge folders(or file search)

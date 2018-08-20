@@ -1,0 +1,1 @@
+Invoking COM methods of type INVOKE_FUNC have different behavior in Eclipse 3.1.2 and Eclipse 3.2

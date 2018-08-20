@@ -1,0 +1,1 @@
+Message Dialog appears when file in workspace modified externally even workspace is in "Refresh Automatically mode.

@@ -1,0 +1,1 @@
+[misc] Typos in documentation of hyperlinkDetector* schema definitions

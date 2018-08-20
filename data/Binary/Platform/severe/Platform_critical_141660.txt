@@ -1,0 +1,1 @@
+Eclipse startup fails after component install

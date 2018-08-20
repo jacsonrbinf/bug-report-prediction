@@ -1,0 +1,1 @@
+Diff viewer always scroll from the top instead of first difference shown

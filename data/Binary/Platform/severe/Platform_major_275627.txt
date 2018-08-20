@@ -1,0 +1,1 @@
+[Forms] Leak: BusyIndicator must ensure to properly dispose created images on disposal

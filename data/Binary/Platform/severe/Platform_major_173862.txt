@@ -1,0 +1,1 @@
+Clearcase SCM Plugin and Eclipse 3.1 -> 3.2 upgrade issues

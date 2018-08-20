@@ -1,0 +1,1 @@
+PyDev 1.2.5 freezes eclipse workspace opening, error: resource not open

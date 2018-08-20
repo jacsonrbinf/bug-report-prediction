@@ -1,0 +1,1 @@
+[Dialogs] TrayDialog must not include tray when saving size

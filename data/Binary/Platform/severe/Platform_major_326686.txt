@@ -1,0 +1,1 @@
+Compare editor opens without diffs after canceling

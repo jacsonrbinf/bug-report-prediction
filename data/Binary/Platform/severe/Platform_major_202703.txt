@@ -1,0 +1,1 @@
+[CommonNavigator] Rename project fails in the IDE when used with ClearCase SCM adapter

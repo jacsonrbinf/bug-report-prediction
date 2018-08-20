@@ -1,0 +1,1 @@
+Arabian characters are abnormally rendered on GTK platform

@@ -1,0 +1,1 @@
+changing Table item height in MeasureItem loops infinitely

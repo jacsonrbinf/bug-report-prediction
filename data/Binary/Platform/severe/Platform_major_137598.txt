@@ -1,0 +1,1 @@
+Changing JRE for separate JRE build has no effect

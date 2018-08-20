@@ -1,0 +1,1 @@
+Japanese monospace/fixed witdth fonts such as Osaka-Mono are not shown properly.

@@ -1,0 +1,1 @@
+Importing a file can hang the UI for hours

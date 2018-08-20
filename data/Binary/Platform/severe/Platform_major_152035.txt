@@ -1,0 +1,1 @@
+[BiDi] Menu items do not appear for IFile resources when -nl iw is used

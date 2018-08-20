@@ -1,0 +1,1 @@
+Cant start Eclipse 3.4 M6: Unable to acquire application service

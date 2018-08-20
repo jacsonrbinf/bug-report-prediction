@@ -1,0 +1,1 @@
+update legal wording on splash screen in 3.x stream

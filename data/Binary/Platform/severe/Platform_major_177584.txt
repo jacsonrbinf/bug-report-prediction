@@ -1,0 +1,1 @@
+Confirm Project Delete / "Do not delete contents" still appears to prepare to delete contents

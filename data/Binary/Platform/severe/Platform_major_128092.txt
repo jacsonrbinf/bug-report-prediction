@@ -1,0 +1,1 @@
+Directory is not created correctly when creating a new directory from file dialog

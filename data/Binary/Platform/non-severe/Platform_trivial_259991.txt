@@ -1,0 +1,1 @@
+ITextFileBufferManager.createEmptyDocument(IPath, LocationKind) is not documented to accept null

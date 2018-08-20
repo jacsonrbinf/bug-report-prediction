@@ -1,0 +1,1 @@
+[Viewers] CheckboxCellEditor flips state when tabing from cell to cell

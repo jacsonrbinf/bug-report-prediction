@@ -1,0 +1,1 @@
+[Markers] problems view quick fix's shortkey ctrl-1 does not work

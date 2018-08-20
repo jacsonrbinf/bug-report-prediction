@@ -1,0 +1,1 @@
+sub-shell can't be invisible when the main shell be maximized

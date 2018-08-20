@@ -1,0 +1,1 @@
+[Net] Eclipse cannot start on RHEL3 with linux-motif

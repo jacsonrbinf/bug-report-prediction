@@ -1,0 +1,1 @@
+"X Window System error" "RenderBadPicture" crash when using content assist popups

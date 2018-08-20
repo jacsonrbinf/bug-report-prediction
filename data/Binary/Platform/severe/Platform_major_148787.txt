@@ -1,0 +1,1 @@
+Unexpected handling of plugins in different features

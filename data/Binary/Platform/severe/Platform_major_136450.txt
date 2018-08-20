@@ -1,0 +1,1 @@
+[Progress] Widget disposed at end of update

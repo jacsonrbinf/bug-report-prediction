@@ -1,0 +1,1 @@
+Synchronize view sometimes goes deafult color when ctrl adding files

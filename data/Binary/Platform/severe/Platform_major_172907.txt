@@ -1,0 +1,1 @@
+A child feature's configure errors are not reported properly

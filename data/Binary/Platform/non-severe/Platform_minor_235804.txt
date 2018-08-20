@@ -1,0 +1,1 @@
+[Wizards] StackOverflowError in WizardsRegistryReader

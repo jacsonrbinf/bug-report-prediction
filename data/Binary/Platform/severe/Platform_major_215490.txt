@@ -1,0 +1,1 @@
+The SWT.MouseListener associated to a SWT component notifies events that occurs out of bounds

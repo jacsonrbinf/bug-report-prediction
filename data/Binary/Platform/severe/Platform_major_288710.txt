@@ -1,0 +1,1 @@
+[browser] mozilla crash on windows XP when using Browser.execute()

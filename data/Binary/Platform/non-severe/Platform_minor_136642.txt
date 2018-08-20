@@ -1,0 +1,1 @@
+Environment Launch Configuration tab missing mnemonic

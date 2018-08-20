@@ -1,0 +1,1 @@
+[DND] Drag through PE whitespace loses selection

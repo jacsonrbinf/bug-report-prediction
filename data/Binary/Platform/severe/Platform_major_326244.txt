@@ -1,0 +1,1 @@
+Selecting menu bar white space creates application resize or move

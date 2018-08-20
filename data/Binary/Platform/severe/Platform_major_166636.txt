@@ -1,0 +1,1 @@
+No way to set the label provider on a viewer column

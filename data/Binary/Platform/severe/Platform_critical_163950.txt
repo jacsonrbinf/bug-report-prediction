@@ -1,0 +1,1 @@
+sporadic hang upon showing the 'Run as...' submenu (context menu)

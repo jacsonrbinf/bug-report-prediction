@@ -1,0 +1,1 @@
+Tree in Debug view should not have border

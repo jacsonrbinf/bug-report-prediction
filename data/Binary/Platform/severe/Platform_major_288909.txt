@@ -1,0 +1,1 @@
+[Widgets][GTK2.18] No toolbars in Console and Search View in GTK 2.17.x

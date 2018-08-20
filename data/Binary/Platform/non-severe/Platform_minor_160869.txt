@@ -1,0 +1,1 @@
+[Mac] Space is reserved for Mac focus rings used in main UI

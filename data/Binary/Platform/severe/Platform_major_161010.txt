@@ -1,0 +1,1 @@
+Unicode BOMs not detected in ordinary text files

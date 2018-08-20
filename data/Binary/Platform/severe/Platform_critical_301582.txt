@@ -1,0 +1,1 @@
+Opening Ant build.xml that references a particular jar file will intermittently crash hotspot

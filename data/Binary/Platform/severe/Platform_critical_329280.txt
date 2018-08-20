@@ -1,0 +1,1 @@
+[Help] Remote Help HTTPS support is setting java.protocol.handler.pkgs=javax.net.ssl

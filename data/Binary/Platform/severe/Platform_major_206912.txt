@@ -1,0 +1,1 @@
+[CellEditors] showing dialog in ICellModifier.modify() calls the method again

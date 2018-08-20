@@ -1,0 +1,1 @@
+Remove spamming echo during SWT build

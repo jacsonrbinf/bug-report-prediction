@@ -1,0 +1,1 @@
+[WorkbenchParts] PageBookView's toolbar doesn't properly re-layout after page switching

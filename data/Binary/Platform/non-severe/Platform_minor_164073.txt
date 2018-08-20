@@ -1,0 +1,1 @@
+[Workbench]  Loss of application focus when refreshing projects within the package explorer

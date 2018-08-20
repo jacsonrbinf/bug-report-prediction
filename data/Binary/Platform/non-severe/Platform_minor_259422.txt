@@ -1,0 +1,1 @@
+DocLineComparator behaves ambiguous with empty file

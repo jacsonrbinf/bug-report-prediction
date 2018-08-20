@@ -1,0 +1,1 @@
+Navigate > Next (Ctrl+.) does not work any more in PageBookViews

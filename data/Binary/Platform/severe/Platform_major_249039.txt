@@ -1,0 +1,1 @@
+[Intro] Accessibility issue when using ignore webpage colors

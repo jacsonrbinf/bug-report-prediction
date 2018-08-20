@@ -1,0 +1,1 @@
+[CommonNavigator] DnD: dropping folder on folder allowed - but old selection used

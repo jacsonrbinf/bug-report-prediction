@@ -1,0 +1,1 @@
+[Webapp] Make top-level book icon clickable in Help system

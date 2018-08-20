@@ -1,0 +1,1 @@
+[About] Plug-ins table from About dialog should show sort arrows

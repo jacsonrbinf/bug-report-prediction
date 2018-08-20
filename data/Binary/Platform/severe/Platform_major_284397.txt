@@ -1,0 +1,1 @@
+Plugin.isDebugging does not deliver true after Plugin.setDebugging has been called.

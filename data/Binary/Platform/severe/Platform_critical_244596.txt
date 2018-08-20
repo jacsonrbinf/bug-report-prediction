@@ -1,0 +1,1 @@
+java.io.PrintStream.append(char) is a 1.5 method

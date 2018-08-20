@@ -1,0 +1,1 @@
+[64] java VM crash on content assist

@@ -1,0 +1,1 @@
+[Wizards] "Import Existing Project" loops forever with cyclic symbolic links

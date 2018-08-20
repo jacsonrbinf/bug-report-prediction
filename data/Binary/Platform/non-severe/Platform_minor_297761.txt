@@ -1,0 +1,1 @@
+[Breakpoints] Pressing "*" in breakpoints view no longer expands elements.

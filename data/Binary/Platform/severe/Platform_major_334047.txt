@@ -1,0 +1,1 @@
+Problem decorators missing in Navigator, present in Package Explorer

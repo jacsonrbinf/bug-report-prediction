@@ -1,0 +1,1 @@
+[Proxy Preferences] Edit, Delete buttons enabled improperly

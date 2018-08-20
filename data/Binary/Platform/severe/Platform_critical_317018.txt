@@ -1,0 +1,1 @@
+Eclipse IDE for Java Developers, 3.6.0 RC4 crashes on openSUSE 11.3 M7

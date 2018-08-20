@@ -1,0 +1,1 @@
+Eclipse often crashes without any reason

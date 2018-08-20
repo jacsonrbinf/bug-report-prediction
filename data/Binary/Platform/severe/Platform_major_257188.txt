@@ -1,0 +1,1 @@
+Regression from 3.3.2 behaviour, no SWT.Activate event is sent when setFocus() is called on child controls

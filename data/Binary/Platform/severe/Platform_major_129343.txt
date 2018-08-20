@@ -1,0 +1,1 @@
+[Workbench] NullPointerException in saveTrimState when there is no defaultlayout

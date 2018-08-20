@@ -1,0 +1,1 @@
+Command line addSite on Linux reports success but doesn't update platform.xml

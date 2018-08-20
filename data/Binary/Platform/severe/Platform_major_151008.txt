@@ -1,0 +1,1 @@
+[misc] Eclipse hangs randomly when starting to perform an action

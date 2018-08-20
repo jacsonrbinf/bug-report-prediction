@@ -1,0 +1,1 @@
+[Doc] Need to create links to extension point documentation for org.eclipse.help.base.searchProcessor

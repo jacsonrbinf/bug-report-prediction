@@ -1,0 +1,1 @@
+[Help][Mac OS X] The background color of selected print menu is too dark.

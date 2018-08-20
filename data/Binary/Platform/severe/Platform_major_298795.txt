@@ -1,0 +1,1 @@
+[Progress] NPE on startup by simply calling PlatformUI.getWorkbench().getProgressService()

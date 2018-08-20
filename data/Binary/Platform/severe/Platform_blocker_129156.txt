@@ -1,0 +1,1 @@
+[Wizards] NPE in IDESelectionConversionService.convertToResources

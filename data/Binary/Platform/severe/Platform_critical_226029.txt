@@ -1,0 +1,1 @@
+[Wizards] BIDI3.4: Next button in RTL wizards not working after clicking back

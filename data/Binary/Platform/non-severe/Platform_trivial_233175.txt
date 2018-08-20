@@ -1,0 +1,1 @@
+Apply Patch wizard preview page does not use dialog font

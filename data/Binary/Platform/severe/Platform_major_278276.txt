@@ -1,0 +1,1 @@
+blank console when project JRE is older than workspace's (InternalAntRunner: UnsupportedClassVersion)

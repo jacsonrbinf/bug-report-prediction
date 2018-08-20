@@ -1,0 +1,1 @@
+Control.print(GC) renders control state unusable (win 7)

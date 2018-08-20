@@ -1,0 +1,1 @@
+[About] org.eclipse.ui.internal.about.InstallationHandler has no license header

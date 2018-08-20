@@ -1,0 +1,1 @@
+[Preferences] IWorkbenchPreferenceConstant#SHOW_MULTIPLE_EDITOR_TABS is mutable

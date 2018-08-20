@@ -1,0 +1,1 @@
+[EditorMgmt] Close a Tab with the middle button

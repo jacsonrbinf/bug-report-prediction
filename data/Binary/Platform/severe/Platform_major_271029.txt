@@ -1,0 +1,1 @@
+No menu bar items with Mozilla Browser (XULRunner 1.9.0.7)

@@ -1,0 +1,1 @@
+Popup Outline Ctrl+O has non-deterministic behavior (chars are lost)

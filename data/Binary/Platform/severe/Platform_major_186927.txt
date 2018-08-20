@@ -1,0 +1,1 @@
+[WorkbenchLauncher] [RCP] regression: WorkbenchAdvisor.preStartup() not called on the UI thread anymore

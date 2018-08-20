@@ -1,0 +1,1 @@
+CCombo.drowpdown doesn't handle screen's right edge

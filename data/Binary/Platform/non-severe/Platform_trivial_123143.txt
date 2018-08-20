@@ -1,0 +1,1 @@
+Drag handle changes to four-way on click

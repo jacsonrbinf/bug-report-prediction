@@ -1,0 +1,1 @@
+[Undo] Undo new file in Project Explorer deletes new code with no warning

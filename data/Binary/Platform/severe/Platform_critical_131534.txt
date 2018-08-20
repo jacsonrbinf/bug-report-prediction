@@ -1,0 +1,1 @@
+[Common Navigator] Tabbed Properties View is not integrated with Common Navigator

@@ -1,0 +1,1 @@
+Comparing a java file with clipboard opens a compare view in "text compare" or "java source compare" mode depending on where it is lauched from

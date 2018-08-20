@@ -1,0 +1,1 @@
+Copied resources have user only access rights (-rw-------) instead of group (-rw-rw-r--) like classes

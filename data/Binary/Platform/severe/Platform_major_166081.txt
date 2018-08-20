@@ -1,0 +1,1 @@
+[Viewers] widget disposed error from label update

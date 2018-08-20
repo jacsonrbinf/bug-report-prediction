@@ -1,0 +1,1 @@
+[ErrorHandling] New status handling shows wrong severity icons

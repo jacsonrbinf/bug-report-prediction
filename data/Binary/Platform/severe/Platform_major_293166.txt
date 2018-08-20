@@ -1,0 +1,1 @@
+Browser widget does not have keyboard focus after setFocus() - was: [content assist] additional info does not have keyboard focus

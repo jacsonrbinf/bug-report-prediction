@@ -1,0 +1,1 @@
+[Viewers] TreeViewer shows dummy entry if call to refresh() comes before node's children are returned

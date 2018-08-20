@@ -1,0 +1,1 @@
+Bidi: Error on changing the default path of a Plugin project

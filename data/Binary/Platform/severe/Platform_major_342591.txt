@@ -1,0 +1,1 @@
+[navigation] Hyperlinks in editor no longer working

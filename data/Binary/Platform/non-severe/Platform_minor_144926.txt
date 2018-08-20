@@ -1,0 +1,1 @@
+[misc] AnnotationPainter should not indirectly call IAnnotationPresentation.getLayer() and clarify IAnnotationPresentation Javadoc

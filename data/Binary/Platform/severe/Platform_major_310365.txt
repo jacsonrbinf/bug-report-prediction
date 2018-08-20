@@ -1,0 +1,1 @@
+Changes tree in Commit dialog and 'Apply Patch in Synchronize view' stays empty

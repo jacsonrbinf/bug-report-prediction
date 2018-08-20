@@ -1,0 +1,1 @@
+MessageBox#open() always returns SWT.CANCEL

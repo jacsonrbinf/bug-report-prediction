@@ -1,0 +1,1 @@
+[Browser] Eclipse reproducable crashes on Linux with SIGSEGV in libxul.so

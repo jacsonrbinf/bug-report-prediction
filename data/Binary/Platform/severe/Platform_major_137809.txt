@@ -1,0 +1,1 @@
+[variables] Toggle Logical Structure action does not work until scrolling

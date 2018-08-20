@@ -1,0 +1,1 @@
+Eclipse has an "Internal compiler error java.lang.OutOfMemoryError: GC overhead limit exceeded"

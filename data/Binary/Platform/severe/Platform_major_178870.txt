@@ -1,0 +1,1 @@
+[Contributions] PluginActionContributionItem or ProxyActivityManager leaks editor when ruler context menu opened

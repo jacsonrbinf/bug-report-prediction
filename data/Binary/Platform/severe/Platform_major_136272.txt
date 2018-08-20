@@ -1,0 +1,1 @@
+Combo on Mac incorrectly sends KeyDown event before Traverse when arrow up/down keys used

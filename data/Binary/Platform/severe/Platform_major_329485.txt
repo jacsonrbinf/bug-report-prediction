@@ -1,0 +1,1 @@
+[Help] Fix for 3.6.2 On WinXP bookmarks added from help view get name "N/A"

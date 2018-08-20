@@ -1,0 +1,1 @@
+[Widgets] Images on TableColumns are top-left justified instead of vertically centering like the sort arrows

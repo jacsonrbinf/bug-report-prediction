@@ -1,0 +1,1 @@
+SWT widgets page should link to Helios Javadocs

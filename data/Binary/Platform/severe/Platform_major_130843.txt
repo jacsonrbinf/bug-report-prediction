@@ -1,0 +1,1 @@
+[find/replace][typing] editor in a broken state after find/replace

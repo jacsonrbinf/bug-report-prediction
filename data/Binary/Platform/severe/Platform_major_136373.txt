@@ -1,0 +1,1 @@
+[EFS] Can't browse for files when creating linked resources

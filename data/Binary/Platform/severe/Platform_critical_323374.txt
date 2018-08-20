@@ -1,0 +1,1 @@
+Eclipse crashes when expanding a complex project in the package explorer

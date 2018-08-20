@@ -1,0 +1,1 @@
+[Help] Commands not working for infocenter and standalone help

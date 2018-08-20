@@ -1,0 +1,1 @@
+Texteditor crashes eclipse due to nullpointer exceptions

@@ -1,0 +1,1 @@
+[Decorators] All UIs that use decorators are sluggish

@@ -1,0 +1,1 @@
+MenuItem#isEnabled() works differently across platforms

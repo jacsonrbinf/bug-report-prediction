@@ -1,0 +1,1 @@
+[efs] Unavailable remote EFS projects can break Workbench startup due to problems with IFileStore#fetchInfo()

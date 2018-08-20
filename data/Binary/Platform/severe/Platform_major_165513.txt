@@ -1,0 +1,1 @@
+CVS "extssh:" crashes when using Java 1.5.06

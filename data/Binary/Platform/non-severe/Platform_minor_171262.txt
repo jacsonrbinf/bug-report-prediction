@@ -1,0 +1,1 @@
+[Dialogs] uncaught NPE in FilteredResourcesSelectionDialog

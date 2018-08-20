@@ -1,0 +1,1 @@
+[Contributions] ExecutionEvent/EvaluationContext has wrong selection for editors

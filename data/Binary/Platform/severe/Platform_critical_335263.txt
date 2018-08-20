@@ -1,0 +1,1 @@
+SWT.PASSWORD Allows Copy/Paste of Text Value

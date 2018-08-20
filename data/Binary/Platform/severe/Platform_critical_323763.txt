@@ -1,0 +1,1 @@
+Eclipse 3.7 M1 crashes as it is starting up - detected by Java Runtime Environment

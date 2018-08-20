@@ -1,0 +1,1 @@
+[a11y] Frequent crashes in editor resulting from atk_object_get_attributes()

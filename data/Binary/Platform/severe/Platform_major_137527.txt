@@ -1,0 +1,1 @@
+[PresentationAPI] (regression) Implementors of StackPresentation now must implement save/restore state methods

@@ -1,0 +1,1 @@
+subclipse crashes when in Helios, but works under Galileo when expanding a repository.

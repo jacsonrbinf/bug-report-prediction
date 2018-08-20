@@ -1,0 +1,1 @@
+[CommonNavigator] [navigator] Project explorer doesn't update tree

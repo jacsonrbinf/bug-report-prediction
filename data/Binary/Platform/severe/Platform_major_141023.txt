@@ -1,0 +1,1 @@
+Internal error due to NPE in createFolder while checking out. (CVS)

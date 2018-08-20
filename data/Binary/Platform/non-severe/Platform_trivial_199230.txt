@@ -1,0 +1,1 @@
+[find/replace] casing in Find/Replace dialog

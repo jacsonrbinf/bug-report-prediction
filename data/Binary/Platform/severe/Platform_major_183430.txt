@@ -1,0 +1,1 @@
+[DND] Drag and Drop between groups causes Eclipse thread to hang in COM.DoDragDrop() indefinitely.

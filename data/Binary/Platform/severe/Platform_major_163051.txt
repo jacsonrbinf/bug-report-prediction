@@ -1,0 +1,1 @@
+'Verify Patch' wizard page is hard to use

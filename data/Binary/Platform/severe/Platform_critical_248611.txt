@@ -1,0 +1,1 @@
+Error in consola: /programas/jdk1.6.0_05/bin/java: symbol lookup error: /programas/eclipse_3_2_2/configuration/org.eclipse.osgi/bundles/73/1/.cp/libswt-mozilla-gtk-3236.so: undefined symbol: _ZN4nsID5ParseEPKc

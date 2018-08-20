@@ -1,0 +1,1 @@
+Linux internal browser doesn't prompt for accept SSL certificate

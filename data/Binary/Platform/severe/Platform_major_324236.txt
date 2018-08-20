@@ -1,0 +1,1 @@
+[Browser-Mozilla] Links and JS actions opening a new window do not work

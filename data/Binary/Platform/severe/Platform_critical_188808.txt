@@ -1,0 +1,1 @@
+[Preferences] Workbench Preferences dialog cannot filter default preference page

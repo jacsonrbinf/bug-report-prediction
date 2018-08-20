@@ -1,0 +1,1 @@
+Submenu disappears when all shortcut categories are unchecked, and does not appear when some categories are checked again in Customize Perspective dialog

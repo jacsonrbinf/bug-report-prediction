@@ -1,0 +1,1 @@
+StyledText#setSelection() does not reveal caret with non-zero selection

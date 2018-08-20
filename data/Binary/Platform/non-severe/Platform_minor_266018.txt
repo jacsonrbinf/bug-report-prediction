@@ -1,0 +1,1 @@
+ColorsAndFontsPreferencePage should set widthHint in createDescriptionControl

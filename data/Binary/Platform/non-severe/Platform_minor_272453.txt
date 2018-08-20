@@ -1,0 +1,1 @@
+The text inside ToolItem vanishes if the text is longer than the length bounded by ToolBar

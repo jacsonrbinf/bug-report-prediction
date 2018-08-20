@@ -1,0 +1,1 @@
+Eclipse crash at quit when modal dialog opened

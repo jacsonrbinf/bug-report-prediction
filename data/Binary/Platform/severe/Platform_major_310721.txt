@@ -1,0 +1,1 @@
+[CommonNavigator] Custom tabbed property sheets non functional when using CN w/ view id different from project explorer

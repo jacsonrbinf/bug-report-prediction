@@ -1,0 +1,1 @@
+[Breakpoints] Breakpoint groups are not automatically expanded the first time the BP view is opened.

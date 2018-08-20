@@ -1,0 +1,1 @@
+[Dialogs] background on error tray dialog message not consistent

@@ -1,0 +1,1 @@
+[Webapp] Initial size of quick search dialog is not tall enough

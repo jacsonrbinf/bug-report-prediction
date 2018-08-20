@@ -1,0 +1,1 @@
+[Help] The Eclipse Help System can not start, if the JRE path contains Chinese Characters

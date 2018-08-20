@@ -1,0 +1,1 @@
+[Contributions] CoolBarManager needs to dispose the items' controls in dispose(CoolItem)

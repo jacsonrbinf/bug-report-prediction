@@ -1,0 +1,1 @@
+Button Find in the Find/Replace dialog doesn't trigger search function on left click.

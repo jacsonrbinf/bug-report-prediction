@@ -1,0 +1,1 @@
+[CommonNavigator] Project creation is not reflected in Project Explorer

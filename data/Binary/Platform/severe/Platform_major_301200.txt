@@ -1,0 +1,1 @@
+[SWT_AWT] opening a shell freezes the application

@@ -1,0 +1,1 @@
+[Contributions] Leakage: PluginActionContributionItem not being removed as activity manager listener

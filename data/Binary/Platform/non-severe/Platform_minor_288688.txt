@@ -1,0 +1,1 @@
+[P2] default update sites don't come up in read-only shared install

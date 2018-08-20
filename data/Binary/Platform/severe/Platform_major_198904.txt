@@ -1,0 +1,1 @@
+[DataBinding] Listeners in swt Observables are not removed on dispose

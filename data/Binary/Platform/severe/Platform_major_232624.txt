@@ -1,0 +1,1 @@
+eclipse.exe fails to load trying to load mylyn update when behind firewall

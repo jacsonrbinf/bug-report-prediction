@@ -1,0 +1,1 @@
+Error message of Invalid Java Version found 1.3 requires 1.4

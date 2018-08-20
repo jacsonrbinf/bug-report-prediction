@@ -1,0 +1,1 @@
+Configured variables do not get inserted in launch config dialog

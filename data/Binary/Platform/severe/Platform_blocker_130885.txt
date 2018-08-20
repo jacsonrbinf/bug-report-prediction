@@ -1,0 +1,1 @@
+All mouse or keyboard activity unavailable after text editor selection!

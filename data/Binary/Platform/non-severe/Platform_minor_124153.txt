@@ -1,0 +1,1 @@
+[implementation] Extra file system access in ResourceTextFileBuffer#commitFileBufferContent

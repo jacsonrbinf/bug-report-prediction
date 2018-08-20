@@ -1,0 +1,1 @@
+[Doc] Typo on "Comparing resources with repository versions" help page

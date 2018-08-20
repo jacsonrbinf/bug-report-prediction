@@ -1,0 +1,1 @@
+Startup plug-ins do not work in m5a

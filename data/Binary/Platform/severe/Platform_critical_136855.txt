@@ -1,0 +1,1 @@
+[IDE] Deadlock caused by IDEIdleHelper and HeapStatus calls to runFinalization from UI thread

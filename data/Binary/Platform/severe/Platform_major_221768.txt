@@ -1,0 +1,1 @@
+[Viewers] Fix for bug 210747 causes NPE when parent is TreePath.EMPTY

@@ -1,0 +1,1 @@
+[CommonNavigator] NPE opening .project file in Project Explorer with tests loaded

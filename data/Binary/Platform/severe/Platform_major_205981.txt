@@ -1,0 +1,1 @@
+[Dialogs] Setting a long task name in the ProgessMonitorDialog can take up to 1 min

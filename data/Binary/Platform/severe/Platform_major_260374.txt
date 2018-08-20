@@ -1,0 +1,1 @@
+Ctrl+S doesn't work in Java Compare when narrowed down to an element

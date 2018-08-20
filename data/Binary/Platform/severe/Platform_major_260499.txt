@@ -1,0 +1,1 @@
+Button highlighted is not the button activated on enter

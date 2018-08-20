@@ -1,0 +1,1 @@
+Doc logs not linked from build result page any more

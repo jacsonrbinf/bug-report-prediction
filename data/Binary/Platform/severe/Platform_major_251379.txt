@@ -1,0 +1,1 @@
+Truncated SWT table column headers.

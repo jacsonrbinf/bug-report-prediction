@@ -1,0 +1,1 @@
+NPE when trying to commit changes using integrated CVS

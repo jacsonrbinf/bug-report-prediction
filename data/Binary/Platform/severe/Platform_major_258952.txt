@@ -1,0 +1,1 @@
+[Decorators] "CoreException: Must specify a URI scheme:..." from LinkedResourceDecorator

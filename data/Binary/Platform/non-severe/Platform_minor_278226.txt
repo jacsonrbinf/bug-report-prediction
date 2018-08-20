@@ -1,0 +1,1 @@
+[Doc] Unify formatting in "Synchronizing with the repository" category

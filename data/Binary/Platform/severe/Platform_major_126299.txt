@@ -1,0 +1,1 @@
+After clearAll(), GTK virtual Tree forgets old TreeItem objects and creates new ones

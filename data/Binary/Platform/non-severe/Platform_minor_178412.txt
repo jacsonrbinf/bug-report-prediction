@@ -1,0 +1,1 @@
+[MPE] Find/Replace Dialog target is not updated when switching pages in a MultiPageEditor

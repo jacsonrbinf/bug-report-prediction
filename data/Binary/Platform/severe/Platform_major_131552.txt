@@ -1,0 +1,1 @@
+getActiveShell() behaviors in Win32 and GTK Linux

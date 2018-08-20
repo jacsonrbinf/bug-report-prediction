@@ -1,0 +1,1 @@
+SWT event loop doesn't dispatch Apple Event.

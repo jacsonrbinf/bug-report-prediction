@@ -1,0 +1,1 @@
+ftp links don't work on new download page

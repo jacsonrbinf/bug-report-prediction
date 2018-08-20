@@ -1,0 +1,1 @@
+[Help] Incompatibility between Eclipse Help Tomcat & TPTP Apache commons-logging

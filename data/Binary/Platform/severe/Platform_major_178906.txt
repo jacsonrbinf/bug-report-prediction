@@ -1,0 +1,1 @@
+Infinite error dialogs due to error closing error dialog

@@ -1,0 +1,1 @@
+[rulers] Line number ruler shows quickdiff hover when quickdiff is disabled

@@ -1,0 +1,1 @@
+Creating a new project outside of the workspace root causes a full refresh within the enclosing directory

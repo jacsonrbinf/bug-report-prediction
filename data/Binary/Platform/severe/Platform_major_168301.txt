@@ -1,0 +1,1 @@
+[ErrorHandling] JFace SafeRunnable should use new error handling

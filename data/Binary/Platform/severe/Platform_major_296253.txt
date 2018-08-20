@@ -1,0 +1,1 @@
+[CommonNavigator] An empty label is not properly shown when it is the only contributed label

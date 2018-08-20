@@ -1,0 +1,1 @@
+SWT_AWT bridge broken on Eclipse 3.3 on Mac OS X 10.5

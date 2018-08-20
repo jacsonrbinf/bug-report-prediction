@@ -1,0 +1,1 @@
+[Net] Eclipse Galileo crashes under Japanese version of Windows XP

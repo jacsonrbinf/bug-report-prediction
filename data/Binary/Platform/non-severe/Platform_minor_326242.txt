@@ -1,0 +1,1 @@
+[typing] Smart 'Home'/'End' key moves in wrong direction

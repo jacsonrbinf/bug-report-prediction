@@ -1,0 +1,1 @@
+View id for GenericHistoryView should be in IHisotoryView interface

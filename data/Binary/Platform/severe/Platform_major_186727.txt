@@ -1,0 +1,1 @@
+[ErrorHandling] NullPointerException when trying to show a Status with OK severity

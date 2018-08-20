@@ -1,0 +1,1 @@
+Show Annotation on old revision of .java file leaks CompilationUnitEditor

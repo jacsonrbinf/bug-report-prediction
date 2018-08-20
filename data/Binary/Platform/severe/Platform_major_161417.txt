@@ -1,0 +1,1 @@
+Variable Stack Trace does not display names

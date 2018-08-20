@@ -1,0 +1,1 @@
+Dynamic plugin install causes refresh and corrupt registry

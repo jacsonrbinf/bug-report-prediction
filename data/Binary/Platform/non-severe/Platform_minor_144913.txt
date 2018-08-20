@@ -1,0 +1,1 @@
+Accessibility: CTabFolder is misread by JAWS screen reader

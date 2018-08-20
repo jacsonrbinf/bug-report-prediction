@@ -1,0 +1,1 @@
+[Webapp] Search scope cookie file reaches max size quickly, limits creation of new scopes

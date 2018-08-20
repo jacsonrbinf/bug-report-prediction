@@ -1,0 +1,1 @@
+SWT.MouseWheel Javadoc should mention that it is for vertical wheel

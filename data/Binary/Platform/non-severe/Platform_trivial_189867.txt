@@ -1,0 +1,1 @@
+[Preferences] [preferences] Editors prefs page should have keywords 'restore' and 'state'

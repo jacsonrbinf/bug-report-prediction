@@ -1,0 +1,1 @@
+Copy / paste can make a duplicate file appear in the Project Explorer when there's really only 1 file

@@ -1,0 +1,1 @@
+[Help] Double clicking on the context help button tramples dialogs

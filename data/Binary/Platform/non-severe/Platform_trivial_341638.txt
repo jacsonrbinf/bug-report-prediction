@@ -1,0 +1,1 @@
+LaunchConfigurationsDialog#restoreExpansion() should not pass same element more than once

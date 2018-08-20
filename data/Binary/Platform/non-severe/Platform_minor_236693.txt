@@ -1,0 +1,1 @@
+(Vista) Navigation expansion icons don't immediately display for expanding subtree

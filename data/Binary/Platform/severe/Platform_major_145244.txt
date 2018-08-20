@@ -1,0 +1,1 @@
+Conflicting key accelerators in Sync/CVS popup menu

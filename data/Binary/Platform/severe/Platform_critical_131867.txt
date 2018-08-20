@@ -1,0 +1,1 @@
+Incorrect GC.fillPath() behavior

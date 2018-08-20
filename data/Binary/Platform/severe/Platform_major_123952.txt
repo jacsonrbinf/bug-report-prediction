@@ -1,0 +1,1 @@
+[Metadata] org.eclipse.ui.workbench build.properties broken

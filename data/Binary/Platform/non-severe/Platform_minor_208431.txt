@@ -1,0 +1,1 @@
+[launching] clicking checkbox twice disables OK button

@@ -1,0 +1,1 @@
+Deadlock when starting workbench with the debug view open

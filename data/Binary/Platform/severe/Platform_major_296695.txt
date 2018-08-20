@@ -1,0 +1,1 @@
+[Markers] Problems view does not update on selection change

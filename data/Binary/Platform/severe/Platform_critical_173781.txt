@@ -1,0 +1,1 @@
+MasterDetailsBlock doesn´t work with Spring Proxies

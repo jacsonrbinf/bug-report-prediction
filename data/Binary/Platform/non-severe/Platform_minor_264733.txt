@@ -1,0 +1,1 @@
+[Net] Network Connections Edit... dialog should assign focus

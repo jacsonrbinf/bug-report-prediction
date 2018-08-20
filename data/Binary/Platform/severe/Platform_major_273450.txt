@@ -1,0 +1,1 @@
+Wrong dialogs when closing Compare With Each Other... editor

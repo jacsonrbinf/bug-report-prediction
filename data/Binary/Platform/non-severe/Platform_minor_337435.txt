@@ -1,0 +1,1 @@
+Don't prompt user when clean editor is about to be brought back into sync

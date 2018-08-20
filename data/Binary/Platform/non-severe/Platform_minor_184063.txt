@@ -1,0 +1,1 @@
+Logitech Revolution mouse doesn't scroll down editor when in "free-spinning" mode

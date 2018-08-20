@@ -1,0 +1,1 @@
+[Help] 3.2 M5: Cannot view help: The embedded application server could not run help web application.

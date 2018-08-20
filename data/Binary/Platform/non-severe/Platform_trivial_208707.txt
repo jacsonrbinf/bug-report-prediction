@@ -1,0 +1,1 @@
+(Console) Remove binding for show console view with CTRL+ALT+Q

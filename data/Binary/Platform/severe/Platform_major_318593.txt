@@ -1,0 +1,1 @@
+Select Variable dialog goes in wait  when clicking on the 'Edit Variables' button in the Select Variable dialog from Preferences

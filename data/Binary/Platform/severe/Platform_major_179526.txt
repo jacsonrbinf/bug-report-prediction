@@ -1,0 +1,1 @@
+BIDI3.3:HCG_LRM chars are copied to clipboard in fields in which file path complex expr. problem was resolved

@@ -1,0 +1,1 @@
+[Sync View] Escape & in change set names when shown in context menu

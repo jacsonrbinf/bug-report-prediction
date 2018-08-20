@@ -1,0 +1,1 @@
+[KeyBindings] Unicode keyboards on Mac OSX produce wrong keys when used with modifiers

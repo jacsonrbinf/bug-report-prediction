@@ -1,0 +1,1 @@
+[Menus] popupMenus.exsd schema incorrectly does not allow eclipse core expressions

@@ -1,0 +1,1 @@
+Mac Toolbar not following focus of Eclipse in OSX 10.5 build 9A410

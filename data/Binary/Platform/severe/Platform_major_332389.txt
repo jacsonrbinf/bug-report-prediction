@@ -1,0 +1,1 @@
+Invalid memory access when using the new shell.getToolBar()

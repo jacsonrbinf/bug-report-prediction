@@ -1,0 +1,1 @@
+[CommonNavigator, Saveables] Common Navigator's saveables framework does not work in Java projects

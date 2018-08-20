@@ -1,0 +1,1 @@
+[GTK] Cannot enable/disable breakpoint by clicking checkbox

@@ -1,0 +1,1 @@
+editor crash with IBM JDK on linux PPC

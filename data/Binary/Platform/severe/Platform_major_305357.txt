@@ -1,0 +1,1 @@
+[CommonNavigator] Java Resources node missing its label in Project Explorer

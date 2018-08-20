@@ -1,0 +1,1 @@
+CoolBars are invisible in the UI on SLES 10

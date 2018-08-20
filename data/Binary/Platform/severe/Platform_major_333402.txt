@@ -1,0 +1,1 @@
+Tried to install the SVN as the plug-in for the rcp galelio 3.6.0

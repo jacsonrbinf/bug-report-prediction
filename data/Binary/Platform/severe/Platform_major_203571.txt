@@ -1,0 +1,1 @@
+Key event still gets response when ModalDialog is up

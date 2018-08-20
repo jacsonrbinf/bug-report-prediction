@@ -1,0 +1,1 @@
+Debug view should not scroll to right when breakpoint is hit

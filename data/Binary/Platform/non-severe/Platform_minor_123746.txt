@@ -1,0 +1,1 @@
+ANT launch history cannot be managed from within IDE

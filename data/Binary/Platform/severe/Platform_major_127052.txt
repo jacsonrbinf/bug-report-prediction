@@ -1,0 +1,1 @@
+"Convert text files to use platform line ending" should be disabled by default

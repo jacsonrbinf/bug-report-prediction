@@ -1,0 +1,1 @@
+Space missing after colon characters in feature property's panel

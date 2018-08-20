@@ -1,0 +1,1 @@
+Eclipse failed to load the higher version of plugin when plugin version contains 4 digits

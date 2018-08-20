@@ -1,0 +1,1 @@
+[Browser] Browser.addHelpListener does not work on SLED10 Linux when pressed F1 or Ctrl + F1

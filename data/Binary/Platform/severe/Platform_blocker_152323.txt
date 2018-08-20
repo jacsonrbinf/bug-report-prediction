@@ -1,0 +1,1 @@
+JVM Terminates Exit Code = 160 on key press in JDT Editor

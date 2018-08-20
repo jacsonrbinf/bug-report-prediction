@@ -1,0 +1,1 @@
+Ant build from within Eclipse uses the Eclipse home directory instead of project directory as a base

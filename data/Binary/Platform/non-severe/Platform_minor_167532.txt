@@ -1,0 +1,1 @@
+[Webapp] CS help opened from infopop displays "nothing found" in links view

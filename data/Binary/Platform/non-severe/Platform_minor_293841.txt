@@ -1,0 +1,1 @@
+[FieldAssist] NumLock keyDown event should not close the proposal popup [with patch]

@@ -1,0 +1,1 @@
+The IDE crashes when I have errors in my java code

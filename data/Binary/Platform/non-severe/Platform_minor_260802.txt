@@ -1,0 +1,1 @@
+Retargetable debug actions do not enable when an adapter is first loaded.

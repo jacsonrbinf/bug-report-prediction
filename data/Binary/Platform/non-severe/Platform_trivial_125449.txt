@@ -1,0 +1,1 @@
+[javadoc] Add @since 3.2 to AbstractLineTracker

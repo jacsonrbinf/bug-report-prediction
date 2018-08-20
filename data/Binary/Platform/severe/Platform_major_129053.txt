@@ -1,0 +1,1 @@
+problem described in Bug 51252 still not fixed after apply the suggested solution

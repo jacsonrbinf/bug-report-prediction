@@ -1,0 +1,1 @@
+[Views] ClassCastException when platform cast from ResourceSorter to ResourceComparator. 3.2 to 3.3 upward compatability issue.

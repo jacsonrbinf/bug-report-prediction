@@ -1,0 +1,1 @@
+Regression on SWT Cocoa Table header between 3.6M4 and 3.6M5

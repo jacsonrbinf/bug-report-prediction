@@ -1,0 +1,1 @@
+Provider name and fragment name are placeholders in org.eclipse.core.net.win32.x86

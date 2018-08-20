@@ -1,0 +1,1 @@
+[Viewers] [JFace] AbstractTreeViewer inputChanged setRedraw should be in try/finally

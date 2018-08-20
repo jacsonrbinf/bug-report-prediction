@@ -1,0 +1,1 @@
+[Filters] NPE importing a project with a resource filter on Linux

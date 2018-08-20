@@ -1,0 +1,1 @@
+Can't start up Eclipse 3.2 on Windows XP

@@ -1,0 +1,1 @@
+[Help][Search] Search does not get indexed on hpux

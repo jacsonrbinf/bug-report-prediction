@@ -1,0 +1,1 @@
+Eclipse Crashes under Leopard when Open Resource or Organize Imports Dialog Makes Selection

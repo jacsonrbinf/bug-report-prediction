@@ -1,0 +1,1 @@
+[Common Navigator] Working set menu items missing from Project Explorer

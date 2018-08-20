@@ -1,0 +1,1 @@
+BlockSelection: copying block only fills with spaces when folding enabled

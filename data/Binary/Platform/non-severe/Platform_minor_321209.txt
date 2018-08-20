@@ -1,0 +1,1 @@
+[DataBinding]  [JFace] setting ObservableListContentProvider on ComboViewer twice throws NPE

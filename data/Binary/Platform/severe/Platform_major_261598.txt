@@ -1,0 +1,1 @@
+Eclipse 3.5M4 on OS X: Keyboard shortcuts for refactorings do not work

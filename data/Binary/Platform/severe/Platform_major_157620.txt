@@ -1,0 +1,1 @@
+Unable to open existing Perl files (*.pl) with the editor, but can create new Perl files ok.

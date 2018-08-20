@@ -1,0 +1,1 @@
+[Browser, Mac, 3.4] Doesn't open local URLs (file:///) that contain query parameters and/or that are URL encoded.

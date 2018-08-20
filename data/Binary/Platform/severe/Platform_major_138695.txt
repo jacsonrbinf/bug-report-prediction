@@ -1,0 +1,1 @@
+[Jobs] UI jobs with "serial" scheduling rule creates many threads

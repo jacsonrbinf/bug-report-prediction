@@ -1,0 +1,1 @@
+[Widgets] file search history and regexp code assistance scroll BOTH using cursor up/down keys (page up/down resp.)

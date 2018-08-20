@@ -1,0 +1,1 @@
+[Doc] In the "Platform Plug-in Developer Guide" under "Help system customization": remoteHostName preference key should be remoteHelpName

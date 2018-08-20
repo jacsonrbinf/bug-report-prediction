@@ -1,0 +1,1 @@
+[Tests] FileDiffResultTest#.getStringFromStream should use Utilities.readString

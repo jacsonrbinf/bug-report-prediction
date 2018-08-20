@@ -1,0 +1,1 @@
+[Forms] Widget is disposed exception caused by FormToolkit$KeyboardHandler.keyPressed(FormToolki t.java:179)

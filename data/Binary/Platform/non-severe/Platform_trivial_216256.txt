@@ -1,0 +1,1 @@
+[Decorators] CVS label decorator is adding space to folders

@@ -1,0 +1,1 @@
+Long delay on package explorer selection changes in large workspace

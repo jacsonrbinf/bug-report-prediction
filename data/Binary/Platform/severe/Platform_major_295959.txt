@@ -1,0 +1,1 @@
+[Widgets] Embedded native view can not receive Enter key event on Mac.

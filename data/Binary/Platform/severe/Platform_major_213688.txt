@@ -1,0 +1,1 @@
+Eclipse not working with perforce plugin on ubuntu

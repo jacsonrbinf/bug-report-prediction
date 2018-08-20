@@ -1,0 +1,1 @@
+[Preferences] Other encoding drop down not disabled on spelling page

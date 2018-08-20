@@ -1,0 +1,1 @@
+[Help] Help makes first user experience bad by assembling TOC on UI thread

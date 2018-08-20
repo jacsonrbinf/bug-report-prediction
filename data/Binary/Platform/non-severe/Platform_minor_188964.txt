@@ -1,0 +1,1 @@
+[CommonNavigator] Project explorer w/link to editor has unexpected selection behavior

@@ -1,0 +1,1 @@
+[Preferences] String Substitution lost after import and restart

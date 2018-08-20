@@ -1,0 +1,1 @@
+[PropertiesView] Blank display when maximize Properties view for a resource in a different view

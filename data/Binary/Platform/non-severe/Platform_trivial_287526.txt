@@ -1,0 +1,1 @@
+AbstractResourceMappingScope doesn't need to explicitly implement ISynchronizationScope

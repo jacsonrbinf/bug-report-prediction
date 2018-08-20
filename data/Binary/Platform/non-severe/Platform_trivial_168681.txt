@@ -1,0 +1,1 @@
+[Encoding] Externalized error message in WorkbenchEncoding

@@ -1,0 +1,1 @@
+X Window System error on Solaris GTK

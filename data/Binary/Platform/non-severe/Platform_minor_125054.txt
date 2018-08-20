@@ -1,0 +1,1 @@
+FIlter menu mnuemonic should be letters not numbers

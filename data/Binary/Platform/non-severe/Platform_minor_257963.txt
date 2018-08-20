@@ -1,0 +1,1 @@
+[Accessibility] Screen reader can't read SWT Table content

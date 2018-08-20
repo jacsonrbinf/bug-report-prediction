@@ -1,0 +1,1 @@
+progress view crashes in milestone 7 if it is open und work starts

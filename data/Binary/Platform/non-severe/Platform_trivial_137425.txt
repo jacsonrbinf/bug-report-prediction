@@ -1,0 +1,1 @@
+[DataBinding] ValidationError javadoc makes references to ValidationResult

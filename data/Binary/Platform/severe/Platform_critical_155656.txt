@@ -1,0 +1,1 @@
+ecplipse won't start inside folders with names that contain "!"

@@ -1,0 +1,1 @@
+Crash with "Fatal relocation error file ...jre/plugin/sparc/ns7/libjavaplugin_oji.so" when try to set "Preferences - Web Browser"

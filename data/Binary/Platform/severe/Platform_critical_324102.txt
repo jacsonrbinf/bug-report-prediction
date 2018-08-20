@@ -1,0 +1,1 @@
+Backspace key, delete key and tab stop working when my application is minimized

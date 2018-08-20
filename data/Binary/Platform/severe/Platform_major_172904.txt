@@ -1,0 +1,1 @@
+[GlobalActions] "Paste" won't overwrite files

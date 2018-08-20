@@ -1,0 +1,1 @@
+Hot key [F6] became not "hot" at step-by-step debug

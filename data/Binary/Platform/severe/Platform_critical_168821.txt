@@ -1,0 +1,1 @@
+Eclipse will crash with message "Widget is disposed".

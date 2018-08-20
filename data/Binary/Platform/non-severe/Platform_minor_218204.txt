@@ -1,0 +1,1 @@
+Pressing enter in comment block when text selected gives wrong result

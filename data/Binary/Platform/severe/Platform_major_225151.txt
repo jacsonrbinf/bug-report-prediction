@@ -1,0 +1,1 @@
+GTK MenuItem Accelerator Consuming Characters (SWT.COMMAND)

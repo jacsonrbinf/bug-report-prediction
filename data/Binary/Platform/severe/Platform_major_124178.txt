@@ -1,0 +1,1 @@
+[WorkbenchParts] (serviceability) Workbench fails to restart if part throws an Error during createPartControl

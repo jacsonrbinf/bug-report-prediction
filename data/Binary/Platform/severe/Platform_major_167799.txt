@@ -1,0 +1,1 @@
+SWT DirectoryChooser causes eclipse to freeze.

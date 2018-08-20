@@ -1,0 +1,1 @@
+Use lowercase 'w' in 'Link with Editor'

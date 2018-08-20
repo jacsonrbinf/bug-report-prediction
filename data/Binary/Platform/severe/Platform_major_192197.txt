@@ -1,0 +1,1 @@
+[Commands] Command Handler not getting set properly when switch from new workbench window

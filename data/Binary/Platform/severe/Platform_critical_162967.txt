@@ -1,0 +1,1 @@
+Last element of a tree doesn't expand on double-click

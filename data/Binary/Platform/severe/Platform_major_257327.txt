@@ -1,0 +1,1 @@
+[Forms] ExpandableComposite's ExpandableLayout leaks GC

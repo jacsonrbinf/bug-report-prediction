@@ -1,0 +1,1 @@
+[Help] The eclipse help (infocenter) could not be launched by start script on AIX without GUI

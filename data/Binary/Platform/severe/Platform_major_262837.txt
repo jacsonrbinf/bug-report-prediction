@@ -1,0 +1,1 @@
+No more handle exception when working in Debug Perspective

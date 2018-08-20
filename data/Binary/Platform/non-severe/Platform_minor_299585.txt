@@ -1,0 +1,1 @@
+[KeyBindings] KeyAssistDialog should start with row 0 selected (especially useful in keybinding conflicts)

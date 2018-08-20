@@ -1,0 +1,1 @@
+New  text search: 'Copy to Clipboard' has random order

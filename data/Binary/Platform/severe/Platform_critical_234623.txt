@@ -1,0 +1,1 @@
+[relengtool] Fix Copyright... action deletes non-IBM copyright owner

@@ -1,0 +1,1 @@
+Sometime crashes the eclipse UI with an X Window System error.

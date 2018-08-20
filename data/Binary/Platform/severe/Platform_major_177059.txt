@@ -1,0 +1,1 @@
+Accessibility:The content is truncated on plug-in install verification dialog with high contrast

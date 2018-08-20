@@ -1,0 +1,1 @@
+'Enclosing Project' search broken (only uses editor input)

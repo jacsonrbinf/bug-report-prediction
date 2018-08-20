@@ -1,0 +1,1 @@
+[64] File > New > Project is broken on WinXP _64 platform

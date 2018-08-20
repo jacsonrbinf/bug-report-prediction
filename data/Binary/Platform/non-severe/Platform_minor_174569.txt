@@ -1,0 +1,1 @@
+Baseline for new Search field text doesn't match Mac platform

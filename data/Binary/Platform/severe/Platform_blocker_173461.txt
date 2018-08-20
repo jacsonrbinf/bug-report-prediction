@@ -1,0 +1,1 @@
+Eclipse is no longer able to restore a workspace which was saved with several windows opened

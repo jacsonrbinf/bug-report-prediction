@@ -1,0 +1,1 @@
+[Preferences] org.eclipse.jface.preference.FileFieldEditor shows "Value must be an existing file" when selecting an application

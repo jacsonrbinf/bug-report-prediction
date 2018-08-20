@@ -1,0 +1,1 @@
+TableWrapData does not have exclude capability and TableWraplayout is not removing the white space when an object is setvisible(false)

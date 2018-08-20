@@ -1,0 +1,1 @@
+When editing a java file and trying to do a type-ahead, eclipse crashes. (Ubuntu 10.04)

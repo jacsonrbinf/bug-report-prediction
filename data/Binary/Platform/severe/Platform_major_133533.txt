@@ -1,0 +1,1 @@
+[JFace] Animated warning in new class wizard moves away but never reveals message text

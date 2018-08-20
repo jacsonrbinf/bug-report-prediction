@@ -1,0 +1,1 @@
+conflicting dependencies between jdt.ui and eclipse.platform due to wrong tag

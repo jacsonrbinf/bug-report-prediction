@@ -1,0 +1,1 @@
+[Doc] In "CVS History view" page "Open with" description is missing

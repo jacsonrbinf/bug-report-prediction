@@ -1,0 +1,1 @@
+WorkbenchThemeManager is overriding theme set in plugin_customization.ini

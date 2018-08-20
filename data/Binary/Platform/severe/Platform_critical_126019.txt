@@ -1,0 +1,1 @@
+Internal Web Browser takes down entire machine maxing memory and swap

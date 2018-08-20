@@ -1,0 +1,1 @@
+Deleting resources containing linked resources deletes linked targets

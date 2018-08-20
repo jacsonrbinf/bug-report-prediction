@@ -1,0 +1,1 @@
+[JFace] Window javadoc hints at overriding createShell() when this is not possible

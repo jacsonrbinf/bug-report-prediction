@@ -1,0 +1,1 @@
+[typing] Shifting text moves caret to end of selection

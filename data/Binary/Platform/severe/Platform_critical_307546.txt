@@ -1,0 +1,1 @@
+The method itemHeight() is undefined for the type NSComboBox

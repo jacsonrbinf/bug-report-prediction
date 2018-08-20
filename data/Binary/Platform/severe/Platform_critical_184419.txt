@@ -1,0 +1,1 @@
+Button.setSelected(boolean value) doesn't  honour ButtonGroup

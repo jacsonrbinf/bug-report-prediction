@@ -1,0 +1,1 @@
+StyledText with SWT.WRAP flag does not shape arabic letters

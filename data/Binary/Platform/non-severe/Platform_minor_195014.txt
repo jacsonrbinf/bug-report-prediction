@@ -1,0 +1,1 @@
+[Forms] focus ring for twistie in preferences obscures text

@@ -1,0 +1,1 @@
+Import wizard for existing projects should have an option to scan below folders with .project

@@ -1,0 +1,1 @@
+Recycling Transform when drawing paths on GC leads to inconsistencies.

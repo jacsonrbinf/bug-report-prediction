@@ -1,0 +1,1 @@
+provide uninstall feature from menu additionally to disable

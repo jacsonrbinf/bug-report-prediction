@@ -1,0 +1,1 @@
+Tree.setRedraw(true) doesn't redraw

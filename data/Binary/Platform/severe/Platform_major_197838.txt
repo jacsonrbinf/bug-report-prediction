@@ -1,0 +1,1 @@
+[Forms] ExpandableComposite increases Browser client's size increase on a re-layout

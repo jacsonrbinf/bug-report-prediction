@@ -1,0 +1,1 @@
+InternalBuilder should initialize static buildManager in ctor

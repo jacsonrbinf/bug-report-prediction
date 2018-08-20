@@ -1,0 +1,1 @@
+Shell.computeTrim() returns a wrong result.

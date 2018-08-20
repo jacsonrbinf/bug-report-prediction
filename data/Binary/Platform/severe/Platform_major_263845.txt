@@ -1,0 +1,1 @@
+[CommonNavigator] Drag/drop folder from non-Java Proj to Java Proj does copy instead of move sometimes

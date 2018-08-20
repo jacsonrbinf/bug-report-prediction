@@ -1,0 +1,1 @@
+[WorkbenchLauncher] SWTException: Invalid thread access when launching workspace with >1 window

@@ -1,0 +1,1 @@
+org.eclipse.swt.browser.Browser.MozillaDelegate.findBrowser() should not arbitraryly cascade Widget to Browser

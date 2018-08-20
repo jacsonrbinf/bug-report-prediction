@@ -1,0 +1,1 @@
+Painting / repainting issues in SWT development version 32-3302

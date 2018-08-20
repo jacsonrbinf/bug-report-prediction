@@ -1,0 +1,1 @@
+[Forms] Key binding actions should not go to the editor while header has focus

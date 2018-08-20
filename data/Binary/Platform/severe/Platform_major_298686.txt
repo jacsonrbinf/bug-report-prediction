@@ -1,0 +1,1 @@
+"Install new software" doesn't show text (invisible text)

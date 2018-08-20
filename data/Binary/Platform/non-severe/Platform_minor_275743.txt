@@ -1,0 +1,1 @@
+[About] [doc] Doc Only - installationPages schema file has extra colon

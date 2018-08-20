@@ -1,0 +1,1 @@
+Attempt to run Eclipse update causes "Cannot complete the install because of a conflicting dependency" error

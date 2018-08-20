@@ -1,0 +1,1 @@
+Java project with an external jar file from C:\ on the build path throws a NPE during the Ant Buildfile generation.

@@ -1,0 +1,1 @@
+Go to next (Ctrl+.) keybinding not working in search view

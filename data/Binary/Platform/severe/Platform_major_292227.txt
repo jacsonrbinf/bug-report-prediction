@@ -1,0 +1,1 @@
+plug window lost focus when create a NO_FOCUS shell from socket

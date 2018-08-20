@@ -1,0 +1,1 @@
+widget disposed error in AsynchronousTreeNavigationModel.getText

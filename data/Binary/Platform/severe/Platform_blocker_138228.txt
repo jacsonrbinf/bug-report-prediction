@@ -1,0 +1,1 @@
+Help -> Software Updates -> Find and Install... broken

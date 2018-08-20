@@ -1,0 +1,1 @@
+Eclipse 3.2 crashes on simple mouse move with SWT / Native Exception

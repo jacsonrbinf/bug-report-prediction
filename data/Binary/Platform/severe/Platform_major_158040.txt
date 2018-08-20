@@ -1,0 +1,1 @@
+update from CVS can't synchronizing or updating after upgrading to 3.2

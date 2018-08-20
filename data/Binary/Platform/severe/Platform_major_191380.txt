@@ -1,0 +1,1 @@
+[FieldAssist] [Preferences] TVT33:TCT639: pl: truncation of tooltip in Non Proxy host names

@@ -1,0 +1,1 @@
+[Wizards] WizardDialog behavior in 3.6 is not backward compatible to 3.2

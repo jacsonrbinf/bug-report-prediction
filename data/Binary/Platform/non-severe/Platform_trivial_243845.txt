@@ -1,0 +1,1 @@
+API Tooling tags for org.eclipse.compare.patch.* in org.eclipse.compare.core

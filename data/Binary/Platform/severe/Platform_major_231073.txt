@@ -1,0 +1,1 @@
+Fix for bug 185773 breaks binary compatibility

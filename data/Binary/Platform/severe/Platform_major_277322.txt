@@ -1,0 +1,1 @@
+[Browser] SWT browser does not refresh and does not go beyond BeforeNavigate2 event

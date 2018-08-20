@@ -1,0 +1,1 @@
+Extreme performance degradation in TextLayout.shape()

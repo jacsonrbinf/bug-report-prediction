@@ -1,0 +1,1 @@
+[navigation] Double click word in editor selects word differently depending on whether it is comment or not

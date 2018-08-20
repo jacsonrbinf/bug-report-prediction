@@ -1,0 +1,1 @@
+[Wizards] Two error messages interact in two different wizards

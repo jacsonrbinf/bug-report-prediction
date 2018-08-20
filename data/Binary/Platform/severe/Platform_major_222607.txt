@@ -1,0 +1,1 @@
+StyledText show sometimes error when we open a editor based in StyledText

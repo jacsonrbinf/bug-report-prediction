@@ -1,0 +1,1 @@
+StyledText: embedded objects don't work with all fonts

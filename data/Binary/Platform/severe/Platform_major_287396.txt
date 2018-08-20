@@ -1,0 +1,1 @@
+[CommonNavigator] Pipeline interceptAdd may register wrong contributor

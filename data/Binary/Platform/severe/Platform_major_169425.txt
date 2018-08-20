@@ -1,0 +1,1 @@
+[Examples] Text Selection is not correct in XML Compare plugin.

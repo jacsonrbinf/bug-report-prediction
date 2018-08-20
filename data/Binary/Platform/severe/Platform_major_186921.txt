@@ -1,0 +1,1 @@
+TVT33:TCT170: zh_TW:the mnemonic should be either removed or placed in the end

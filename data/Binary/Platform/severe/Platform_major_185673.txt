@@ -1,0 +1,1 @@
+[Viewers] Mac only: In variables and expressions views, up/down keyboard navigation doesn't work correctly

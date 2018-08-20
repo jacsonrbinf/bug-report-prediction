@@ -1,0 +1,1 @@
+whole OS freezes when tree using owner draw renders BORDER_DOT rectangle around long line

@@ -1,0 +1,1 @@
+Eclipse crashes whenever "web browser" is selected

@@ -1,0 +1,1 @@
+Debug plugins seems to be leaking Threads (via TimerThread)

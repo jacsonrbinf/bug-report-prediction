@@ -1,0 +1,1 @@
+[About] About dialog scrollbar does not operate correctly

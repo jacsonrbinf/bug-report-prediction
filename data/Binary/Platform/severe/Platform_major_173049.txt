@@ -1,0 +1,1 @@
+[ErrorHandling] multiple stacked "Internal error" dialogs after OutOfMemoryError

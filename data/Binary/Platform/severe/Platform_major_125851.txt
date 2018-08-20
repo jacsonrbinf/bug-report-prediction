@@ -1,0 +1,1 @@
+Commit on package-level does not find contained changed files

@@ -1,0 +1,1 @@
+CompareConfiguration uses ListenerList that has been removed

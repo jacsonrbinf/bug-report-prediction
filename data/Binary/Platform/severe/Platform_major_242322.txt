@@ -1,0 +1,1 @@
+"Find and Install" dialog does not appear when selected from menu; attempts to select it again result in error message

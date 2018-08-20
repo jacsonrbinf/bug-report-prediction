@@ -1,0 +1,1 @@
+Eclipse 3.4RC4 crashes on OS X

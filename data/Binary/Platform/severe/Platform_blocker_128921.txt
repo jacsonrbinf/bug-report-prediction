@@ -1,0 +1,1 @@
+core.runtime.compatibility(.registry) at BSD

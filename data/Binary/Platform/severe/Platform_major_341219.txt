@@ -1,0 +1,1 @@
+[MPE] MultiPageEditorSite may not end up forwarding post selection events

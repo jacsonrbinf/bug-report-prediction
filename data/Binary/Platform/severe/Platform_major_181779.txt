@@ -1,0 +1,1 @@
+Search not finding java files after they have been committed to cvs

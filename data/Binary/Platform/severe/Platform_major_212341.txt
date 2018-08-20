@@ -1,0 +1,1 @@
+[Markers] 'Marker id 2 not found' in log after Select All in Java Editor with warnings

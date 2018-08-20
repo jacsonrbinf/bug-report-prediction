@@ -1,0 +1,1 @@
+[Forms] ScrolledPageContent.dispose never called

@@ -1,0 +1,1 @@
+[ActivityMgmt] New > Example... wizard does not respect Capability enablement

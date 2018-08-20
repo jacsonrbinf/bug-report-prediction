@@ -1,0 +1,1 @@
+Eclipse ganymede doesn't start on Ubuntu 7.10

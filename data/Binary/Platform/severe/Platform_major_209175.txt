@@ -1,0 +1,1 @@
+Linked resources are not managed correctly within folders

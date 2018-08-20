@@ -1,0 +1,1 @@
+Bundle classloader does not find Inner classes

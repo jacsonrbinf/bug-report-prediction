@@ -1,0 +1,1 @@
+SWTException: Failed to execute runnable (IllegalArgumentException: Index out of bounds)

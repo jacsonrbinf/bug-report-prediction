@@ -1,0 +1,1 @@
+Eclipse hangs when trying to open any editor

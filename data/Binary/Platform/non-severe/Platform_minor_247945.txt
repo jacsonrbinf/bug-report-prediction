@@ -1,0 +1,1 @@
+[WorkbenchParts] IWorkbenchPartReference's getPart(boolean) method refers to editors

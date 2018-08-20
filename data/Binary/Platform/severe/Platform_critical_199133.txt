@@ -1,0 +1,1 @@
+Combo#cut() does not place deleted text to clipboard

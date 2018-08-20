@@ -1,0 +1,1 @@
+[results] 3.6 performance results generation is broken

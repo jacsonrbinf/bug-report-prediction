@@ -1,0 +1,1 @@
+On SLED10, context menu does not display on a popup shell with SWT.ON_TOP style bit

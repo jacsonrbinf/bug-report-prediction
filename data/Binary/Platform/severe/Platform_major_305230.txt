@@ -1,0 +1,1 @@
+Browser should specify encoding of LocationEvent#location and align implementations

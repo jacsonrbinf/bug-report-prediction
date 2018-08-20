@@ -1,0 +1,1 @@
+Using 0424-0010, I got org.eclipse.core.commands.common.NotDefinedException

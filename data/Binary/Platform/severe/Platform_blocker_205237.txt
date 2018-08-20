@@ -1,0 +1,1 @@
+Very Poor Performance (1'15'') opening a simple .java file

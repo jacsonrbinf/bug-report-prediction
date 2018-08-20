@@ -1,0 +1,1 @@
+[Patch] Enablement of "OK" button on the Save Patch dialog

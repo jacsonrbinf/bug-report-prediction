@@ -1,0 +1,1 @@
+FileSystemResourceManager throws NPE looking up a URI

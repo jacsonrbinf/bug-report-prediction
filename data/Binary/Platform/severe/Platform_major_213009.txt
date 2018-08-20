@@ -1,0 +1,1 @@
+eclipse crashes on mac os 10.5 (leopard) when using arrow-keys in open resource dialog

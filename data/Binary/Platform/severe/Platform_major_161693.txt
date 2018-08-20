@@ -1,0 +1,1 @@
+[Contributions] Cannot show the items defined in "contributeToCoolBar" function of the ActionBarContributor

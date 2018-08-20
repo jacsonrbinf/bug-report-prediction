@@ -1,0 +1,1 @@
+[europa] Select Required won't cross update site boundaries unless they're first expanded

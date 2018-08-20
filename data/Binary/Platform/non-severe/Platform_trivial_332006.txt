@@ -1,0 +1,1 @@
+[Tests] AllCoreTests have been "temporarily" disabled on Windows in 2008

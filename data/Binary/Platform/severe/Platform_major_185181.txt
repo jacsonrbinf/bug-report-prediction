@@ -1,0 +1,1 @@
+[CommonNavigator] NPE from Customize View of Project Explorer

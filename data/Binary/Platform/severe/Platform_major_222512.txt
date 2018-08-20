@@ -1,0 +1,1 @@
+[EditorMgmt] stack overflow opening Snippet editor

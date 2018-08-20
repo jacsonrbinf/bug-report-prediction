@@ -1,0 +1,1 @@
+[CommonNavigator] contentServiceLabelProvider doesn't properly implement overrides

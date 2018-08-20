@@ -1,0 +1,1 @@
+[Clipboard] Copy/Paste intermittently doesn't work for a line of text

@@ -1,0 +1,1 @@
+[Markers] Problems view grouping is sorted by severity

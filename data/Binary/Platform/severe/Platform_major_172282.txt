@@ -1,0 +1,1 @@
+[DND] Viewer containing a swing JTable cannot be draggable

@@ -1,0 +1,1 @@
+try to launch RCP app exported as Deployed Feature with JNLP/Webstart options leads to an NPE in WebStartMain

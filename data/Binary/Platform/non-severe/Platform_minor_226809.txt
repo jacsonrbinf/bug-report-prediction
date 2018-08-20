@@ -1,0 +1,1 @@
+[ActivityMgmt] Forbid to add activities to the enabled list which are originally disabled

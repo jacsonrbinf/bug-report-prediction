@@ -1,0 +1,1 @@
+[Browser] Refresh of PDF in SWT browser leads to jvm crash

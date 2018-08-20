@@ -1,0 +1,1 @@
+[JFace] jface.util.ListenerList deprecation message should tell difference in ListenerList(int)

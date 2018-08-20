@@ -1,0 +1,1 @@
+[javadoc] IFileBufferManager should specify that null is OK for progress monitors

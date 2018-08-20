@@ -1,0 +1,1 @@
+[doc] Javadoc of ILaunchesListener should link to ILaunchListener

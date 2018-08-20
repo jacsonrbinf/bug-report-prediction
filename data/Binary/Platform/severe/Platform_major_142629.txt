@@ -1,0 +1,1 @@
+crash - XtOpenDisplay - Eclipse core dumps on exit

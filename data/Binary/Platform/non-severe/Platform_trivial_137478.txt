@@ -1,0 +1,1 @@
+[Preferences] ProjectReferencePage has too wide left margin

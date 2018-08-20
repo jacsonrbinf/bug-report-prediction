@@ -1,0 +1,1 @@
+[Proxy] Make verification tags in ProxyType final

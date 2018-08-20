@@ -1,0 +1,1 @@
+[EditorMgmt] NPE upon save all

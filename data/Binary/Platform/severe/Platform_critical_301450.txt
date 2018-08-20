@@ -1,0 +1,1 @@
+Eclipse crashes frequently when content assist window pops up

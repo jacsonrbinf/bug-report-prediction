@@ -1,0 +1,1 @@
+[Themes] Font setting changes don't take effect until restart

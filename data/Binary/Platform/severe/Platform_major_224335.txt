@@ -1,0 +1,1 @@
+[MPE] MultiPageEditorPart.dispose() not calling super.dispose()

@@ -1,0 +1,1 @@
+"open declaration/include": no checkboxes and local occurences on top

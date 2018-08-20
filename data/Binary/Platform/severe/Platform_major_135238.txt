@@ -1,0 +1,1 @@
+3.2M6 regression, pressing enter inside VM arguments SWT Text widget does is handled by parent container

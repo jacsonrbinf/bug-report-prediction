@@ -1,0 +1,1 @@
+Regular expressions in find replace and help windows.

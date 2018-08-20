@@ -1,0 +1,1 @@
+[CheatSheet] Provide same treatment for Go To sections in Search and Cheatsheet views

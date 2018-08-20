@@ -1,0 +1,1 @@
+project suddenly died with "Local configuration cannot be nested in a directory." for no apparent reason, and cant get it working

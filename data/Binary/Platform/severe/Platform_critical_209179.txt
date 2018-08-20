@@ -1,0 +1,1 @@
+Eclipse consistantly crashes on Mac OS 10.5 (Leopard)

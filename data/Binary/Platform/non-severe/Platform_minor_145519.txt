@@ -1,0 +1,1 @@
+[Forms] NullPointerException may be raised with FormToolkit.adapt(Composite)

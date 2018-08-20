@@ -1,0 +1,1 @@
+clicking OS locale window crashes on Solaris-x86

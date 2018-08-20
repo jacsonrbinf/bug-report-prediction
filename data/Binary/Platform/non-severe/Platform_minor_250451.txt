@@ -1,0 +1,1 @@
+[Sync View] double clicking in the synchronize view activates editor instead of compare editor when history view is in 'Link with Editor' mode

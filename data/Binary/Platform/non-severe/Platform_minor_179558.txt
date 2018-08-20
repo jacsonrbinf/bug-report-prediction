@@ -1,0 +1,1 @@
+[console] Preferences... action should use the new SWTFactory

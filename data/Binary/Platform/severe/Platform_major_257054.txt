@@ -1,0 +1,1 @@
+Eclipse with xulrunner 1.9 gives segmentation fault.

@@ -1,0 +1,1 @@
+(regression) No longer able to apply patch from the clipboard

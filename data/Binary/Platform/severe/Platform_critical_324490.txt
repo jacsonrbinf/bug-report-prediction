@@ -1,0 +1,1 @@
+SEGFAULT crash in glibobject library g_object_remove_weak_pointer

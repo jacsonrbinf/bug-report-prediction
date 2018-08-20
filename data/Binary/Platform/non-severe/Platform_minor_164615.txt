@@ -1,0 +1,1 @@
+[JFace] ToolTip should respect Display.boundaries

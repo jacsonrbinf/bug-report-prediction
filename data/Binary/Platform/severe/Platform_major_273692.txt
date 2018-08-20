@@ -1,0 +1,1 @@
+Application with SWT, xulrunner and javaxpcom hangs / crashes

@@ -1,0 +1,1 @@
+[Wizards] New Project Wizard has colliding mnemonics

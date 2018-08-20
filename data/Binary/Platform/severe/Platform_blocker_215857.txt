@@ -1,0 +1,1 @@
+[Intro] Eclipse does not work in KDE 4

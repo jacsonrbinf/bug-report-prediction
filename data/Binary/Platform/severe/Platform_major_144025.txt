@@ -1,0 +1,1 @@
+Cheat sheet blocking context help viewer from "reveal"

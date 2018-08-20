@@ -1,0 +1,1 @@
+[Themes] Themes not applied on restart

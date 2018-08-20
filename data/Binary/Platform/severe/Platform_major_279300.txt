@@ -1,0 +1,1 @@
+SIGBUS terminates eclipse initializing JGit workspace

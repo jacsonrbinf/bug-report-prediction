@@ -1,0 +1,1 @@
+GB180303.4: Some 4-bytes GB18030 characters can't be displayed in Package Explore view.

@@ -1,0 +1,1 @@
+Issues with transparent images when advanced graphics is on

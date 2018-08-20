@@ -1,0 +1,1 @@
+[block selection] typing over multi-line selection does not work on the Mac

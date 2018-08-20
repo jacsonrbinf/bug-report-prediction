@@ -1,0 +1,1 @@
+Mac checkbox tables differs from behaviour on other platforms

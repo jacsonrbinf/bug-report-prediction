@@ -1,0 +1,1 @@
+[Leopard] setRegion of shell doesn't work with the new region on Mac OS X 10.5

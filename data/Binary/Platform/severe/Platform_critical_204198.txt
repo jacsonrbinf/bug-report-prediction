@@ -1,0 +1,1 @@
+[Browser] Crash on Startup with Internet Explorer 6

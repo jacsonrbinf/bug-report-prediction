@@ -1,0 +1,1 @@
+Buttons with accelerator keys refuse to respond to mouse clicks

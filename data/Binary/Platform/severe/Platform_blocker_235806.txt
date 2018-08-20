@@ -1,0 +1,1 @@
+improper usage of "Device" when setting font description in org.eclipse.swt.graphics.TextLayout constructor

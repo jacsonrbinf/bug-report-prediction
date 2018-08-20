@@ -1,0 +1,1 @@
+NPE trying to copy the current stack from the debugger

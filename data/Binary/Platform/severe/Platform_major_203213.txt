@@ -1,0 +1,1 @@
+When debugging an application having breakpoints, the focus is not taken to eclipse (and back to application) properly

@@ -1,0 +1,1 @@
+[Presentations] Extraneous tab on startup splash screen

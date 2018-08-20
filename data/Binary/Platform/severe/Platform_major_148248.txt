@@ -1,0 +1,1 @@
+NotificationManager#notify(...) does not log exceptions at all

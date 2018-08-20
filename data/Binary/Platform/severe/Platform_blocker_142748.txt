@@ -1,0 +1,1 @@
+Eclipse 3.1.2 error on startup on Mac OS X 10.4.6

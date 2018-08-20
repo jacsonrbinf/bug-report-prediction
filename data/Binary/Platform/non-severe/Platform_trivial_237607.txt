@@ -1,0 +1,1 @@
+ResourceMappingResourceDisplayArea uses deprecated ResourceSorter

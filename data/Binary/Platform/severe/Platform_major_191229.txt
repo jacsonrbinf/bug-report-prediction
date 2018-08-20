@@ -1,0 +1,1 @@
+[JFace] Several methods in ResourceManager break source compatibility

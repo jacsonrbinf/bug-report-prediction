@@ -1,0 +1,1 @@
+NPE in TextMergeViewer#createControls(..) when opened in dialog

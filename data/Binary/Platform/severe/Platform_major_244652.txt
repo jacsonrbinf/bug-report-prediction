@@ -1,0 +1,1 @@
+[CommonNavigator] Opening a file causes one level of expansion

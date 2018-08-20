@@ -1,0 +1,1 @@
+CVS conflicts not shown in synchronize view

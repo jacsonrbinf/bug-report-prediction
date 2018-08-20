@@ -1,0 +1,1 @@
+[EditorMgmt] Editors should protect against exceptions that can lock up Eclipse

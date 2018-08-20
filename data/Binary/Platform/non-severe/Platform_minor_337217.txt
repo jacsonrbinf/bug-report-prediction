@@ -1,0 +1,1 @@
+RadioButton get selected when user clicks on a Composite created by FormToolkit

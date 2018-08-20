@@ -1,0 +1,1 @@
+Preferences > Team > CVS > Synchronize/Compare should include more keywords

@@ -1,0 +1,1 @@
+PLUGINS_ROOT notation does not work with dropins folder

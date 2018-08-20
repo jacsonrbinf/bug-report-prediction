@@ -1,0 +1,1 @@
+[CommonNavigator] org.eclipse.swt.SWTException: Widget is disposed  error on starting Eclipse

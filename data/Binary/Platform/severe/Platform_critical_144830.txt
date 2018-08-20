@@ -1,0 +1,1 @@
+gtk_file_chooser_dialog_new crash on AMD 64 with gtk 2.4.0

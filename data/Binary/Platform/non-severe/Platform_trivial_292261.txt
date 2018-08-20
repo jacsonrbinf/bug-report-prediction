@@ -1,0 +1,1 @@
+External tools core should not use the deprecated method to create launch configuration names

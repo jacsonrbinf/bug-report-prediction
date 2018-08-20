@@ -1,0 +1,1 @@
+[DataBinding] Need API to get the object wrapped by an IObservable

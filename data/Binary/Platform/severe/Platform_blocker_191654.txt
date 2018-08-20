@@ -1,0 +1,1 @@
+Plugin doesn't resolve external jars

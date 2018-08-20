@@ -1,0 +1,1 @@
+Eclipse freezes when opening a file

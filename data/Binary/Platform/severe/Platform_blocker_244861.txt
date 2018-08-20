@@ -1,0 +1,1 @@
+Eclipse Classic 3.4 fails to start

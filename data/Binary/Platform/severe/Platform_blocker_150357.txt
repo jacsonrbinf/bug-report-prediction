@@ -1,0 +1,1 @@
+[Linux] [cairo] GC.setAdvance(true) and subsequent drawing of images fails

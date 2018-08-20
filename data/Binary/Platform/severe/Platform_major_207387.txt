@@ -1,0 +1,1 @@
+GTK-BIDI: Wrong alignment of SWT table columns

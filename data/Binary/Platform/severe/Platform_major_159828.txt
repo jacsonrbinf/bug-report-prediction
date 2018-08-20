@@ -1,0 +1,1 @@
+[CommonNavigator] Deleting projects of a large workspace  from Project Explorer is very slow compared to Package Explorer

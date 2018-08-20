@@ -1,0 +1,1 @@
+incorrect content in RCP delta pack build.properties

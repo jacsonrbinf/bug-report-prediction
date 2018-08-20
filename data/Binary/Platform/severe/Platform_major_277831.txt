@@ -1,0 +1,1 @@
+[Help][Context] F1 broken for parts that provide a IContextProvider adapter

@@ -1,0 +1,1 @@
+[console] Programs with lots of output cause major eclipse unresponsiveness with large console buffer

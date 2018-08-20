@@ -1,0 +1,1 @@
+[launching] LaunchManager keeps references on last resource delta

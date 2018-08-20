@@ -1,0 +1,1 @@
+[Navigator] Rename resource will perform action on wrong resource when clicked

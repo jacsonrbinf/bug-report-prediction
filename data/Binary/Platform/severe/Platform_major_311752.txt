@@ -1,0 +1,1 @@
+Scrolling StyledText is very slow / causes 100% cpu utilization

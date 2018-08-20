@@ -1,0 +1,1 @@
+NPE in org.eclipse.ui.statushandlers.WorkbenchStatusDialogManager.refreshSingleStatusArea

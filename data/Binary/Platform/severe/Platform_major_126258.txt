@@ -1,0 +1,1 @@
+[Commands] handlers: Inspect doesn't work

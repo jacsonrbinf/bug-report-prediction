@@ -1,0 +1,1 @@
+[CellEditors] Cell editors don't activate in TableViewer without SWT.FULL_SELECTION and they used to in 3.1.2

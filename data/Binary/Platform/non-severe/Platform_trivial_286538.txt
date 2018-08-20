@@ -1,0 +1,1 @@
+Missing org.eclipse.core.resources.modelProviders ext. point in Extension Points Reference

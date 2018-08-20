@@ -1,0 +1,1 @@
+Invalid entry in build.properties file

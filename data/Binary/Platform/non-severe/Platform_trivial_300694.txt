@@ -1,0 +1,1 @@
+Setting enablement for Mark as Merged and Overwrite actions in ModelCompareEditorInput is copy-pasted

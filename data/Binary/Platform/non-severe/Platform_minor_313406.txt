@@ -1,0 +1,1 @@
+[rulers] Single click on line number no longer selects the entire line

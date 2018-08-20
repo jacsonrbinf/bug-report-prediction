@@ -1,0 +1,1 @@
+Plug-Ins Launch Tab no longer contains a checkable tree

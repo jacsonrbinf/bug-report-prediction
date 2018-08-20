@@ -1,0 +1,1 @@
+"Go" button after search editbox cannot be actived by "Enter" key

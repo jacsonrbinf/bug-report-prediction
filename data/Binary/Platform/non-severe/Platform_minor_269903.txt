@@ -1,0 +1,1 @@
+JavaScript source does not show SVN icon overlays/repo info in explorer.

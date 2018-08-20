@@ -1,0 +1,1 @@
+TreeViewer doesn't accept IViewerLabelProvider as label provider

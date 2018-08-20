@@ -1,0 +1,1 @@
+Error message 'File system is read-only' is misleading for not supporting putInfo

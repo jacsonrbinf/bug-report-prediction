@@ -1,0 +1,1 @@
+[Browser] The javascript 'top.close() ' crashes eclipse

@@ -1,0 +1,1 @@
+[KeyBindings] New Keys preference page: enabling "Include unbound commands" takes 30s

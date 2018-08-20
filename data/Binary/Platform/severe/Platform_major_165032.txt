@@ -1,0 +1,1 @@
+Versioning error in M builds, in debug.core

@@ -1,0 +1,1 @@
+[CheatSheet] Error message for circular dependency in composite cheat sheet could be improved

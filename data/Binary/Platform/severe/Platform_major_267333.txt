@@ -1,0 +1,1 @@
+Since last update: ANT view double click doesn't start target anymore!

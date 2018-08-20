@@ -1,0 +1,1 @@
+[Dialogs] New animated message should use different background color

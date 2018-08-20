@@ -1,0 +1,1 @@
+[CommonNavigator] NavigatorContentServiceLabelProvider finds label providers in a new order which doesn't allow me to provide correct icons

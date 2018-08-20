@@ -1,0 +1,1 @@
+[breakpoints] Nullpointer and NoSuchElementException when toggle track selection

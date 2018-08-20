@@ -1,0 +1,1 @@
+[MPE] [regression] MultiPageEditorPart.pageChange(int) fires PageChangedEvent if selected page is null.

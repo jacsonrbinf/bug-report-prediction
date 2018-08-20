@@ -1,0 +1,1 @@
+[EditorMgmt] Selecting in-place editor for .java generates meaningless COM error message

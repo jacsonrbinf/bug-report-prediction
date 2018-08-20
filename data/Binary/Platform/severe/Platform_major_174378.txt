@@ -1,0 +1,1 @@
+[ViewMgmt] [Contributions] activating the view menu does not activate the view

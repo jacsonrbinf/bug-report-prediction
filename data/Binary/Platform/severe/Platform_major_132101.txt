@@ -1,0 +1,1 @@
+[Field Assist] does not work for characters that need AltGr, Ctrl+Alt or Strg+Alt

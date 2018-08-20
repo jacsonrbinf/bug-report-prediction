@@ -1,0 +1,1 @@
+[Widgets] Exception prevents the workbench to come up

@@ -1,0 +1,1 @@
+NPE when selecting a feature in the update dialog

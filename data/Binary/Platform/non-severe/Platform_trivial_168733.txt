@@ -1,0 +1,1 @@
+Manifest and properties file could get some clean up

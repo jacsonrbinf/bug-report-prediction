@@ -1,0 +1,1 @@
+[Help] On Linux tray dialog does not show if dialog is short

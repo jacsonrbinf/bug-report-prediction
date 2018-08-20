@@ -1,0 +1,1 @@
+[EditorMgmt] Editor failure on startup is not being handled properly

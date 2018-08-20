@@ -1,0 +1,1 @@
+[RCP] (regression) Coolbar only shown when MainWindow-Resized

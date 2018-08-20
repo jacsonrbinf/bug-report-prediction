@@ -1,0 +1,1 @@
+[Proxy] org.eclipse.core.net.win32.x86 bundle id is wrong and compiler compliance level should be set to 1.4

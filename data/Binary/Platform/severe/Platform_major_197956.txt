@@ -1,0 +1,1 @@
+[SWT] Combo does not support several common events

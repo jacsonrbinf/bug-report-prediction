@@ -1,0 +1,1 @@
+[Patch] Create Patch wizard should remember previous settings

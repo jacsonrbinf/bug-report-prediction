@@ -1,0 +1,1 @@
+Holding mouse down on Table blocks Display.asyncExec and syncExec

@@ -1,0 +1,1 @@
+[Common Navigator] Navigator action service should call updateActionBars

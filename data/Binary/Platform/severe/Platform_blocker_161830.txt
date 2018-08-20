@@ -1,0 +1,1 @@
+incorrect SWT.NO_FOCUS behaviour for Shell windows on Linux

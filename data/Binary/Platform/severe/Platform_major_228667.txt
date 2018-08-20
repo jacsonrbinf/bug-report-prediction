@@ -1,0 +1,1 @@
+ACC: SWT does not give focus to a context menu from a dialog

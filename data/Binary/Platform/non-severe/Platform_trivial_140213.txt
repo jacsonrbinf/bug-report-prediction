@@ -1,0 +1,1 @@
+public record of code modification : IBM's FileBatchSelectionDialog is derived from Eclipse code (FileSelectionDialog)

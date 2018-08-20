@@ -1,0 +1,1 @@
+Incorrect documentation in Workbench User Guide - Getting Started->Basic Tutorial->Rearranging Views and Editors->Drop Cursors

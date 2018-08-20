@@ -1,0 +1,1 @@
+Running operation that continuously refreshes/updates SWT Browser it  does not stay minimized

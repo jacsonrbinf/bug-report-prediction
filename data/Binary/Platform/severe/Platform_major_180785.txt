@@ -1,0 +1,1 @@
+[Help] Content extensions not showing up for context help

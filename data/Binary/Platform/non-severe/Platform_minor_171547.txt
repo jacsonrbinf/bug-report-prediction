@@ -1,0 +1,1 @@
+[console] Wrong behavior of the console vertical scroll bar

@@ -1,0 +1,1 @@
+[IDE] Dialog font not honoured completely in the 'Local History' preference page

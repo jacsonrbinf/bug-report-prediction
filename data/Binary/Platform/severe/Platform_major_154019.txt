@@ -1,0 +1,1 @@
+"Item not removed" error in Tree followed by VM crash

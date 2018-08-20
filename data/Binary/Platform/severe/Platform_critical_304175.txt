@@ -1,0 +1,1 @@
+CPU at 100% after clicking on error log view

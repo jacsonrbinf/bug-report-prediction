@@ -1,0 +1,1 @@
+[Dialogs] CPD's 'Shortcuts' tab doesn't honour dialog font settings

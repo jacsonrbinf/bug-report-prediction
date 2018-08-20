@@ -1,0 +1,1 @@
+Path.getPathData() returns points as integers and not floats

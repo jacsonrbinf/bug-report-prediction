@@ -1,0 +1,1 @@
+[doc] Help for default launchers is meaningless

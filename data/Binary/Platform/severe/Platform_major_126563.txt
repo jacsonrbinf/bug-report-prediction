@@ -1,0 +1,1 @@
+[Contexts] Window context stays active when find/replace dialog open

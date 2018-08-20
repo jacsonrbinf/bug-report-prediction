@@ -1,0 +1,1 @@
+[Wizards/BiDi] JFace Wizard background image not mirrored for Bidi Languages

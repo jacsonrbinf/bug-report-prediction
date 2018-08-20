@@ -1,0 +1,1 @@
+[Browser] Unable to use getdata("query") to obtain cookies

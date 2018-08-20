@@ -1,0 +1,1 @@
+[doc] org.eclipse.jface.text.rules.RuleBasedPartitionScanner Documentation error

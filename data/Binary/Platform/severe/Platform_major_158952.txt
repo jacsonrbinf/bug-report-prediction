@@ -1,0 +1,1 @@
+GTK crash after searching inside ComboCellEditor in PropertySheet

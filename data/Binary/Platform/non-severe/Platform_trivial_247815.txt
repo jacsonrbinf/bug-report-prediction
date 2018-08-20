@@ -1,0 +1,1 @@
+[CVS UI] Correct typo in method in UserInfoPrompter

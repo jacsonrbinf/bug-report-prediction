@@ -1,0 +1,1 @@
+Canvas#getCaret() should tell that caret can be null

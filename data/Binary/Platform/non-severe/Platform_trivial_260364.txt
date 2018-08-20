@@ -1,0 +1,1 @@
+Document that SWT.SEARCH and SWT.CANCEL are HINTs for Text

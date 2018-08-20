@@ -1,0 +1,1 @@
+[Help] keyword index has broken links to ignoredTOCS topics

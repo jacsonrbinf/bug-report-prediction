@@ -1,0 +1,1 @@
+Startup crash after update 3.6 M3 to M4

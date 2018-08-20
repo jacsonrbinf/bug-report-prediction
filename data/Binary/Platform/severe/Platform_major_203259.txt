@@ -1,0 +1,1 @@
+[Viewers] Widget is disposed from ColumnViewer.getViewerColumn

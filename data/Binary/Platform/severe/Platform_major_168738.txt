@@ -1,0 +1,1 @@
+ProgressBar does not respect user-defined foreground colors.

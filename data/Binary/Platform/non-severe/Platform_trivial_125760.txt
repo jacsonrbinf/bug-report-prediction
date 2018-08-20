@@ -1,0 +1,1 @@
+Missing tool tips in history view

@@ -1,0 +1,1 @@
+[Viewers] each compare editor is leaked

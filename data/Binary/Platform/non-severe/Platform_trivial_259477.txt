@@ -1,0 +1,1 @@
+[statushandling] WEH#setStatusDialog is never used.

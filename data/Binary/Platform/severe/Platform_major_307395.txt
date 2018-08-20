@@ -1,0 +1,1 @@
+[block selection] Block selection eats lines of text where cursor cuts through tab character

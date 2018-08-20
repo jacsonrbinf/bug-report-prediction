@@ -1,0 +1,1 @@
+Object is not displaying properly when clicked while debugging ???

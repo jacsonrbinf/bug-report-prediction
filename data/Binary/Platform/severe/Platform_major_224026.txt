@@ -1,0 +1,1 @@
+Cannot add popup sub-menu to popup menu declared in another plugin.xml

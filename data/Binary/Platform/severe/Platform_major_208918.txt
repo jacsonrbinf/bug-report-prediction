@@ -1,0 +1,1 @@
+Commit dialog: Copy and Cut not enabled after Select All

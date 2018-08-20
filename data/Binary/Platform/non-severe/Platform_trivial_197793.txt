@@ -1,0 +1,1 @@
+Typo in Javadoc of IResource#getProjectRelativePath()

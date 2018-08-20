@@ -1,0 +1,1 @@
+[Wizards] Share Project on a folder opens multi-project share wizard

@@ -1,0 +1,1 @@
+public record of derived code : IBM copies versions of  HTML2TextReader, SubstitutionTextReader, SingleCharReader

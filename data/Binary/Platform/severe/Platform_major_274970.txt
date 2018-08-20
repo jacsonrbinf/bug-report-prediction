@@ -1,0 +1,1 @@
+Equinox SDK missing org.eclipse.equinox.servletbridge

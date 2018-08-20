@@ -1,0 +1,1 @@
+[Doc] Create a package.html file for org.eclipse.compare.core API

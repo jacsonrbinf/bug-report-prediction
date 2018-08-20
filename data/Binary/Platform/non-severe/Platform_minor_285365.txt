@@ -1,0 +1,1 @@
+[JFace] Typo in method name ComboBoxViewerCellEditor.setContenProvider

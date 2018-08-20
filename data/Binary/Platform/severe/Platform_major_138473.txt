@@ -1,0 +1,1 @@
+[breakpoints] BreakpointManager sometimes fails to send a breakpoint-changed notification

@@ -1,0 +1,1 @@
+[CheatSheet] Use icon for cheat sheet view when displaying search matches

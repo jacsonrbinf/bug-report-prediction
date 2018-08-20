@@ -1,0 +1,1 @@
+Eclipse 3.3M5 won't start on Mac OS X with installed Java 6 DP 6

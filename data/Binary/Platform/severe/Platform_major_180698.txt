@@ -1,0 +1,1 @@
+[Markers] Performance issue when there are a large number of warnings

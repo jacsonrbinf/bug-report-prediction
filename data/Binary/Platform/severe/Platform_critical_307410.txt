@@ -1,0 +1,1 @@
+Unable to Open Eclipse 8.0. I am getting "java.lang.RuntimeException: No application id has been found." Exception

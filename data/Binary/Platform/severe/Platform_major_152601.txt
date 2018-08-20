@@ -1,0 +1,1 @@
+[Help] Heading should not appear in search summary

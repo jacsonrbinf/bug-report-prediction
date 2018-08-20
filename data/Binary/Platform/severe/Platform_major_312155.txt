@@ -1,0 +1,1 @@
+eclipse 3.5.2-2ubuntu4: i cannot see program's help!

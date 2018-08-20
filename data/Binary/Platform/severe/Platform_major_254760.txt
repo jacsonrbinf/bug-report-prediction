@@ -1,0 +1,1 @@
+Compare plug-in manifest needs to be updated to reflect required versions

@@ -1,0 +1,1 @@
+NatureManager is NOT threadsafe causing incorrect responses to isNatureEnabled() (and others)

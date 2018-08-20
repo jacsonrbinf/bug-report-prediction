@@ -1,0 +1,1 @@
+SWT will not build on QNX Neutrino 6.3 and greater

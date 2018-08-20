@@ -1,0 +1,1 @@
+[cocoa] display.post does not send modifier keys

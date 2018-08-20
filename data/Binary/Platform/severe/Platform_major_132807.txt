@@ -1,0 +1,1 @@
+Search computes its own annotation type inside a loop

@@ -1,0 +1,1 @@
+[Help]  Incorrect mime type - xhtml documents not displaying correctly in the Help view

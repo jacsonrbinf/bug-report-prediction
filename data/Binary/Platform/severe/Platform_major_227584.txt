@@ -1,0 +1,1 @@
+externalized license string in feature.xml not resolved thru feature.properties

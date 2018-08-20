@@ -1,0 +1,1 @@
+ChangeEncodingAction's dialog has unnecessary whitespace

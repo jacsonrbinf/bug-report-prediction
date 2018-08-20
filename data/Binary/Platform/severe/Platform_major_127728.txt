@@ -1,0 +1,1 @@
+cancelling workspace selection makes future eclipse startups fail

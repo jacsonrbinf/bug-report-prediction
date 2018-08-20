@@ -1,0 +1,1 @@
+Accessibility: Visual focus lost while tabbing into a table/list without items

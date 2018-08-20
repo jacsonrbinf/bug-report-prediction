@@ -1,0 +1,1 @@
+IOException reading MANIFEST  in archive:LPR.war(war file of my application)

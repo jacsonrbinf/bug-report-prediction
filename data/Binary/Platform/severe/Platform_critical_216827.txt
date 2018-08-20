@@ -1,0 +1,1 @@
+[CommonNavigator] Common navigator implements extension visiblity filtering inefficiently

@@ -1,0 +1,1 @@
+[CommonNavigator] Update init() signatures of user-implemented extensions

@@ -1,0 +1,1 @@
+the eclipse closes when this executing aplication in way debug.

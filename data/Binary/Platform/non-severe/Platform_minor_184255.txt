@@ -1,0 +1,1 @@
+[projection] Editor loses keyboard focus when expanding folded region

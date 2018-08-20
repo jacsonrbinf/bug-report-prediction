@@ -1,0 +1,1 @@
+[Browser] SWT Browser (IE based) to support multiple zones

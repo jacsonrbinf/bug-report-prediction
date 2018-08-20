@@ -1,0 +1,1 @@
+Unclear query window after connecting project to CVS repository

@@ -1,0 +1,1 @@
+External tool builder fails in headless mode because of dependencies to UI

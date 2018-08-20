@@ -1,0 +1,1 @@
+Product Configuration overview tab comes up blank/gray

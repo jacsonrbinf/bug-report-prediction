@@ -1,0 +1,1 @@
+'Confirm Disconnect from CVS' dialog has no mnemonic keys

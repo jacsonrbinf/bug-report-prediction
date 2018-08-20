@@ -1,0 +1,1 @@
+[KeyBindings] LegacyActionTools should support SWT.F13 - F20

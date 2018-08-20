@@ -1,0 +1,1 @@
+Apps using SWT_AWT fail to run when deployed (10.5)

@@ -1,0 +1,1 @@
+SWT Balloon ToolTip (title text) not displayed if text is too long - display bug

@@ -1,0 +1,1 @@
+[key binding][content assist] Multiple editor views: "Home" and "End" key working wrong after unfinished autocomplete in another editor view

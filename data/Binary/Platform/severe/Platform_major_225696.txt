@@ -1,0 +1,1 @@
+Project copy dialog won't let you change new name with default location

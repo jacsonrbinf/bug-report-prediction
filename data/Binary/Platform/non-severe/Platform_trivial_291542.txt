@@ -1,0 +1,1 @@
+Code folding toggle button icon assumes a white background

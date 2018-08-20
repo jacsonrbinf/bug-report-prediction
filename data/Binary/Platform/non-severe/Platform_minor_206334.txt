@@ -1,0 +1,1 @@
+[Contributions] [Examples] org.eclipse.ui.examples.contributions needs to set an EE

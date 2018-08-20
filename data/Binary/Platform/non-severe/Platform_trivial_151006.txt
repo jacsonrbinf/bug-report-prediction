@@ -1,0 +1,1 @@
+Expression View menu inconsistent when refering to Detail(s) Pane/Area

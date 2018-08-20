@@ -1,0 +1,1 @@
+Wrong javadoc for org.eclipse.debug.ui.AbsractLaunchConfigurationTab.setDirty(...)

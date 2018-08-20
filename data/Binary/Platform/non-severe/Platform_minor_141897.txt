@@ -1,0 +1,1 @@
+[Dialogs] Widget disposed error from open resource dialog

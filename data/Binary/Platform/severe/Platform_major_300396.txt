@@ -1,0 +1,1 @@
+Selection behavior in Breakpoints view looks like screen cheese

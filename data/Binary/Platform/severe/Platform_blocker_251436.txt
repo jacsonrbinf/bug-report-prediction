@@ -1,0 +1,1 @@
+Popup Menu on SWT-Tree leads to invalid memory access

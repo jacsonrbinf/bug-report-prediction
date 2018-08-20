@@ -1,0 +1,1 @@
+[DND] RHEL 5.0 : In "ViewerDropAdapter # public boolean performDrop(Object data) " data is "null" when a file is dragged and dropped from a mounted drive in RHEL 5.0

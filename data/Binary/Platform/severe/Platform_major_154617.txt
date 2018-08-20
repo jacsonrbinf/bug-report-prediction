@@ -1,0 +1,1 @@
+BuildReport tool fails to generate build notes

@@ -1,0 +1,1 @@
+[rulers] Selecting line does not include carriage return

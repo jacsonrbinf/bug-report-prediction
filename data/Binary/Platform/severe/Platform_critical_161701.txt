@@ -1,0 +1,1 @@
+IDE randomly hangs (100% processor usage)

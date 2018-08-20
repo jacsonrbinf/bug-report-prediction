@@ -1,0 +1,1 @@
+[tabbed properties] breaks drawing of other components on gtk

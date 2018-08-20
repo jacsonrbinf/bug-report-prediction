@@ -1,0 +1,1 @@
+AIX 5.3 motif - Characters above \u007f show as "iso8859" in some swt widgets

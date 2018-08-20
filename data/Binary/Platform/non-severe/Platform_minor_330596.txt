@@ -1,0 +1,1 @@
+[preferences] Preferences dialog opened via left ruler context menu should include 'Colors and Fonts' preference page

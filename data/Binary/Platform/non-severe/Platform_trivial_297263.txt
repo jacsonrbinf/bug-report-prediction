@@ -1,0 +1,1 @@
+Help Scenario A: A2 Open Help Preferences button opens preferences (not necessarily Help)

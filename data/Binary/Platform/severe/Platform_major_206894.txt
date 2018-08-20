@@ -1,0 +1,1 @@
+Linux - Control.setEnabled disables more than it should

@@ -1,0 +1,1 @@
+[Markers] Switching from Task to Problems freezes my machine for several seconds

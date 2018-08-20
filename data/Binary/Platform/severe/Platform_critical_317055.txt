@@ -1,0 +1,1 @@
+[Webapp][Security] URLEncode url requests from local users

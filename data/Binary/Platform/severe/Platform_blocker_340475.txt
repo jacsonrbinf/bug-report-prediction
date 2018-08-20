@@ -1,0 +1,1 @@
+SWT Path in RHEL 5.4 5.5 and 5.6 only accepts signed shorts (min -32768 and max 32767, overflow otherwise)

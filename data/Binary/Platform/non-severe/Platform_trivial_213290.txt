@@ -1,0 +1,1 @@
+[Dialogs] Browse Button in new Plug-in Project Wizard does not work when 'Location' path is null

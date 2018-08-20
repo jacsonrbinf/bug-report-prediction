@@ -1,0 +1,1 @@
+[Intro] Welcome page pref: deselecting all roots causes reset

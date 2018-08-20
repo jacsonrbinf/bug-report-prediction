@@ -1,0 +1,1 @@
+[Patch] Clicking "Show matched hunks" looses current selection

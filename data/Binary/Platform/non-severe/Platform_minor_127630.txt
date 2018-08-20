@@ -1,0 +1,1 @@
+[History] New History view's "Compare With Local Revision"

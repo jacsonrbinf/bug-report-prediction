@@ -1,0 +1,1 @@
+[CommonNavigator] When hideAvailableExtensionsTab sets to true, all available content will be removed upon filter select changed

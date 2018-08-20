@@ -1,0 +1,1 @@
+Application will crash when using Table which handled the PaintItem or MesureItem event.

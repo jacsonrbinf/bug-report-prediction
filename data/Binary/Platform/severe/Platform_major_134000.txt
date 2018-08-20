@@ -1,0 +1,1 @@
+TableColumn SWT.CENTER doesn't center!

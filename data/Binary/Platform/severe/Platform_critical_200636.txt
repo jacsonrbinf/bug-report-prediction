@@ -1,0 +1,1 @@
+Update Manager start automatically , and it almost hang the system, my system processing show 100%

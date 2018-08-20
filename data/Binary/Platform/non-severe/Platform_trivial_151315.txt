@@ -1,0 +1,1 @@
+"Menu" tooltip disappears for view local pulldown menu

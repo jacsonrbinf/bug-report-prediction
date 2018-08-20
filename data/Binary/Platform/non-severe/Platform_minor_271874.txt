@@ -1,0 +1,1 @@
+View titles not correctly externalized after re-launch with different locale

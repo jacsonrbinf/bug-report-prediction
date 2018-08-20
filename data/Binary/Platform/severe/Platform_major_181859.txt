@@ -1,0 +1,1 @@
+[Welcome] Internal errors thrown when attempting to build the help search index for the first time

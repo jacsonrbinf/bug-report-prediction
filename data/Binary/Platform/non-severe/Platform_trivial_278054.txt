@@ -1,0 +1,1 @@
+[Doc] "Entries per file" should be changed to "Maximum entries per file"

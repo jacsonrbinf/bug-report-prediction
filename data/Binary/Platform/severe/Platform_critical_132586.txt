@@ -1,0 +1,1 @@
+[Intro] XML intro fails with a NPE when there are no themes

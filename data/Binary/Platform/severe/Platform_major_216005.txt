@@ -1,0 +1,1 @@
+[hovering] Text Hover does not vanish after having used Ctrl key

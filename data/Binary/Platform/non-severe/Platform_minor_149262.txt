@@ -1,0 +1,1 @@
+[typing] Double-clicking the last word of a line of text misses one character

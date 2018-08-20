@@ -1,0 +1,1 @@
+Javadoc worng for DefaultPositionUpdater#notDeleted

@@ -1,0 +1,1 @@
+[Wizards] Team/"Share Project" with an existing one does not support CVS-branches anymore

@@ -1,0 +1,1 @@
+Platform#asLocalURL(..) does not work in automated testing framework

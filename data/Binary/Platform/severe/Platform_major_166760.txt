@@ -1,0 +1,1 @@
+[browser]RedHat EL4Update4, swt.browser cannot show with installed xulrunner 1.8.0.1

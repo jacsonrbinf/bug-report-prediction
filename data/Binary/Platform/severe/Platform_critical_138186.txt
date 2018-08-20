@@ -1,0 +1,1 @@
+Deadlock after inspecting a value (Ctrl+Shift+I)

@@ -1,0 +1,1 @@
+Eclipse causes X to die and restart with certain text in the text editor or console output

@@ -1,0 +1,1 @@
+[rulers] Resize editor: AbstractRulerColumn paints not correctly

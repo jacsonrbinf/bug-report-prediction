@@ -1,0 +1,1 @@
+[CommonNavigator] Project Explorer is not refreshed

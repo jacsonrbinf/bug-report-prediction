@@ -1,0 +1,1 @@
+Workspace fails to send IResourceChangeEvent to added listener when files are changed during typing

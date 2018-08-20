@@ -1,0 +1,1 @@
+Creating Project from Existing Ant File ignores <exclude> element

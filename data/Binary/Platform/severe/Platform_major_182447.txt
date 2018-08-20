@@ -1,0 +1,1 @@
+[JFace] Update in TableViewer does not effected

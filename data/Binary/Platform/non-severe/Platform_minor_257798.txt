@@ -1,0 +1,1 @@
+[Forms][build path] 'Source' tab details for new Java project wizard inherits background colours incorrectly

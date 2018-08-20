@@ -1,0 +1,1 @@
+Deleting the first character in block mode deletes the whole line

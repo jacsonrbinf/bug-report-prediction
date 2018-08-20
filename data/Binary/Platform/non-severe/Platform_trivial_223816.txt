@@ -1,0 +1,1 @@
+[Preferences] General > Appearance preference page misses keywords for colored labels

@@ -1,0 +1,1 @@
+[Patch] Tooltip for Maximum fuzz factor is inconsistent  with actual patch definition

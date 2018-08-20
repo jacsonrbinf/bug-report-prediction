@@ -1,0 +1,1 @@
+Problems when closing unsaved editor and deleted project

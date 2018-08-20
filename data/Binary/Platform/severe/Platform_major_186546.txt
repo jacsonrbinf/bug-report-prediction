@@ -1,0 +1,1 @@
+Eclipse cannot create File Resource if the file name length is in between 190 to 240 characters

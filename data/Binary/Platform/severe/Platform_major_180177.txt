@@ -1,0 +1,1 @@
+ColorsAndFonts test cannot check against the default font

@@ -1,0 +1,1 @@
+swt-3.2RC6-gtk-linux-x86_64.zip ships 32-bit C code

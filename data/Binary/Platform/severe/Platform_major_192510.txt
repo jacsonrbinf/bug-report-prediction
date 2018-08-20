@@ -1,0 +1,1 @@
+[Dialogs] NPE in FilteredItemsSelectionDialog

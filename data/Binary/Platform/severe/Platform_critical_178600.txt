@@ -1,0 +1,1 @@
+SWT reproducably messes up my display, buffer overflow?

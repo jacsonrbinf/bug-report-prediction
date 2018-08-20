@@ -1,0 +1,1 @@
+[Workbench] TVT33:TCT[Workbench] 159: ar: 13.001120 Tool tips text does not have RTL reading order

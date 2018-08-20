@@ -1,0 +1,1 @@
+Checkout operations can add null elements to working set

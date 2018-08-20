@@ -1,0 +1,1 @@
+[Examples] Get rid of warnings in 'org.eclipse.ui.examples.propertysheet'

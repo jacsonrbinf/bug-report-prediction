@@ -1,0 +1,1 @@
+doing a software update renders eclipse unusable because window is modal and blocks everything

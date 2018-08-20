@@ -1,0 +1,1 @@
+JVM crash when using SWT_AWT bridge in XP

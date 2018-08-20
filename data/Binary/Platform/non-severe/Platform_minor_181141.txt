@@ -1,0 +1,1 @@
+[Examples] Team: filesystem provider example can not handle deletions

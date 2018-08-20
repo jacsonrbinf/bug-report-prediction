@@ -1,0 +1,1 @@
+Editor does not accept input after coming back from screensaver

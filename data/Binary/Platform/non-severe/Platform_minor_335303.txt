@@ -1,0 +1,1 @@
+[implementation] Focus lost after canceling out of the save dialog prompt of an untitled text editor closed by the editor selection dialog

@@ -1,0 +1,1 @@
+[painting] CursorLinePainter interacts badly with other LineBackgroundListener objects

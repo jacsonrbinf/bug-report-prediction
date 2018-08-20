@@ -1,0 +1,1 @@
+[BROWSER] SWT.Browser component crashes after successive execution of execute() method

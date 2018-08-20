@@ -1,0 +1,1 @@
+Add -XX:PermGen to eclipse.ini for Mac OS X

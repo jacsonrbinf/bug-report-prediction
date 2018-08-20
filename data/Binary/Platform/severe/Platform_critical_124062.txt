@@ -1,0 +1,1 @@
+[DND] DropTarget does not treat ALT key press properly

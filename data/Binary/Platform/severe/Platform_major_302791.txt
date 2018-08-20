@@ -1,0 +1,1 @@
+[CommonNavigator] Associated editor does not close when deleting resource (editorInput) through CommonNavigator

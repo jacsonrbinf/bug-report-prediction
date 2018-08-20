@@ -1,0 +1,1 @@
+Notes for Carbon build refer to Eclipse 3.4

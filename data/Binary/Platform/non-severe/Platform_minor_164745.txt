@@ -1,0 +1,1 @@
+[Dialogs] Find Replace dialog should be sizable

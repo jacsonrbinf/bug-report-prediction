@@ -1,0 +1,1 @@
+[JFace] System icons have black background

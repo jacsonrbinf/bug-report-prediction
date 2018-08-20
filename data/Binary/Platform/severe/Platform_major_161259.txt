@@ -1,0 +1,1 @@
+Embedded Browser does not appear to get mouse move/capture (WebKit/Mac OS X)

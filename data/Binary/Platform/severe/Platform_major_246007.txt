@@ -1,0 +1,1 @@
+[EditorMgmt] Save resource dialog says "Model has been modified, but is still open elsewhere", when it is not open elsewhere

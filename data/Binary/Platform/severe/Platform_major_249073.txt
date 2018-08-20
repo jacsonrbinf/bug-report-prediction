@@ -1,0 +1,1 @@
+In eclipse console,input some text->clear ->input text,system not response

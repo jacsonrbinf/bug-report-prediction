@@ -1,0 +1,1 @@
+[Help] OK button in new search scope window should not be enabled when the scope name has not been input

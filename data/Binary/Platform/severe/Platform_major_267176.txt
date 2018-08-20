@@ -1,0 +1,1 @@
+Path#addString() not working with custom font

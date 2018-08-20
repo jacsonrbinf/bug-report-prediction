@@ -1,0 +1,1 @@
+[WorkbenchLauncher] progress messages in splash screen not rendered well in arabic

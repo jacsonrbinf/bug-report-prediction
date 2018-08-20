@@ -1,0 +1,1 @@
+[hovering] Text hover is not shown for the first word in text (org.eclipse.jface.text.DefaultTextHover.findWord())

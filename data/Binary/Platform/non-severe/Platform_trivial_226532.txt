@@ -1,0 +1,1 @@
+[javadoc] org.eclipse.core.filebuffers.FileBuffers.getWorkspaceFileAtLocation(IPath) code doesn't do what javadoc says it does

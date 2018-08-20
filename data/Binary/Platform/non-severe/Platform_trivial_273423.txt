@@ -1,0 +1,1 @@
+DocumentProvider-Extension-Point has wrong example

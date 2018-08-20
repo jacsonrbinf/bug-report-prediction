@@ -1,0 +1,1 @@
+On Ubuntu Linux 7.04 - Editors open extremely slow, rendering Eclipse unusuable

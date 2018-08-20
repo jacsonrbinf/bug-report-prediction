@@ -1,0 +1,1 @@
+Eclipse hangs when deleting a "dirty" product file from a project

@@ -1,0 +1,1 @@
+ProgressManager never clears subtask labels

@@ -1,0 +1,1 @@
+[Viewers] ViewerRow#getCell(Point) not working for Viewers without columns

@@ -1,0 +1,1 @@
+SWT Path getBounds return value incorrect

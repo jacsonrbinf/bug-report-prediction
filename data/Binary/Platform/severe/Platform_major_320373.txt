@@ -1,0 +1,1 @@
+Print selected topic and children generates bad links

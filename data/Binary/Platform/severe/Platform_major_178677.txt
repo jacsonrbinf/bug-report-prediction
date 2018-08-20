@@ -1,0 +1,1 @@
+[Launcher] "Invalid thread access" if invoked it with -perspective argument

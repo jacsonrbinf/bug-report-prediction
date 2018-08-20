@@ -1,0 +1,1 @@
+[DetachedWindows] Detached eclipse windows may render outside desktop

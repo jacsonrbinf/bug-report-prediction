@@ -1,0 +1,1 @@
+[Commands] handlers: action set handlers stop working when two workbench windows open

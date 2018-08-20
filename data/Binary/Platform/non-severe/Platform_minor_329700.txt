@@ -1,0 +1,1 @@
+[Webapp] Fix for Eclipse 3.6.2 Opening /help/advanced/content.jsp causes unresponsive script

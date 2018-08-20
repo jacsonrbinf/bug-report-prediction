@@ -1,0 +1,1 @@
+StyledTextRenderer.hasLink() uses invalid indexing if no ranges array is defined

@@ -1,0 +1,1 @@
+[linked mode] preference not updated in editor

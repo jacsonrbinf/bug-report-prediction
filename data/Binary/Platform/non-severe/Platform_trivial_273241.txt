@@ -1,0 +1,1 @@
+[Intro] The text of item is't trim on Welcome page

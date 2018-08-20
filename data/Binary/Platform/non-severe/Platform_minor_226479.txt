@@ -1,0 +1,1 @@
+DBCS3.4: Create a new linked resource wizard throws a CoreException

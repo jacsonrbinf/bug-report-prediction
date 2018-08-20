@@ -1,0 +1,1 @@
+When I create a new Dynamic web project, the system hangs and gives out of memory exceptions

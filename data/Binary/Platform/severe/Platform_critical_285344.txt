@@ -1,0 +1,1 @@
+[CommonNavigator] Corrupt contributionMemory causes ignored contributions

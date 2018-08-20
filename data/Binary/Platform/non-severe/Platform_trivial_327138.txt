@@ -1,0 +1,1 @@
+[Import/Export] WizardExportResourcesPage's Finish button isn't sensitive to Select/Deselect All

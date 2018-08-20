@@ -1,0 +1,1 @@
+Mac OS X 10.5: When pasting a text from non-eclipse application Eclipse puts a <U+FEFF> character right before the pasted text.

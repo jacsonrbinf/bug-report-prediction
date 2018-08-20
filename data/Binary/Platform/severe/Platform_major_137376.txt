@@ -1,0 +1,1 @@
+DND does not work in Java Perspective on Solaris 9 in Eclipse 3.1.1

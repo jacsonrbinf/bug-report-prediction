@@ -1,0 +1,1 @@
+MAC: SWT/Eclipse crash when after disposing a Text widget on the fly.

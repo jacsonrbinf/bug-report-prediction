@@ -1,0 +1,1 @@
+Open File does not show hidden directories on Linux

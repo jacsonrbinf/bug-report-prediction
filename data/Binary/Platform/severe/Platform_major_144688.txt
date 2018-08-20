@@ -1,0 +1,1 @@
+new MessageBox(getParentShell(), SWT.ICON_ERROR | SWT.OK) doesn't show correct icon

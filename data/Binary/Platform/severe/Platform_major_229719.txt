@@ -1,0 +1,1 @@
+JFace's default collator not using ICU when running IDE

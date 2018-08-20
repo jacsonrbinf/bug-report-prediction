@@ -1,0 +1,1 @@
+Eclipse Ganymede M7 cannot start on a machine behind a firewall

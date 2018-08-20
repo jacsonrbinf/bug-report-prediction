@@ -1,0 +1,1 @@
+[Wizards] Sharing project wizard doesn't work as expected

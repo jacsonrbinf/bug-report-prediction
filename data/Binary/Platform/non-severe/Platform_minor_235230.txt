@@ -1,0 +1,1 @@
+[Tests] Add tests for help/tips and tricks to User Assistance test suite

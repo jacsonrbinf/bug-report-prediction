@@ -1,0 +1,1 @@
+[Common Navigator] NavigatorActivationService should sort extension ids before notifying listeners

@@ -1,0 +1,1 @@
+SAXParseException on empty launch config

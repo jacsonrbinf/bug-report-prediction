@@ -1,0 +1,1 @@
+[rulers] Contributing a ruler to a class should always use inheritance

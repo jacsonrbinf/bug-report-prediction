@@ -1,0 +1,1 @@
+Regression: A build doesn't cancel if I tell it to Cancel

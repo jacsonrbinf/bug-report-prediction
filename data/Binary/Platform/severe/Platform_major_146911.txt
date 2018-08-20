@@ -1,0 +1,1 @@
+Debug crash whenever reading a long string

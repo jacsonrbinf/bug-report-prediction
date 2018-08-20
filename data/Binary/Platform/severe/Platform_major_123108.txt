@@ -1,0 +1,1 @@
+update is unusable when the proxy requires authentication

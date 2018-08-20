@@ -1,0 +1,1 @@
+Prompt to restart after installing extension is behind Product Configuration dialog

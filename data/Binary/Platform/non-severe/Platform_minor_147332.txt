@@ -1,0 +1,1 @@
+3.2RC7 Platform Help has broken What's new link to the PDE what's new

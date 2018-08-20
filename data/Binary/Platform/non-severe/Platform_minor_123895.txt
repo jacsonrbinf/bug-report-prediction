@@ -1,0 +1,1 @@
+[api] Should DocumentEvent getText ever return null?

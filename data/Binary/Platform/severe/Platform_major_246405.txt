@@ -1,0 +1,1 @@
+[Markers] org.eclipse.ui.ide.markerHelp doesn't display in the help view if F1 is pressed when the dynamic help view is not visible

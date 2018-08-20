@@ -1,0 +1,1 @@
+CCombo's dropdown causes Shell's drop shadow to disappear

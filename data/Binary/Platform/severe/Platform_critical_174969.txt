@@ -1,0 +1,1 @@
+[Dialogs] (regression) Message dialog is non-blocking

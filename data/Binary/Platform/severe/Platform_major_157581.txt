@@ -1,0 +1,1 @@
+UserProperties lost in the callback in BuildListener

@@ -1,0 +1,1 @@
+[Viewers] - NPE in TreeEditorImpl.activateCellEditor

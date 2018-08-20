@@ -1,0 +1,1 @@
+[Browser] Segfault when loading Browser widget with IBM Java SDK 6.0

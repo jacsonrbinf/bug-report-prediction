@@ -1,0 +1,1 @@
+[KeyBindings] Alt Shift-X J doesn't run a class the first time you use it.

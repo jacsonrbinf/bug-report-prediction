@@ -1,0 +1,1 @@
+[spell checking] Edition of large files causes UI not to respond

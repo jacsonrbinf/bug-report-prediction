@@ -1,0 +1,1 @@
+Classpath variable M2_REPO disappears (VariableBlock: Classpath variable with null value)

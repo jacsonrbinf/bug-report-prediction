@@ -1,0 +1,1 @@
+Package Explorer/Navigator view scrolls left when moving up/down

@@ -1,0 +1,1 @@
+'/' in nickname 'ends' nickname on contacts display

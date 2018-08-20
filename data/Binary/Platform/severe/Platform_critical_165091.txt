@@ -1,0 +1,1 @@
+Eclipse 3.2.x consistently crashes on Vista

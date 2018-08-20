@@ -1,0 +1,1 @@
+[Decorators] Lightweight Decorator Manager holds onto element in lightweight runnable

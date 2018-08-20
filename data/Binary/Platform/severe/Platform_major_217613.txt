@@ -1,0 +1,1 @@
+invoke shortcut to make a popup in an editor and then typing (to select item in popup) - has dual results/focus (editor AND popup)

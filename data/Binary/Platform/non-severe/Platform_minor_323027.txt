@@ -1,0 +1,1 @@
+Eclipse does not initialize fully if not shown on screen

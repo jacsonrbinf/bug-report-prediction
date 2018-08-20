@@ -1,0 +1,1 @@
+Unnecessary "+" on the Installed JREs Preferences page

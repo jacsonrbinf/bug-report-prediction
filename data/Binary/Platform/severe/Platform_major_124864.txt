@@ -1,0 +1,1 @@
+StyledText cannot display Asian fonts

@@ -1,0 +1,1 @@
+StyledText does not clear selection on focus out

@@ -1,0 +1,1 @@
+No more Error Reporting when binding in SWT-project under MacOS Leopard.

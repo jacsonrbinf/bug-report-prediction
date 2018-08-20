@@ -1,0 +1,1 @@
+[Wizards] Switching to the Plug-in perspective hangs Eclipse on WPF

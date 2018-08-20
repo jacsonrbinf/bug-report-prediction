@@ -1,0 +1,1 @@
+[Contributions] relayout of view toolbars after remove action does not work

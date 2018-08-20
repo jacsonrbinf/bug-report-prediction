@@ -1,0 +1,1 @@
+[Contributions] extended popup menu item with <visibleWhen> attribute will disappear when right click multiple times.

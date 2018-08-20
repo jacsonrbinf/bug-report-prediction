@@ -1,0 +1,1 @@
+[Browser-Safari] windows opened through Javascript ignore size setting

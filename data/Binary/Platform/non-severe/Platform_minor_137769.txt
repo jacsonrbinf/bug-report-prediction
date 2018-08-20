@@ -1,0 +1,1 @@
+[launching] Launch history is not updated/Run Last Launched fails due to working set filter

@@ -1,0 +1,1 @@
+After Tableviewer#remove(Object) refresh brings back the removed object

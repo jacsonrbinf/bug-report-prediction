@@ -1,0 +1,1 @@
+Thai: Unable to display Thai characters on SWT Widgets under Linux environment

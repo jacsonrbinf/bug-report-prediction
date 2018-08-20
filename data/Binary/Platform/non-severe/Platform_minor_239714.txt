@@ -1,0 +1,1 @@
+"Close" button in plugin installer doesn't confirm

@@ -1,0 +1,1 @@
+Provide the ability to decide content type from IResource or IPath in ITextContentDescriber

@@ -1,0 +1,1 @@
+Editor remains open on moving a file having same names from one structure to another in package explorer

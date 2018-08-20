@@ -1,0 +1,1 @@
+[ErrorHandling] eclipse will silently fail to launch with invalid colorDefinition value

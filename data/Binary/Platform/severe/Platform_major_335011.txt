@@ -1,0 +1,1 @@
+TaskItem#setMenu(..) keeps stale Tasks in Windows 7 task bar

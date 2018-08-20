@@ -1,0 +1,1 @@
+BIDI3.2: Arabic characters shaping is not handled correctly in Java Scrapbook page editor

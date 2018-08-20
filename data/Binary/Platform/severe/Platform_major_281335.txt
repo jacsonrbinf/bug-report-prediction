@@ -1,0 +1,1 @@
+[typing] document listener notification should be more resilient to client errors

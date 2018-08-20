@@ -1,0 +1,1 @@
+Heading for section 3.1.4 of Eclipse 3.5's readme is incorrect

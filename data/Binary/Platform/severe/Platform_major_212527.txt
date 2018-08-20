@@ -1,0 +1,1 @@
+[Browser] Safari escapes URI fragment delimiter (#) unless scheme-specific part starts with /

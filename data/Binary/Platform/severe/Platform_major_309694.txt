@@ -1,0 +1,1 @@
+BIDI3.6: Wrong display of English text in webpages on ar UTF-8 locales

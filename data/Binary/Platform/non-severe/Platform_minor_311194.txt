@@ -1,0 +1,1 @@
+[Dialogs] FilteredResourcesSelectionDialog's constructor doesn't specify what to put in the 'typesMask' parameter

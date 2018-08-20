@@ -1,0 +1,1 @@
+[OLE] poor performance for opening Excel with SWT

@@ -1,0 +1,1 @@
+Conflicts when opening a dialog from a job when the progress dialog is open

@@ -1,0 +1,1 @@
+[Webapp] Highlighting keywords on help page runs out of memory

@@ -1,0 +1,1 @@
+[browser] AD pop-up doesn't show if flash plug-in not installed.(No OpenWindow listener)

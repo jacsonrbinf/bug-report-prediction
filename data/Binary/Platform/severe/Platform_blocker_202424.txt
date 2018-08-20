@@ -1,0 +1,1 @@
+Missing current theme causes crash on startup

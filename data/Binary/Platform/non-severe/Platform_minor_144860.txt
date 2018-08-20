@@ -1,0 +1,1 @@
+Ant editor does not update after insertion/removal of HTML comment

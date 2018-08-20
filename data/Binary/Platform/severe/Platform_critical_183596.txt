@@ -1,0 +1,1 @@
+BiDi3.3: Cannot open a workspace with an Arabic name

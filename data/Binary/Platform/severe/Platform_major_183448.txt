@@ -1,0 +1,1 @@
+[Contributions] IActionDelegate2.dispose() does not get called when view is closed

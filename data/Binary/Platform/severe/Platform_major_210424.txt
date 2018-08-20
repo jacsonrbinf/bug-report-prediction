@@ -1,0 +1,1 @@
+[Trim] (Regression) Minimize view fails to expand adjacent views in its place

@@ -1,0 +1,1 @@
+[net] Eclipse won't connect to CVS via SSH

@@ -1,0 +1,1 @@
+SWT no longer receives key events in KeyAdapter when using SWT_AWT.new_Frame AWT frame

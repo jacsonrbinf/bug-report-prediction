@@ -1,0 +1,1 @@
+ArrayIndexOutOfBoundsException occurence while setting TableColumn Width

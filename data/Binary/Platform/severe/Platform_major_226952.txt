@@ -1,0 +1,1 @@
+[CommonNavigator] Refreshing issues in Project explorer with self updating working sets

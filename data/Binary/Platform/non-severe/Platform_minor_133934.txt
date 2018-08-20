@@ -1,0 +1,1 @@
+[Memory View]Incorrect label text in Monitor Memory dialog

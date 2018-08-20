@@ -1,0 +1,1 @@
+Buttons have wrong frame color for Windows XP style

@@ -1,0 +1,1 @@
+[Help][Standalone] Standalone Help not starting on Win7

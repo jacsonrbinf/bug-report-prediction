@@ -1,0 +1,1 @@
+Bus Error reported when running Eclipse on Mac OSX (Tiger)

@@ -1,0 +1,1 @@
+[Net] Library libproxygnome.so version number missing

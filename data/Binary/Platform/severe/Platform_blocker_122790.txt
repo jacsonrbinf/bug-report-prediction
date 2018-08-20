@@ -1,0 +1,1 @@
+Critical Bug, Eclipse stalls OS on Open File in 10.4.3.

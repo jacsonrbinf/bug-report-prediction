@@ -1,0 +1,1 @@
+[Markers] Quick filter selection is not updating the view

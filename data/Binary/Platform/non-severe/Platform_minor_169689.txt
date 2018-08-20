@@ -1,0 +1,1 @@
+[launching] revert button does not revert config name text

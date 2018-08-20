@@ -1,0 +1,1 @@
+IDE crashes when building large project with OutOfMemoryError when both physical and heap memory are plenty

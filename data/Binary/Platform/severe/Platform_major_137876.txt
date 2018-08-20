@@ -1,0 +1,1 @@
+Closed bug 125656 still exists in I20060413-1718 (3.2RC1)

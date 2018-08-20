@@ -1,0 +1,1 @@
+[CommonNavigator] doubleclick doesnt work any more in the project explorer when an editor had an error

@@ -1,0 +1,1 @@
+Launch config dialog wrongly asks to save unsaved changes

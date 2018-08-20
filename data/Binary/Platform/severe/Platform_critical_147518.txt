@@ -1,0 +1,1 @@
+StyledText down arrow (cursor) broken

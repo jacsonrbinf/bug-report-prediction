@@ -1,0 +1,1 @@
+DropTargetEvent does not mention DND.DROP_DEFAULT

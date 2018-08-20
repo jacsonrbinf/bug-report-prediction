@@ -1,0 +1,1 @@
+Browser: Got NPE when it's closed after viewing a pdf (Adobe Reader 9.0)

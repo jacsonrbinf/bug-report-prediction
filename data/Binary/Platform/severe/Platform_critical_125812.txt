@@ -1,0 +1,1 @@
+new Image(device, image, SWT.IMAGE_COPY) does not work as expected on windows.

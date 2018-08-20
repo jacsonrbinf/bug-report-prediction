@@ -1,0 +1,1 @@
+[PI] SWT-Cocoa hangs in a event listener whenever a RuntimeException is raised

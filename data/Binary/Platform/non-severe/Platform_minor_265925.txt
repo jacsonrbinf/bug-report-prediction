@@ -1,0 +1,1 @@
+[Decorators] Open Resource window doesn't have SVN icons

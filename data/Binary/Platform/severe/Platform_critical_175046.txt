@@ -1,0 +1,1 @@
+StatusNotificationManager.showError - dialog no longer appears

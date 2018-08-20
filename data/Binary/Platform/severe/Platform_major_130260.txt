@@ -1,0 +1,1 @@
+Regression: table viewer cannot edit cell without text

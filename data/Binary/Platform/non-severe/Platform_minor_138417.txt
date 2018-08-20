@@ -1,0 +1,1 @@
+[CheatSheet] Help button on Cheat Sheet Selection Dialog should link to cheat sheet help

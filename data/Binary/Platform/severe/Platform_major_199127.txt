@@ -1,0 +1,1 @@
+[Commands] ContentAssistCommandAdapter#setEnabled(..) does not update handler activation

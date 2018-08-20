@@ -1,0 +1,1 @@
+CCombo.dropdown doesn't handle the screen's right edge

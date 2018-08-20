@@ -1,0 +1,1 @@
+[ErrorHandling] [statushandling] WSDM#getSecondaryMessage should consequently check for message duplication

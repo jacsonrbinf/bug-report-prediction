@@ -1,0 +1,1 @@
+Linux Console and all individual output logs missing from Eclipse build

@@ -1,0 +1,1 @@
+[Wizards] Bad implementation of IWizard's dispose() method can prevent the dialog from closing

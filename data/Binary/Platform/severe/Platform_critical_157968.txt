@@ -1,0 +1,1 @@
+Swing JDialog doesn't receive event in Java 1.6

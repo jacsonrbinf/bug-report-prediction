@@ -1,0 +1,1 @@
+[CommonNavigator] Linking open editors with content in Project Explorer not working on restart

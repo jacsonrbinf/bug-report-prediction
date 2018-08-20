@@ -1,0 +1,1 @@
+[Filters] org.eclipse.core.resources.filterMatchers extension point lists AbstractFileInfoMatcher in wrong package

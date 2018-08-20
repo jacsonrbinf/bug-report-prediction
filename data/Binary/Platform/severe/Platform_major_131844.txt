@@ -1,0 +1,1 @@
+[Trim] Sash snaps to right when resizing view or editor

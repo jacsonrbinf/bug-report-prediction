@@ -1,0 +1,1 @@
+Heap status is on in a fresh workspace, while its preference is off

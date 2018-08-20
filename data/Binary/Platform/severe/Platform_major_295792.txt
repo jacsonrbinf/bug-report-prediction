@@ -1,0 +1,1 @@
+[SWT] Browser issue: open a window from link or script doesn't work

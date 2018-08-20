@@ -1,0 +1,1 @@
+[CommonNavigator] Flicker in header buttons when resizing window in Linux

@@ -1,0 +1,1 @@
+Hovering over a Browser object/"Press 'F2' for focus window" closes eclipse abruptly

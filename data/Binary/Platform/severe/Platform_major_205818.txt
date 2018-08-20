@@ -1,0 +1,1 @@
+Adherent TextStyles must be continuous

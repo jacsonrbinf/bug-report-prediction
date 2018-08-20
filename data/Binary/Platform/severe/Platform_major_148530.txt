@@ -1,0 +1,1 @@
+Text SWT.MULTI with backgroundimage don't show deleted characters

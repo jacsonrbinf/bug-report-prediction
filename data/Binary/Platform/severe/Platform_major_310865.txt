@@ -1,0 +1,1 @@
+[Eclipse Galileo][UTF8 Encoding]| unable to see Japanese,simplified Chinese, and tradition Chinese in JSP editor

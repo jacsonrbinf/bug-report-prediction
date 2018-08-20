@@ -1,0 +1,1 @@
+[OpenModes] Double clicks not working in N20061220-0010

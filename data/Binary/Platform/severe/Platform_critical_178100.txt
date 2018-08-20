@@ -1,0 +1,1 @@
+Spinner.getSelection does not return correct value within Modify listener

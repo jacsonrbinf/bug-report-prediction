@@ -1,0 +1,1 @@
+CVS add & up-to-date check fail if directory name contains "."

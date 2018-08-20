@@ -1,0 +1,1 @@
+Layouting and mnemonic issues in new Replace dialog

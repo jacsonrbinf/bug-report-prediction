@@ -1,0 +1,1 @@
+[Help] HTTP ERROR: 404 when clicking on FRAMES link in Javadoc

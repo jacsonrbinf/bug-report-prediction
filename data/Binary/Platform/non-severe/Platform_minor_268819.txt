@@ -1,0 +1,1 @@
+[WorkbenchLauncher] 'Workspaces' preference page's 'Remove' button should enable/disable itself more intelligently

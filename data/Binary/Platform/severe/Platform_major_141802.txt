@@ -1,0 +1,1 @@
+[Help] "Help > Use external browser" preference does not work

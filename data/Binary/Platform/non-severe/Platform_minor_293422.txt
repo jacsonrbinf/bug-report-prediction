@@ -1,0 +1,1 @@
+[Markers] Suggested markers view name is 'Markers -2' when it should be a non-negative number

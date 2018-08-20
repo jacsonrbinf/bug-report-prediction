@@ -1,0 +1,1 @@
+Cannot install plugins with space requirements on XP 64

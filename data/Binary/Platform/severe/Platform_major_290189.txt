@@ -1,0 +1,1 @@
+Infinite loop in org.eclipse.core.internal.resources.ProjectPreferences.removeLoadedNodes

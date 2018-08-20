@@ -1,0 +1,1 @@
+[Browser] After clicking certain links, mouse/key events are not sent anymore

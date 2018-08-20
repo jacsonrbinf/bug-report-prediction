@@ -1,0 +1,1 @@
+[open type] Open Type dialog does not work in high contrast

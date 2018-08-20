@@ -1,0 +1,1 @@
+Renaming in project explorer has issues when you click off of the renamed file.

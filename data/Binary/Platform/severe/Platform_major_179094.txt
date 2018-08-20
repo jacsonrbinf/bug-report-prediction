@@ -1,0 +1,1 @@
+[min/max] switch between perspectives ends up with maximizing the active view of the first perspective

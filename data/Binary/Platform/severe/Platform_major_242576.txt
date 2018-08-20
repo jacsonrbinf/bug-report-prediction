@@ -1,0 +1,1 @@
+{Tasks] After opening the preferences and clicking ok - they dissapear

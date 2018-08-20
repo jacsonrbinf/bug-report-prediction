@@ -1,0 +1,1 @@
+TableItem.getBounds(int) does not reveal correct size

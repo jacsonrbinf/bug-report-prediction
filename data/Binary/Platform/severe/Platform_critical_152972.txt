@@ -1,0 +1,1 @@
+VM crash when using with the PDE plugin/manifest editor

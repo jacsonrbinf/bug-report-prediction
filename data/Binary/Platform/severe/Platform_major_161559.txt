@@ -1,0 +1,1 @@
+[64] Out of memory exceptions with GTK and Eclipse > 3.1

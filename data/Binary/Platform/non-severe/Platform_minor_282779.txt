@@ -1,0 +1,1 @@
+[About] Features Dialog - icon is not transparent on white background

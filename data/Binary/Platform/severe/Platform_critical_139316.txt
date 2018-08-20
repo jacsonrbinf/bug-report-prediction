@@ -1,0 +1,1 @@
+external build with ant: external jre selection only allows current workspace jre

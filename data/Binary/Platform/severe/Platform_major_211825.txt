@@ -1,0 +1,1 @@
+[GlobalActions] Deletion of a large number of project happens in the foreground

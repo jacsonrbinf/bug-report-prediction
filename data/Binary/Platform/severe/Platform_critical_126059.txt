@@ -1,0 +1,1 @@
+crash while calling TreeItem.setText

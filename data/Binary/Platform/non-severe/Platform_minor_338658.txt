@@ -1,0 +1,1 @@
+[Preferences] colorDefinition not stored when run from IDE

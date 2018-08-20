@@ -1,0 +1,1 @@
+[Commands] Correct org.eclipse.ui.handlers extension point documentation

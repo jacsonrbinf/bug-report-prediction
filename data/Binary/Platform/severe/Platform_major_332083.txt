@@ -1,0 +1,1 @@
+Invalid MouseHover event on MacOSX Cocoa

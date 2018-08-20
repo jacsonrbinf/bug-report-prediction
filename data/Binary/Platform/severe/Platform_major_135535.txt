@@ -1,0 +1,1 @@
+[KeyBindings] Key bindings lost in the Java editor

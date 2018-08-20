@@ -1,0 +1,1 @@
+Search->Text  gives no error message when nothing is selected

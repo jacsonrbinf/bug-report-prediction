@@ -1,0 +1,1 @@
+SWT.Verify notify only last character into e.text property

@@ -1,0 +1,1 @@
+Highlighted tabs in main window not updating with other window data.

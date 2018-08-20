@@ -1,0 +1,1 @@
+[implementation] View port listeners of TextViewer never receive resize events

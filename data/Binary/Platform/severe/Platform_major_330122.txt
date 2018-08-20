@@ -1,0 +1,1 @@
+[3.6 maint] HTMLTransfer broken from Firefox --> SWT [Carbon]

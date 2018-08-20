@@ -1,0 +1,1 @@
+[CommonNavigator] Pipeline mechanism does not correctly remember contributions

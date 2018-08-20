@@ -1,0 +1,1 @@
+[CommonNavigator] NavigatorContentServiceLabelProvider#getText(..) contains untranslated "Null Label"

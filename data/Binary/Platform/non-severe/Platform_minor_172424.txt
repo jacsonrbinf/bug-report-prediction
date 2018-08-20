@@ -1,0 +1,1 @@
+[Webapp] Input escape characters as a search scope list name, the scope cannot be deleted

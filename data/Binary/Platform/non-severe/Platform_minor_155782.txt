@@ -1,0 +1,1 @@
+History limit dialog behaves strange when preference is > 100

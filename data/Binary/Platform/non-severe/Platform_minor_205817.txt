@@ -1,0 +1,1 @@
+[Wizards] Finish in Change ASCII/Binary does nothing if comment required

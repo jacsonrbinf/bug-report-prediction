@@ -1,0 +1,1 @@
+DBCS characters cannot be input into password Text field only pasted

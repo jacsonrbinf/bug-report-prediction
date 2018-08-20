@@ -1,0 +1,1 @@
+[Markers] Marker object contributions no longer work in Eclipse 3.4

@@ -1,0 +1,1 @@
+Version number in About box is wrong for platform only

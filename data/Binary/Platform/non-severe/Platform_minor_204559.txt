@@ -1,0 +1,1 @@
+[rulers] vertical ruler not update on 'Restore Defaults'

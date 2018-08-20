@@ -1,0 +1,1 @@
+Unnecessary line of code in ResourceEncodingFieldEditor

@@ -1,0 +1,1 @@
+[Markers] New Problems view reset to 'all' on restart

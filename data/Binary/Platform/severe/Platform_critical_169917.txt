@@ -1,0 +1,1 @@
+Workspace won't run after update when ICU4J version is updated

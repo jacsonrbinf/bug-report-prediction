@@ -1,0 +1,1 @@
+[CommonNavigator] Regression: Show In > Project Explorer removes selection after setting it

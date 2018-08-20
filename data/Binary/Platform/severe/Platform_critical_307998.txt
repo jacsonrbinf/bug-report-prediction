@@ -1,0 +1,1 @@
+Deadlock caused by internal IWorkspace lock and ISchedulingRules

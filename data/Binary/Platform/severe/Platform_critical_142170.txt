@@ -1,0 +1,1 @@
+[rulers] Annotations are not repainted upon state changes

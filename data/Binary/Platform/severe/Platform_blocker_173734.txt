@@ -1,0 +1,1 @@
+SWT on HPUX: bundled shared libraries does not match SWT version

@@ -1,0 +1,1 @@
+JobManager is missing aboutToRelease call, causing UI thead to be interrupted

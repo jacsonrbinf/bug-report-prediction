@@ -1,0 +1,1 @@
+[console] deadlock in ConsoleDocument during ant execution in autobuild

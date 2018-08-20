@@ -1,0 +1,1 @@
+[KeyBindings] misc: All menu shortcuts suddenly disappear

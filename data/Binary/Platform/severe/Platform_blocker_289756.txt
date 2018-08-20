@@ -1,0 +1,1 @@
+JTextField does not get focus/listens to KeyEvent once looses focus.

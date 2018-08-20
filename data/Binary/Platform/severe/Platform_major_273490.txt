@@ -1,0 +1,1 @@
+Galileo M6 fails to start on OSX 10.4.11: Crash in CarbonCore: EXC_BAD_ACCESS

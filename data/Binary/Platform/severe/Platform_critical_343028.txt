@@ -1,0 +1,1 @@
+Startup fails, java returns exit code=13

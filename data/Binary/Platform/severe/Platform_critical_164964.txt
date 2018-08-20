@@ -1,0 +1,1 @@
+FAQ [CVSNT] CVS compare is comparing with wrong revision

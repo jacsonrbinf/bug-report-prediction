@@ -1,0 +1,1 @@
+x86_64 version of eclipse3.2M5 crashes when code assistant menu apears

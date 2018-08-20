@@ -1,0 +1,1 @@
+Eclipse hang on opening any editor  (org.eclipse.swt.internal.gtk.OS._gtk_enumerate_printers)

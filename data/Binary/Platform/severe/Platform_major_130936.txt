@@ -1,0 +1,1 @@
+[Help] Dynamic content producers don't work when docs are zipped

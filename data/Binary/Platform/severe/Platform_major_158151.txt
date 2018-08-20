@@ -1,0 +1,1 @@
+Selecting sort indicator draws column one row over

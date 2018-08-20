@@ -1,0 +1,1 @@
+Unable to create view ID org.eclipse.jdt.ui.PackageExplorer: An unexpected exception was thrown. in existing workspace only

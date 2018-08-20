@@ -1,0 +1,1 @@
+[Import/Export] Progress bar in "Import Projects" wizard does not reflect real progress

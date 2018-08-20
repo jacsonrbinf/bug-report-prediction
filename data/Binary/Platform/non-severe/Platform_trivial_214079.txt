@@ -1,0 +1,1 @@
+Import Team Project wizard describes what it is, not what it does

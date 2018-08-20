@@ -1,0 +1,1 @@
+[Commands] Ctrl+C, Ctrl+X, Ctrl+V (Cut, Copy, Paste) shortcuts don't work over SWT_AWT Bridge

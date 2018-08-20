@@ -1,0 +1,1 @@
+[CommonNavigator]  View menu items need accelerator keys

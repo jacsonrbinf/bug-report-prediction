@@ -1,0 +1,1 @@
+Solaris: Eclipse ignores system font changes and default font too big

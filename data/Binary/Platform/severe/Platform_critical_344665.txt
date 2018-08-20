@@ -1,0 +1,1 @@
+Eclipse crashes with xulrunner 2.0 when using autocomplete

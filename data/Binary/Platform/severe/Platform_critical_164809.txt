@@ -1,0 +1,1 @@
+[EFS] File system support in linked resources doesn't work

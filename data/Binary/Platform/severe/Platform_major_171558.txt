@@ -1,0 +1,1 @@
+[Metadata] Opening up a simple workspace causes too many plugins to be activated

@@ -1,0 +1,1 @@
+NullPointer trying to open java or txt file

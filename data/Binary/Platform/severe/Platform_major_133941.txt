@@ -1,0 +1,1 @@
+[Properties] Can't contribute properties page for non IAdaptable

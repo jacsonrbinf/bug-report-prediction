@@ -1,0 +1,1 @@
+Always save editors before launch preference should take effect immediately

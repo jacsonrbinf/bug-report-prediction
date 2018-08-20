@@ -1,0 +1,1 @@
+Welcome screen for Ganymede shows "Welcome to Eclipse 3.3"

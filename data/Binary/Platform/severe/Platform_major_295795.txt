@@ -1,0 +1,1 @@
+[SWT_AWT] Popup menu in browser freezes app

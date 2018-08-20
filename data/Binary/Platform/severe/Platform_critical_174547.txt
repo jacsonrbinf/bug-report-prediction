@@ -1,0 +1,1 @@
+[Browser] [64] Mozilla XPCOM broken in 3.2.2

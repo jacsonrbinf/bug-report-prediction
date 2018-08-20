@@ -1,0 +1,1 @@
+Folder deletion can cause incorrect project delta node flags if linked folders exist in project

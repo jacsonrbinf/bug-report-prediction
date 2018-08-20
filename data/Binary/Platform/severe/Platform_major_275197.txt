@@ -1,0 +1,1 @@
+[CommonNavigator] NullPointerException - Working set actions don't appear in CNF client

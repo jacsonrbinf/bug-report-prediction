@@ -1,0 +1,1 @@
+[releng] Eclipse Helios SDK is missing the org.apache.lucene source bundle

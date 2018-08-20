@@ -1,0 +1,1 @@
+TVT3.2:TCT849: pl: Hardcoded English Strings in Preferences - Ant - Editor -Templates

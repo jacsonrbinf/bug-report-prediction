@@ -1,0 +1,1 @@
+Search view becomes unusable after file search

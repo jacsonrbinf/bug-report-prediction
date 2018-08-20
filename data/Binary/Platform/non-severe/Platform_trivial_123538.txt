@@ -1,0 +1,1 @@
+[ProblemsView] Move "Configure Filters..." to the Filters submenu

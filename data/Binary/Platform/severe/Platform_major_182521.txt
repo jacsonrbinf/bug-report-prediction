@@ -1,0 +1,1 @@
+[painting] 'Show whitespace characters' is unavailable graphics library Cairo

@@ -1,0 +1,1 @@
+Alpha channels being lost on Windows XP classic theme

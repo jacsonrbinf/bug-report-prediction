@@ -1,0 +1,1 @@
+[Markers] Problems view not indicating pending update after deletion

@@ -1,0 +1,1 @@
+[Browser] Cannot Edit a Html IFrame which is in swt

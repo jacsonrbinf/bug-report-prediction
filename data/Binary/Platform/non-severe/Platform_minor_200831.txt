@@ -1,0 +1,1 @@
+Dragging text to bad location in expressions view does not update cursor

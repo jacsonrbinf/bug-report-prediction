@@ -1,0 +1,1 @@
+Project-scoped preferences example seems incorrect

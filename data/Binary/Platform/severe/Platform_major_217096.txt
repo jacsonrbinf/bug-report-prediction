@@ -1,0 +1,1 @@
+[Markers] NPE from new problems view on startup

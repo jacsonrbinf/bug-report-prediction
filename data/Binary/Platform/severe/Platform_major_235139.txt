@@ -1,0 +1,1 @@
+Ecipse freaks out while editing file over 64k

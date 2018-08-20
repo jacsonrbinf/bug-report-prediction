@@ -1,0 +1,1 @@
+[Browser] Enter key has no effect on DOM element in design mode when using IE as browser

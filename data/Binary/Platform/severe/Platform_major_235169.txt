@@ -1,0 +1,1 @@
+[results] Most of JDT/Text tests do not have all results displayed in graph and data pages

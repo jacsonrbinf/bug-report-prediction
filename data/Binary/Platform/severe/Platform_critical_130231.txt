@@ -1,0 +1,1 @@
+Core expressions do not force load of plugin testers

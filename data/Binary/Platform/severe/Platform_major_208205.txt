@@ -1,0 +1,1 @@
+[Markers] New Markers view: Limit visible items should be per group

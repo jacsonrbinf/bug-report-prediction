@@ -1,0 +1,1 @@
+File Save function is blocked for files under ClearCase source control

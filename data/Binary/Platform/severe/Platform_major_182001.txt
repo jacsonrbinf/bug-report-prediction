@@ -1,0 +1,1 @@
+Whacky behaviour in the update manager with WPF drop of Eclipse on Windows Vista

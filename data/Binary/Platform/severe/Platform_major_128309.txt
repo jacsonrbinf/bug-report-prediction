@@ -1,0 +1,1 @@
+[Progress] Failed commit does not bring up error message

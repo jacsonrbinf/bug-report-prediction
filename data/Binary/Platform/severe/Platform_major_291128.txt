@@ -1,0 +1,1 @@
+[Widgets] eclipse >= 3.5 crash when closing a first level modal window (Install, Run Configurations)

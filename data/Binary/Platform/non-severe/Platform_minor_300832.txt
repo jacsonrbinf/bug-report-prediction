@@ -1,0 +1,1 @@
+[IDE] 'Edit Resource Filter' dialog has a strange layout

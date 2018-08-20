@@ -1,0 +1,1 @@
+EXPAND flag in model delta for new launch seems extraneous

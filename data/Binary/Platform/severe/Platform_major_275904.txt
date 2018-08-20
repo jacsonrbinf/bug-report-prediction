@@ -1,0 +1,1 @@
+[block selection][projection] select all in block selection more throws IllegalArgumentException

@@ -1,0 +1,1 @@
+Wizard from ApplyPatchOperation does not skip the patch selection page.

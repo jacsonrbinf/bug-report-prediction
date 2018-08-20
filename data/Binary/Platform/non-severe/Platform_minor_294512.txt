@@ -1,0 +1,1 @@
+Eclipse job error dialog layout problem

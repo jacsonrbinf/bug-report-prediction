@@ -1,0 +1,1 @@
+[Viewers] [table] IAE (Index out of bounds) after selecting rows in virtual TableViewer

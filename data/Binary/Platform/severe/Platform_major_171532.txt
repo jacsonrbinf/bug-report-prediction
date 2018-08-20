@@ -1,0 +1,1 @@
+[Forms] Section title text label has opaque background in GTK

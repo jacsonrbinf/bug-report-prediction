@@ -1,0 +1,1 @@
+[Edit] Undesired switch from compare editor to regular java editor

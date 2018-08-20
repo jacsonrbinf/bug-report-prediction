@@ -1,0 +1,1 @@
+[Viewers] Collapsed item get's child count re-set to 1 if children already retrieved

@@ -1,0 +1,1 @@
+Cannot get focus out of browser widget any more

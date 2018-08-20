@@ -1,0 +1,1 @@
+[DataBinding][Regression] NullpointerException if observables are disposed while masterdetail running

@@ -1,0 +1,1 @@
+Error message after CTRL+SHIFT+T event (open type dialog)

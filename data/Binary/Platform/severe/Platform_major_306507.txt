@@ -1,0 +1,1 @@
+[Backport] [Sync View] Error message during update operation after synchronization

@@ -1,0 +1,1 @@
+Eclipse fails to save files (or delete them) when the hostname is changed

@@ -1,0 +1,1 @@
+NLS33:translation of "Run As", "Debug As", "Profile As", etc

@@ -1,0 +1,1 @@
+[KeyBindings][Preferences] TVT34:TCT359: The "Filters" key is truncated

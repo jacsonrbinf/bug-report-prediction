@@ -1,0 +1,1 @@
+[Forms] HyperlinkGroup: Active link Color persists even after Mouse exit

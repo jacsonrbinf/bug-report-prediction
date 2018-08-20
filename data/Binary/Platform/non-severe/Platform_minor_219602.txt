@@ -1,0 +1,1 @@
+[hovering] Enriched hovers should enforce minimal size

@@ -1,0 +1,1 @@
+[PI] Eclipse hangs on Splash screen, after the workspace is selected.

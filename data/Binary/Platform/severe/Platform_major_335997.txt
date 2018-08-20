@@ -1,0 +1,1 @@
+[Help][Search] Allow indexes created with Lucene 1.9.1 to be read

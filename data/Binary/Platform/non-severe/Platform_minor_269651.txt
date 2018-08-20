@@ -1,0 +1,1 @@
+Minimize of "Welcome Page" leads to a perspective without a toolbar

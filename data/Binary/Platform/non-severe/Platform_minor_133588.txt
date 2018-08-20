@@ -1,0 +1,1 @@
+[Intro] Icons do not line up on mac for circles theme

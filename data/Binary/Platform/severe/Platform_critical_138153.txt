@@ -1,0 +1,1 @@
+Sync view don't show full folder names in changeset mode

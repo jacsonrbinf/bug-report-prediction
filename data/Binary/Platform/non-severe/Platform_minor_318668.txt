@@ -1,0 +1,1 @@
+[INTERNATIONALIZATION][JA] "Categories" & "Columns..." are not localized in menu of Properties view.

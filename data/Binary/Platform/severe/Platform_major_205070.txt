@@ -1,0 +1,1 @@
+[JFace] ImageDataImageDescriptor's hashCode doesn't correspond to its equals method

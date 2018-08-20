@@ -1,0 +1,1 @@
+[IDE] TVT36:TCT216: CHS: Duplicate Mnemonic 'a' on 'Workspace' page

@@ -1,0 +1,1 @@
+[CommonNavigator] unable to see any projects in project explorer until you right-click or do something

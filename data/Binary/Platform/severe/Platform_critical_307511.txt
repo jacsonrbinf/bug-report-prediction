@@ -1,0 +1,1 @@
+After update to OS X 10.6.3 eclipse no longer launches

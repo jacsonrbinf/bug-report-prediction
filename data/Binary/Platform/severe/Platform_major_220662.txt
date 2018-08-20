@@ -1,0 +1,1 @@
+[Markers] Problems view custom configuration with all types selected does not pick up new types

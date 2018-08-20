@@ -1,0 +1,1 @@
+[Browser] External browser location doesn't handle space in path correctely

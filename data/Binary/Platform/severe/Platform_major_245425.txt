@@ -1,0 +1,1 @@
+Unhandled event loop exception when opening filtered resources dialogue

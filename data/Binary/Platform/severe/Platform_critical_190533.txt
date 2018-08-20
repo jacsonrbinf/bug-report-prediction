@@ -1,0 +1,1 @@
+NullPointerException when installing a feature via update site with a cascaded configuration area

@@ -1,0 +1,1 @@
+StyledText#setSelection() does not reveal caret at end of line

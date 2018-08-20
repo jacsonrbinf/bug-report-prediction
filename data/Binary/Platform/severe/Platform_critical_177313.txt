@@ -1,0 +1,1 @@
+Invalid behavior of SWT GC drawText() method on Linux platform

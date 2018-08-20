@@ -1,0 +1,1 @@
+Eclipse can wipe out an existing file without prompting

@@ -1,0 +1,1 @@
+ANT Build using external JRE hangs with 'Waiting for virtual machine to exit"

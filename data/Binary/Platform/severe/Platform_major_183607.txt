@@ -1,0 +1,1 @@
+[ErrorHandling] NPE from status handler causes a Team/CVS test failure

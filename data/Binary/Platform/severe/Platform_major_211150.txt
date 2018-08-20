@@ -1,0 +1,1 @@
+[Browser] Mac OS X SWT Browser widget crashes

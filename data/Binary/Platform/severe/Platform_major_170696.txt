@@ -1,0 +1,1 @@
+[Progress] PlatformUI.getWorkbench().getProgressService().run(true,true,runnable)not showing dialog

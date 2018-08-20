@@ -1,0 +1,1 @@
+[Viewers] The TableViewer.getColumnProperties() method is not consistent with TableViewer.setColumnProperties()

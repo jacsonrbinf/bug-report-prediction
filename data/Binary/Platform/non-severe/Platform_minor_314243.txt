@@ -1,0 +1,1 @@
+[Widgets] Tooltip for tool item in inactive shell not updated when mouse moved to other item

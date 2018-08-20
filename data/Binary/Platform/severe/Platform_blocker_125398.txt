@@ -1,0 +1,1 @@
+Missing required bundle org.eclipse.ui.cheatsheets_0.0.0 Error on RCP application startup

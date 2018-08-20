@@ -1,0 +1,1 @@
+[projection] Code folding +/- icon has white jaggies

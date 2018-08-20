@@ -1,0 +1,1 @@
+Fresh workbench has no editor area and looks bad

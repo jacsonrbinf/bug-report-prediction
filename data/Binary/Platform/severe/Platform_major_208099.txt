@@ -1,0 +1,1 @@
+[Contributions] Toggling logical structure "Show As > Array" has no effect

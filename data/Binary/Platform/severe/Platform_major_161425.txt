@@ -1,0 +1,1 @@
+[Viewers] TableTreeViewer => EditingSupport broken

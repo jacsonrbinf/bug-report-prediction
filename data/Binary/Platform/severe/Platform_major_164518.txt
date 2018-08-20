@@ -1,0 +1,1 @@
+setFocus only puts the browser on the top for two times!

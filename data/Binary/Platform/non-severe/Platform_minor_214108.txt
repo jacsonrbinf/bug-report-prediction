@@ -1,0 +1,1 @@
+Two error messages displayed when entering invalid data in variables view

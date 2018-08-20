@@ -1,0 +1,1 @@
+[Webapp] Regression - Background color in Search scope pages is gray

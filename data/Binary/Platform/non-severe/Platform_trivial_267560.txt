@@ -1,0 +1,1 @@
+[EditorMgmt] Javadoc inconsistent for EditorManager#findEditors

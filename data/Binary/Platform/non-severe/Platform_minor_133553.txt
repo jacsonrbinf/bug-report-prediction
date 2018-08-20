@@ -1,0 +1,1 @@
+prompt for delete breakpoints and working sets enabled when nothing selected

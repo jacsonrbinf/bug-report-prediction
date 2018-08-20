@@ -1,0 +1,1 @@
+[Contributions] objectContribution enablement doc and extension schema WRONG

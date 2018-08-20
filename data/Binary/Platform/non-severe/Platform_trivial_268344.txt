@@ -1,0 +1,1 @@
+New "helpContextId" attribute in synchronizeParticipants schema should be tagged "since 3.5"

@@ -1,0 +1,1 @@
+IWorkspaceRoot.findFilesForLocation fails when using linked resources on Windows

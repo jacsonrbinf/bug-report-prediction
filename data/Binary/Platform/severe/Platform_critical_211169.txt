@@ -1,0 +1,1 @@
+On GTK platform, GC.getFontMetrics() costs too much time in Chinese locale

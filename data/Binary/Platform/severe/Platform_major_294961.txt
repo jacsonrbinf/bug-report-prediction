@@ -1,0 +1,1 @@
+Available software: OK and Next buttons react strangely to mouse clicks, some UI parts appear only after resizing the window

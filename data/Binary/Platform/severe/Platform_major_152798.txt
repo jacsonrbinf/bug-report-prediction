@@ -1,0 +1,1 @@
+Use Team file content type for binary determination

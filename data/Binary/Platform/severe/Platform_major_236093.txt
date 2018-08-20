@@ -1,0 +1,1 @@
+"Migration" entry in welcome page points to old 3.3 information

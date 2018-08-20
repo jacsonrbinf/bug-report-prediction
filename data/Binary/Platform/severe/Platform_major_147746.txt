@@ -1,0 +1,1 @@
+[EditorMgmt] setDefaultEditor() does not work for XML files

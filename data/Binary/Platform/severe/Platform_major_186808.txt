@@ -1,0 +1,1 @@
+[JFace] regression: JFace standalone apps should work without org.eclipse.osgi

@@ -1,0 +1,1 @@
+TextEditor's constructor's is confusing

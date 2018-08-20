@@ -1,0 +1,1 @@
+New history view: filter is not persisted - no way to constantly ignore local history

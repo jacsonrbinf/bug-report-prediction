@@ -1,0 +1,1 @@
+Font properties of tabs in MultiPageEditorPart are not reflected in drop-down menu

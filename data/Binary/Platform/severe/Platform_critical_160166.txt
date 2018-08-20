@@ -1,0 +1,1 @@
+[CommonNavigator] Actions not synched with selection

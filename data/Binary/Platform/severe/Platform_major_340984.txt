@@ -1,0 +1,1 @@
+Preferences compatibility Preferences.IPropertyChangeListeners receive event of wrong type via PreferencesForwarder

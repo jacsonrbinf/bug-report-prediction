@@ -1,0 +1,1 @@
+Debug view did not refresh when terminating a multithread application

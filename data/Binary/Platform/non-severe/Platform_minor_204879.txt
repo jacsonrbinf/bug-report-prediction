@@ -1,0 +1,1 @@
+[LinkedResources] PathVariableDialog's button positioning is confusing

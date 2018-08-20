@@ -1,0 +1,1 @@
+[Doc] Bad link in Ant Editor help page

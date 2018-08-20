@@ -1,0 +1,1 @@
+eclipse will not come up after upgrading to fedora core 5 (libswt-pi-gtk-3224.so: wrong ELF class: ELFCLASS32)

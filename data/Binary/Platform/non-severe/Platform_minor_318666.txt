@@ -1,0 +1,1 @@
+[INTERNATIONALIZATION][JA] "Use F2 to display the description..." is not localized in japenese

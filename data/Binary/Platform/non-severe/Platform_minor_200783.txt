@@ -1,0 +1,1 @@
+[find/replace] Dialog leaves 'Regular expressions' checked when not supported

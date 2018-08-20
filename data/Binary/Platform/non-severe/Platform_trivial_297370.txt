@@ -1,0 +1,1 @@
+[QuickAccess] Text at bottom of dialog should say that pressing ctrl-3 will change filtering

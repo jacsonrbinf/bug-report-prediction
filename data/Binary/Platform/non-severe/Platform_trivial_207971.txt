@@ -1,0 +1,1 @@
+Typos in the org.eclipse.team.core package.html file.

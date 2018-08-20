@@ -1,0 +1,1 @@
+Open resource dialog: Missing colons in labels

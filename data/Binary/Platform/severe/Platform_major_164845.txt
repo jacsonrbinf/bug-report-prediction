@@ -1,0 +1,1 @@
+[About] Linux - Plug-in detail & configuration detail buttons don't work in Eclipse About window

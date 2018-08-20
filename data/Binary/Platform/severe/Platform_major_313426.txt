@@ -1,0 +1,1 @@
+Different instances of FormColors return the same Color objects causing SWT errors on disposal

@@ -1,0 +1,1 @@
+Unable to add new plugins manually after doing a find new plugings

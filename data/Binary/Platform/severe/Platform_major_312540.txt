@@ -1,0 +1,1 @@
+[LinkedResources] Copy resource in Navigator and Project Explorer always shows dialog

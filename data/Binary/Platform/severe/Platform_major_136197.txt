@@ -1,0 +1,1 @@
+Icons in Package Explorer appear in un-viewable colors

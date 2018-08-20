@@ -1,0 +1,1 @@
+[Progress] Progress view shows two entries for same job - only one is updated

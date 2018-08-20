@@ -1,0 +1,1 @@
+Clear HEAD of org.apache.ant in dev.eclipse.org:/cvsroot/eclipse

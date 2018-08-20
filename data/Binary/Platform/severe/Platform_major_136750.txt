@@ -1,0 +1,1 @@
+[Intro] welcome page problems if native browser not found

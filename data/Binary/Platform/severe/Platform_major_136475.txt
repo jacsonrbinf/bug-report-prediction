@@ -1,0 +1,1 @@
+[Trim] Graphic is disposed error on shutdown

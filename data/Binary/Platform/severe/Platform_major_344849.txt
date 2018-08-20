@@ -1,0 +1,1 @@
+A BrowserFunction returning an array crashes when using IE9

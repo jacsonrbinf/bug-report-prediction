@@ -1,0 +1,1 @@
+Compare against tag fails to find delta

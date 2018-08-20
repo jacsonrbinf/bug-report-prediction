@@ -1,0 +1,1 @@
+IFile.getCharset() incorrect for non-existing IFile

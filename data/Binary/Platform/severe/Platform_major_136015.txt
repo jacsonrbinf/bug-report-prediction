@@ -1,0 +1,1 @@
+FileSystemResourceManager.allPathsForLocation(URI inputLocation) fails for symlinked files.

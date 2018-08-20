@@ -1,0 +1,1 @@
+"Add Date..." button shouldn't be visible in merge wizard

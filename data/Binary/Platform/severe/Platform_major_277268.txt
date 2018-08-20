@@ -1,0 +1,1 @@
+[Forms] section header labels are cut off on Gtk

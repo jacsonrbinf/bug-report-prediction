@@ -1,0 +1,1 @@
+SWT&RH8.0 (gdk_pixbuf_new, Java_org_eclipse_swt_internal_gtk_OS__1gdk_1pixbuf_1new)

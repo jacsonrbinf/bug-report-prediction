@@ -1,0 +1,1 @@
+[Webapp] Opening /help/advanced/content.jsp causes unresponsive script

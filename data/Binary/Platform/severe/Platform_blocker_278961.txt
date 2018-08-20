@@ -1,0 +1,1 @@
+Eclipse does not start on Windows 7 64 bit

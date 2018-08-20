@@ -1,0 +1,1 @@
+[Viewers] AbstractTreeViewer.insert fails if parent element has no children realized

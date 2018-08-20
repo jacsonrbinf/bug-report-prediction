@@ -1,0 +1,1 @@
+The layout algorithm is StyledText may cause some globalization problems.

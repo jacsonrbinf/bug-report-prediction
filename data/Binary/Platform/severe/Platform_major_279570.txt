@@ -1,0 +1,1 @@
+JVM crashes with Sun JRE 1.6.0_u14

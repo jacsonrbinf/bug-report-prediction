@@ -1,0 +1,1 @@
+Compare editor's saved state is not in sync with normal file

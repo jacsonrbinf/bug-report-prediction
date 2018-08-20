@@ -1,0 +1,1 @@
+[Navigation] Previous/Next Difference/Change buttons never enabled in compare editor of JUnit view

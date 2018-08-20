@@ -1,0 +1,1 @@
+Storage size format is difficult to read

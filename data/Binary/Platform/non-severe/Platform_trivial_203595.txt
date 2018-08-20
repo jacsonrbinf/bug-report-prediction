@@ -1,0 +1,1 @@
+[Contributions] SubMenuManager should use ListenerList's clear() method

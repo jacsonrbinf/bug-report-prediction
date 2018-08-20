@@ -1,0 +1,1 @@
+Non SWT OSGi application on Mac OS X exits during startup

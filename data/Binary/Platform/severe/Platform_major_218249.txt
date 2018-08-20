@@ -1,0 +1,1 @@
+[Markers] Protect against invalid IMarker attribute values

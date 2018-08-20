@@ -1,0 +1,1 @@
+Cannot move cursor after cancelling IME input by pressing escape key.

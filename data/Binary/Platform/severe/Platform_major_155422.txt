@@ -1,0 +1,1 @@
+[PropertiesDialog] property page not showing up

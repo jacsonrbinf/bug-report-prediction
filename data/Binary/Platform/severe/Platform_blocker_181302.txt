@@ -1,0 +1,1 @@
+[Linux] SWT Deactivate event no longer fired when a Shell is deactivated

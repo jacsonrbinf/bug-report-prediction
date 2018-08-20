@@ -1,0 +1,1 @@
+Solaris crash: symbol gnome_icon_theme_new: referenced symbol not found

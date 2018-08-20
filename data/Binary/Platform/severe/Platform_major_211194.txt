@@ -1,0 +1,1 @@
+Rollover tooltips in owner-drawn Tree only shown after delay

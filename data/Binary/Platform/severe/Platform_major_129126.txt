@@ -1,0 +1,1 @@
+When VerifyListener is added in org.eclipse.swt.widgets.Text, StringIndexOutOfBoundsException might be occurred by UNDO operation.

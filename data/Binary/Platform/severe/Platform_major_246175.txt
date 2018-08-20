@@ -1,0 +1,1 @@
+[ViewMgmt] IllegalArgumentException when eclipse does reparenting of control and main window is null.

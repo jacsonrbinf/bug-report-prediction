@@ -1,0 +1,1 @@
+EditorsView's EditorsContentProvider can be replaced by ArrayContentProvider

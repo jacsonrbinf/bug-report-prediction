@@ -1,0 +1,1 @@
+SWT.MOVEMENT_* needs better Javadoc

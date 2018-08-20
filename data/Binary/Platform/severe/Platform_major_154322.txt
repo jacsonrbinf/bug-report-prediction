@@ -1,0 +1,1 @@
+[IDE] NPE is thrown when a resource is deleted

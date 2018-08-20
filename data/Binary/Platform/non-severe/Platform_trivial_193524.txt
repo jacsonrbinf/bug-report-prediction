@@ -1,0 +1,1 @@
+[Wizards] Synchronize CVS dialog and Working Sets polishing

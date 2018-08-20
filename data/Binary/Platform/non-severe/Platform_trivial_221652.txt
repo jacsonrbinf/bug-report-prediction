@@ -1,0 +1,1 @@
+[Patch] Widgets layout on Advanced Options page in the Create Patch wizard

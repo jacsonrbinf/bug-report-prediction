@@ -1,0 +1,1 @@
+[PropertyPages] CCE when closing Properties dialog for Java project

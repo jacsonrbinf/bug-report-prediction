@@ -1,0 +1,1 @@
+No start: eclipse executable launcher unable to locate its companion shared library

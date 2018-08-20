@@ -1,0 +1,1 @@
+Can't get past the splash screen after selecting a workspace to open

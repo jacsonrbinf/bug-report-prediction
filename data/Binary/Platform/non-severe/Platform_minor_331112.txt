@@ -1,0 +1,1 @@
+History view's tag table does not remember sort order

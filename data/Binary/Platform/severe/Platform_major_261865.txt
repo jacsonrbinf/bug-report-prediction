@@ -1,0 +1,1 @@
+[CommonNavigator] Drag from Project Explorer to Package Explorer gets "assertion failed"

@@ -1,0 +1,1 @@
+[launching] Auto-delete of launch configurations changed behavior and is now based on resources instead of projects

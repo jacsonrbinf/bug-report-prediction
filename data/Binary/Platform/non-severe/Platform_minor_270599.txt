@@ -1,0 +1,1 @@
+[Proxy] Restore Defaults should set Active Provider to Native

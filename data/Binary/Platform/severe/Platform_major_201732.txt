@@ -1,0 +1,1 @@
+[Commands] org.eclipse.ui.commands/command/defaultHandler ELEMENT not read from the regitry

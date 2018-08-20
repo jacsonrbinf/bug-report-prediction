@@ -1,0 +1,1 @@
+Sync view does not update error decorator of resources anymore

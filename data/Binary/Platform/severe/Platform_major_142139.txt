@@ -1,0 +1,1 @@
+Eclipse shuts down with error code 1 when debugging

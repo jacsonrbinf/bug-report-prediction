@@ -1,0 +1,1 @@
+evaluating window.external in embedded IE results in exception

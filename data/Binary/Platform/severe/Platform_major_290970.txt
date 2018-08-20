@@ -1,0 +1,1 @@
+[SWT/AWT] SWT_AWT Bridge doesn't appear to be working

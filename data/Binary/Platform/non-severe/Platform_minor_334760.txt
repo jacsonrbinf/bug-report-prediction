@@ -1,0 +1,1 @@
+[Browser] Preferences: Cannot point to binary of External Web Browser using Browse button

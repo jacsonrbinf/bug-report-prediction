@@ -1,0 +1,1 @@
+[WorkingSets] Working set selection dialog in Project Explorer has conflicting mnemonic keys

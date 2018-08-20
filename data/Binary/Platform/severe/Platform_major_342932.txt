@@ -1,0 +1,1 @@
+replace does not replace all matches found in same file

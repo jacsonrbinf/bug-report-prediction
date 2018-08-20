@@ -1,0 +1,1 @@
+Run configuration's Common page uses same mnemonic twice

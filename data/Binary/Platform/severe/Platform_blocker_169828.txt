@@ -1,0 +1,1 @@
+Eclipse fails to start up.. It was working fine until I installed the jars from the last update

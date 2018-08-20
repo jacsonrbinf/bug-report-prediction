@@ -1,0 +1,1 @@
+[Intro] org.eclipse.ui.intro not optional for org.eclipse.platform

@@ -1,0 +1,1 @@
+SWTError on activation of the javadoc view

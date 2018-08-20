@@ -1,0 +1,1 @@
+[Markers] Problems view collapses categories when problems fixed

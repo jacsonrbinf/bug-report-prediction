@@ -1,0 +1,1 @@
+[browser]Click URL linked to a new window, pop up two browser window

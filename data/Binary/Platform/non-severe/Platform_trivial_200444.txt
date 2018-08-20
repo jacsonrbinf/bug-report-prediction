@@ -1,0 +1,1 @@
+[IDE] Remove "Copy of" when copying a file

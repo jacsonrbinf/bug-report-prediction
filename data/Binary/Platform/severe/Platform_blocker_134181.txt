@@ -1,0 +1,1 @@
+Font.init does not initialise the device of a font

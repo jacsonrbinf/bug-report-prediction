@@ -1,0 +1,1 @@
+[Contextual Help] If the description of a context is empty, an NPE occurs and the dynamic help is not show

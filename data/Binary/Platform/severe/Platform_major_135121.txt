@@ -1,0 +1,1 @@
+[typing] problems deleting line while in "selected element only" mode

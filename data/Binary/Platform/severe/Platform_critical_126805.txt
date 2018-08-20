@@ -1,0 +1,1 @@
+FileDialog when dealing with multiple files return list of file name, the sequence change

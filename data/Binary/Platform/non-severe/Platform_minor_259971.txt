@@ -1,0 +1,1 @@
+In debug mode if and the expressions view delete multiple doesn't work

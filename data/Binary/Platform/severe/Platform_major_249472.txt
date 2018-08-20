@@ -1,0 +1,1 @@
+[GlobalActions] Change File > Restart mnemonic to something else than File > Revert mnemonic

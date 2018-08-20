@@ -1,0 +1,1 @@
+Cannot get nsIDocShell on Mac OSX with SWT Browser

@@ -1,0 +1,1 @@
+Use standard refresh icon in Search View

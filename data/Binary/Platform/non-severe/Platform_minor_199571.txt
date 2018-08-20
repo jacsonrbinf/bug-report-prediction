@@ -1,0 +1,1 @@
+Description column is too narrow in Problems view

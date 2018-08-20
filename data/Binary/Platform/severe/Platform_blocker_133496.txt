@@ -1,0 +1,1 @@
+Cannot check out a project from CVS due to 'Error: Resource ...  is not local.'

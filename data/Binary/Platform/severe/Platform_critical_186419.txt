@@ -1,0 +1,1 @@
+[Webapp] Hang when expanding topic in Eclipse Help.

@@ -1,0 +1,1 @@
+DBCS3.5 <Problem during deletion of surrogate characters in eclipse editor(Linux).>

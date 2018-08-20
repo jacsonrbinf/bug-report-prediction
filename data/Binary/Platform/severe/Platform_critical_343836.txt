@@ -1,0 +1,1 @@
+Eclipse becomes unresponsive after entering the Secure Storage Password

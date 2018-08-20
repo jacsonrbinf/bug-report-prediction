@@ -1,0 +1,1 @@
+[Widgets] SWT Virtual table crashes in Windows 7

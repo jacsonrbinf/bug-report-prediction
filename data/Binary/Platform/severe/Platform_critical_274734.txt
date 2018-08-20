@@ -1,0 +1,1 @@
+Ctrl + click causes elements to be unselected

@@ -1,0 +1,1 @@
+Deadlock while opening the Open Type dialog

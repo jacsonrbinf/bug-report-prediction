@@ -1,0 +1,1 @@
+[hovering] Double right click in focused hover help brings up IE window

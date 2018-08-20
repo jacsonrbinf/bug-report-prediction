@@ -1,0 +1,1 @@
+[JFace] Add javadoc to Window.close() to tell that no shellClosed event is sent

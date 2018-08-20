@@ -1,0 +1,1 @@
+'Properties > CVS' for folder inside CVS project should have copyable fields

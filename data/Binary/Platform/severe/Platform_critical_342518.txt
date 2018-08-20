@@ -1,0 +1,1 @@
+JVM crash on ctrl+space for code completion

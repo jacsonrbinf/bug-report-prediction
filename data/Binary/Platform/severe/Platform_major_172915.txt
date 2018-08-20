@@ -1,0 +1,1 @@
+[Webapp] Accessiblity:Some content is cut off in Help document if high contrast+Large font.

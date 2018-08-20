@@ -1,0 +1,1 @@
+Handler conflict for Ctrl-S when switching detail panes

@@ -1,0 +1,1 @@
+On Mac platform, when a tooltip gets displayed, a SWT.MouseExit event should not be sent.

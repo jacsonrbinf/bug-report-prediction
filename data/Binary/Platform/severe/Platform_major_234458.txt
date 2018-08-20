@@ -1,0 +1,1 @@
+Opening external builds launch dialog hangs during a build

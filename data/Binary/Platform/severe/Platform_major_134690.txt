@@ -1,0 +1,1 @@
+Internal error when doing 'Build all' in an update project

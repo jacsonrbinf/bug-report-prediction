@@ -1,0 +1,1 @@
+Closing editor should not scroll Project Explorer (Link with editor enabled)

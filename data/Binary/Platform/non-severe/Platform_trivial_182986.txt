@@ -1,0 +1,1 @@
+Javadoc in GC should document methods that need the advanced graphics subsystem

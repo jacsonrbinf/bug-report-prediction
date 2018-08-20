@@ -1,0 +1,1 @@
+Debug context activation causes expressions view updates when hidden if selection is empty

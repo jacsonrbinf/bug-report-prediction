@@ -1,0 +1,1 @@
+SWT Table show tooltip throw  ArrayIndexOutOfBoundsException

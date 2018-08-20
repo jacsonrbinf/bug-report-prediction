@@ -1,0 +1,1 @@
+[Contributions] [regression] IElementUpdater.updateElement() - IWorkbenchPartSite service not in scope of provided UIElement

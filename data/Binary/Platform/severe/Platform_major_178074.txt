@@ -1,0 +1,1 @@
+[Help] JVM crash when opening help system

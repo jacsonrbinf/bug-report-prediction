@@ -1,0 +1,1 @@
+tree viewer redraw/refresh does not occur in some case

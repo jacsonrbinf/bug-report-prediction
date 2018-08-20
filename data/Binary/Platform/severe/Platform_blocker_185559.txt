@@ -1,0 +1,1 @@
+Eclipse crashes with "JVM terminated. Exit Code=1

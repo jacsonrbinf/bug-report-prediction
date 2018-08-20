@@ -1,0 +1,1 @@
+[FieldAssist] Content assist popup in Find Replace dialog for regexp covers regexp text

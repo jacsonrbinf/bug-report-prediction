@@ -1,0 +1,1 @@
+Eclipse hangs when clicking on the open type/implementation hover

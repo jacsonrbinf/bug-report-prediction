@@ -1,0 +1,1 @@
+[DND] Drag'n'Drop in TabItem doesn't work

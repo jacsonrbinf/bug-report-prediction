@@ -1,0 +1,1 @@
+DBCS3.6: Resource Filter UI didn't restore grouped filters

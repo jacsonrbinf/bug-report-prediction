@@ -1,0 +1,1 @@
+Ant UI tests should not force focus of test workbench when breakpoint is hit

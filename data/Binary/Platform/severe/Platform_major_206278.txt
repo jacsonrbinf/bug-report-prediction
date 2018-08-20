@@ -1,0 +1,1 @@
+[Progress] progress view can't see the stop button when task name is too long

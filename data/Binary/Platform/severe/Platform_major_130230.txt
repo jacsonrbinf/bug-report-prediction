@@ -1,0 +1,1 @@
+[CommonNavigator] Projects duplicated using java and resource content

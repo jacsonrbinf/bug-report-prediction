@@ -1,0 +1,1 @@
+[Actions] Tag as Version... on file with uncommitted changes give inaccurate warning

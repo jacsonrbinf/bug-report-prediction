@@ -1,0 +1,1 @@
+[Viewers] CheckboxTreeViewer checks item on double click of expander

@@ -1,0 +1,1 @@
+Rename Refactoring fails with exceptions and errors if files are under Clearcase control

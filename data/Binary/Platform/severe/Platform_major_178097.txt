@@ -1,0 +1,1 @@
+[preferences dialog] the hyperlink detectors pref page does not show correctly

@@ -1,0 +1,1 @@
+BIDI3.4:HCG Hebrew characters can't be used in workspace name

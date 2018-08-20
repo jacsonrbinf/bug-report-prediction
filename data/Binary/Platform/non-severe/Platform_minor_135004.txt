@@ -1,0 +1,1 @@
+[Property Sheet] Selector button is not fully visible on OS X

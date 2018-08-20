@@ -1,0 +1,1 @@
+[painting] Print margin drawn on top of text

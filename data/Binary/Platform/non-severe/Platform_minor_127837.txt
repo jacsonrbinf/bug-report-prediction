@@ -1,0 +1,1 @@
+History view context menu offers to compare 3 versions

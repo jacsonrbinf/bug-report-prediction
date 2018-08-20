@@ -1,0 +1,1 @@
+Install failure SDK-3.3M6-win32-wpf on MS Vista OS

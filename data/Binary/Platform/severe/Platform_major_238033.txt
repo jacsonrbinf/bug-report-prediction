@@ -1,0 +1,1 @@
+Eclipse crashes using context assist, javadoc, or web broswer

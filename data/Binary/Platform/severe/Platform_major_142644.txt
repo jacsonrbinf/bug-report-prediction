@@ -1,0 +1,1 @@
+Drag and Drop from SWT view to Swing JTextPane crashes on SUSE Linux

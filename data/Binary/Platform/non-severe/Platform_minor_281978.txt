@@ -1,0 +1,1 @@
+[implementation] AbstractDecoratedTextEditor.gotoMarker(IMarker) fail to behind last character

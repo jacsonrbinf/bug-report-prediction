@@ -1,0 +1,1 @@
+SIGSEGV on org.eclipse.swt.internal.cairo.Cairo.cairo_fill

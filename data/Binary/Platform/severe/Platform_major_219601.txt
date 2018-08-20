@@ -1,0 +1,1 @@
+StyledText: Unexpected loss of mouse cursor

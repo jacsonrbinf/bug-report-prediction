@@ -1,0 +1,1 @@
+SIGSEGV in libgtk on Fedora Core 5 while debugging

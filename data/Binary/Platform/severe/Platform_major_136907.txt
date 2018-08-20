@@ -1,0 +1,1 @@
+Update site wizard: Finish button does not become enabled

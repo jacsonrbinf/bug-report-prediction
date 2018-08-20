@@ -1,0 +1,1 @@
+Unable to select any window when JFace warning dialog and file browse dialog are both open

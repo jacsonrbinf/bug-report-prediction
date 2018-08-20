@@ -1,0 +1,1 @@
+PlatformConfiguration doesn't properly support other config locations

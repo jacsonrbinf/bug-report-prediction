@@ -1,0 +1,1 @@
+[content assist] long variable name truncated while scrollbar is not

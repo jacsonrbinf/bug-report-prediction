@@ -1,0 +1,1 @@
+Lib swt-xulrunner can not be built by link to xulrunner 1.9beta2

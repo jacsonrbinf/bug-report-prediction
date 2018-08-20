@@ -1,0 +1,1 @@
+[expressions] ArrayIndexOutOfBoundsException when updating children in Expressions View

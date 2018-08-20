@@ -1,0 +1,1 @@
+[Webapp] TOC Tab not initially highlighted

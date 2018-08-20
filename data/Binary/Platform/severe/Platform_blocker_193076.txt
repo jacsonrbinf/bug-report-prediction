@@ -1,0 +1,1 @@
+Shared library libswt-cairo-gtk-3236.so is missing in SWT for Solaris

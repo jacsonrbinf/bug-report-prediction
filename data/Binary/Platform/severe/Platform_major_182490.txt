@@ -1,0 +1,1 @@
+[WorkbenchLauncher] DBCS3.3: new workspace with copy layout makes invalid workbench.xml

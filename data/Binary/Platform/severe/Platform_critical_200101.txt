@@ -1,0 +1,1 @@
+TableColumn sets image when SWT.CENTER alignment is used.

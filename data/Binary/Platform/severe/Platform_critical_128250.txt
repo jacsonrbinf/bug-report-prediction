@@ -1,0 +1,1 @@
+Eclipse hangs when saving xml file without direct internet access

@@ -1,0 +1,1 @@
+[Wizards] Check Out As: Location widget should fill its display area horizontally

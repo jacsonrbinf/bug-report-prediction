@@ -1,0 +1,1 @@
+Unprecise Javadoc for ImageData constructor

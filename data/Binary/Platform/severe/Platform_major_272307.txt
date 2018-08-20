@@ -1,0 +1,1 @@
+[Mac] CocoaUIEnhancer crashes with NullPointer under Mac OS X Cocoa when running Riena example

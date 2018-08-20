@@ -1,0 +1,1 @@
+[Help] Broken cheat sheet causes all help search to fail

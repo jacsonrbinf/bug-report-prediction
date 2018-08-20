@@ -1,0 +1,1 @@
+Get message: SWT error occured and then this is in logs.

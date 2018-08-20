@@ -1,0 +1,1 @@
+Regression: readonly Text controls use wrong font size on Mac OS X

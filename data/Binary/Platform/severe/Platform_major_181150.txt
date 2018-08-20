@@ -1,0 +1,1 @@
+[FastView] min/max workflow feature

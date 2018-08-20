@@ -1,0 +1,1 @@
+Preferences: Change 'Enable colored labels' to 'styled'

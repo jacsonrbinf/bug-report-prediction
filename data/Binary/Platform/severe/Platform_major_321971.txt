@@ -1,0 +1,1 @@
+"External program" builder won't run during "Project -> Build All" or "Project -> Build project"

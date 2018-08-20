@@ -1,0 +1,1 @@
+[launching] ContextLaunchingResourceManager slows down structured selection changes and part activations

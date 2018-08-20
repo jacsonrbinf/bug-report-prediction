@@ -1,0 +1,1 @@
+[Browser] Navigate / Open External Javadoc does not work on method anymore

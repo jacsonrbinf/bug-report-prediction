@@ -1,0 +1,1 @@
+[Doc] Outdated screeshot in "Add CVS Repository wizard" help page

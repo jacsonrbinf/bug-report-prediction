@@ -1,0 +1,1 @@
+Eclipse crash when right click Project node.

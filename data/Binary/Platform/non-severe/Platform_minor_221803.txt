@@ -1,0 +1,1 @@
+[IDE] "Build Project" action always enabled

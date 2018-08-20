@@ -1,0 +1,1 @@
+[OpenResource] Filtering by working sets removes all entries from resource dialog

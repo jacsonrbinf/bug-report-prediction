@@ -1,0 +1,1 @@
+swt-win32-3232 die out in applet mode.

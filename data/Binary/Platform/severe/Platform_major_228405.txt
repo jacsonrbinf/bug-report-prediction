@@ -1,0 +1,1 @@
+'Show Annotation' command does not work any more

@@ -1,0 +1,1 @@
+RCP/SWT  application causes JVM crash under windows XP

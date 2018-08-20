@@ -1,0 +1,1 @@
+An error on one plugin prevents another plugin install.

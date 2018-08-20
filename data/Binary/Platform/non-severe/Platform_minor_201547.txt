@@ -1,0 +1,1 @@
+NPE after closing duplicated compare editor

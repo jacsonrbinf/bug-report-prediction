@@ -1,0 +1,1 @@
+[StyledText] Select and Middle Button Paste inconsistant behaviour

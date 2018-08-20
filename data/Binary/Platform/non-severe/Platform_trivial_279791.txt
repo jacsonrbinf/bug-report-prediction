@@ -1,0 +1,1 @@
+[Webapp] search highlight color should be lighter than selection color

@@ -1,0 +1,1 @@
+getItemCount() incorrect in Vista for VIRTUAL trees

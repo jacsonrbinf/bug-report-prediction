@@ -1,0 +1,1 @@
+Error messages in Expressions view are initially black, not red

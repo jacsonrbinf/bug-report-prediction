@@ -1,0 +1,1 @@
+[Webapp] Synchronize with TOC broken for any duplicate filename in different subfolders contributed to a TOC topic anchor

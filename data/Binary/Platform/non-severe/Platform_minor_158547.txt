@@ -1,0 +1,1 @@
+Wrong location indicated for Plug-in examples in 3.2

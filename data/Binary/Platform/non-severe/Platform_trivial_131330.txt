@@ -1,0 +1,1 @@
+[IDE] Misleading error message that workspace is currently in use

@@ -1,0 +1,1 @@
+[History View]  Double-click in single-click mode should activate editor

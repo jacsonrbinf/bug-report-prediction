@@ -1,0 +1,1 @@
+Borders missing on date selection fields

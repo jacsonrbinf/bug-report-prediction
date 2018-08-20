@@ -1,0 +1,1 @@
+DBCS3.6: The width of unix permission field is too short to display translated messages

@@ -1,0 +1,1 @@
+[painting] Whitespace character painter should not paint in StyledText margin

@@ -1,0 +1,1 @@
+Command+. does not work any more in Trees

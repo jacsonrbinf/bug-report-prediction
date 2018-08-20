@@ -1,0 +1,1 @@
+Startup splash.bmp should be updated with 3.3 progress.

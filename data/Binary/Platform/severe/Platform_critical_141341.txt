@@ -1,0 +1,1 @@
+Attribute availableLanguages in site tag of site.xml is redundant

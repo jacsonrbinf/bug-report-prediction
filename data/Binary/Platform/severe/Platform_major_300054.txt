@@ -1,0 +1,1 @@
+Unexpected 'Save Resource' dialog appears when copying changes from right to left

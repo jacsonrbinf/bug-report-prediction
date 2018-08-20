@@ -1,0 +1,1 @@
+[CVS UI][SSH2] KeyboardInteractiveDialog should respect the argument 'echo'

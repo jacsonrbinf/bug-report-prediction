@@ -1,0 +1,1 @@
+[navigation] "Show In" context menu misses shortcut

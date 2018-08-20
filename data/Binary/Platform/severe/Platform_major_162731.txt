@@ -1,0 +1,1 @@
+Webstart fails because of too much underlines in jar-naming

@@ -1,0 +1,1 @@
+[Model] No longer able to create a WorkbenchLabelProvider in a non-UI thread.

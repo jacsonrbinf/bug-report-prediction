@@ -1,0 +1,1 @@
+[Help] config preferences bookmarksView and indexView do not affect the help view

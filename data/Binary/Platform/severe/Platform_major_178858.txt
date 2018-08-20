@@ -1,0 +1,1 @@
+[Wizards][ErrorHandling] Error in wizard page creation not logged

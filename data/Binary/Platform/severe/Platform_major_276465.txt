@@ -1,0 +1,1 @@
+[block selection] Select All does not select all characters (cuts on the right)

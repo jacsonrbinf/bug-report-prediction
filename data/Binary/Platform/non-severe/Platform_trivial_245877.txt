@@ -1,0 +1,1 @@
+[Net] Change "No Proxy for" to "No proxy for", "User Name" to "User name" in Window -> Preferences -> Network Connections

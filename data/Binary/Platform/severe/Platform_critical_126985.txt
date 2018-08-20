@@ -1,0 +1,1 @@
+Composites and GridLayout fails on MacOSX Tiger

@@ -1,0 +1,1 @@
+[ErrorHandling] Eclipse failed to load after OoM

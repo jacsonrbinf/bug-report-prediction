@@ -1,0 +1,1 @@
+At startup it just dies, it first told me that the file that I was currently working on was altered outside of eclipse, so I closed it first, and then it wouldnt open again

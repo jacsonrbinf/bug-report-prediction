@@ -1,0 +1,1 @@
+Platform has wrong licence header

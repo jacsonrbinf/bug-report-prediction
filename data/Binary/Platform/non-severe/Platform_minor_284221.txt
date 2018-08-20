@@ -1,0 +1,1 @@
+[find/replace] background changes upon search for selected lines,

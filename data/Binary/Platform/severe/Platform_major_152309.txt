@@ -1,0 +1,1 @@
+Wrong "free size" calculation prevents installation of features

@@ -1,0 +1,1 @@
+Search Result arrow in vertical ruler covers breakpoint indicators

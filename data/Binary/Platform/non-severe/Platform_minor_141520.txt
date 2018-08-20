@@ -1,0 +1,1 @@
+Setting a tag does not refresh the CVS Resource History view

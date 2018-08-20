@@ -1,0 +1,1 @@
+[StatusHandling] Support tray icon missing

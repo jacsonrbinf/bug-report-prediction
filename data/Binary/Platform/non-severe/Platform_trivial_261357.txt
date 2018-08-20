@@ -1,0 +1,1 @@
+EditionSelectionDialog.Pair has equals(Object) and hence needs hashCode()

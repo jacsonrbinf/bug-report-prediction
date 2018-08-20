@@ -1,0 +1,1 @@
+[DataBinding] DefaultBindingSupport.isAssignableFromTo() creates new Booleans

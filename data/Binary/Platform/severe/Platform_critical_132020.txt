@@ -1,0 +1,1 @@
+[Help] The Help window cannot be opened(Help->Help Contents) when the Callisto Simultaneous Release is installed

@@ -1,0 +1,1 @@
+[Workbench] disabling and re-enabling the Workbench window's shell causes menu bar to stop working

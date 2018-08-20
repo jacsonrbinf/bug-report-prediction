@@ -1,0 +1,1 @@
+Group breakpoint removal dialog ignores 'Esc' button and removes breakpoints anyway

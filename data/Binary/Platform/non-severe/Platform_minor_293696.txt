@@ -1,0 +1,1 @@
+'Java Project from Existing Ant Buildfile' wizard icon needs a + sign

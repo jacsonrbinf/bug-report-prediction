@@ -1,0 +1,1 @@
+TVT35:TCT310: JPN: Mnemonic "T" conflicts for "Add Task" and "Properties"

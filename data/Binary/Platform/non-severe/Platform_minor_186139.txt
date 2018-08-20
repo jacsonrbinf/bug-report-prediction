@@ -1,0 +1,1 @@
+[navigation] odd scrolling in quick views

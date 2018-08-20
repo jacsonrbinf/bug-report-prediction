@@ -1,0 +1,1 @@
+[debug] string with embedded nulls gets altered by variables view when selected for editing

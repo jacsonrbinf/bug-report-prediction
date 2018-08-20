@@ -1,0 +1,1 @@
+Behind proxy gets frozen, rendering IDE totally unusable

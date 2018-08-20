@@ -1,0 +1,1 @@
+Don't active hot keys if current language not english

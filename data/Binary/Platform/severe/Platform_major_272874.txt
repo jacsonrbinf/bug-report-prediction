@@ -1,0 +1,1 @@
+Resize of column via mouse action does not change horizontal scrollbar correctly.

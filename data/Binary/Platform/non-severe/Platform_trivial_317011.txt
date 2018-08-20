@@ -1,0 +1,1 @@
+bundle version of org.eclipse.help.ui needs to be updated to 3.5.100

@@ -1,0 +1,1 @@
+[Themes] Default text font too small in high contrast

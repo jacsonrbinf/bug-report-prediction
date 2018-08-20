@@ -1,0 +1,1 @@
+[FieldAssist] NPE in DecoratedField.updateControlAttachments(...)

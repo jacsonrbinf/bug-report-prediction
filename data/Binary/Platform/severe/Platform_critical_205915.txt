@@ -1,0 +1,1 @@
+Spinner.getSelection() doesn't return the correct value if user modified text manually on Linux (Suse10.1)

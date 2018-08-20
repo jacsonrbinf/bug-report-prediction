@@ -1,0 +1,1 @@
+[JFace] Incorrect tab order for org.eclipse.jface.dialogs.InputDialog.

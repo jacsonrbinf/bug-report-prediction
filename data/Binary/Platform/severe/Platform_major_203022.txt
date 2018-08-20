@@ -1,0 +1,1 @@
+Open link in New window does not work in SWT Browser on Apple Tiger

@@ -1,0 +1,1 @@
+Eclipse can't find strings of text.  Seriously.

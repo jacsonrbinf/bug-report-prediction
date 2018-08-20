@@ -1,0 +1,1 @@
+Warning when log file is deleted when it's still open in src view

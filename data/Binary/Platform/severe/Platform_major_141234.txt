@@ -1,0 +1,1 @@
+[History] UI freeze while fetching CVS revisions history in History view

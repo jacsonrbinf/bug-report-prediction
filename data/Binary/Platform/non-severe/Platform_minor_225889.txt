@@ -1,0 +1,1 @@
+[dialogs] No "Refresh project" button in the "Out of sync with file system" window.

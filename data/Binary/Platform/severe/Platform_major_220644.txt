@@ -1,0 +1,1 @@
+[QuickAccess] Ctrl-3 dialog does not work in high contrast

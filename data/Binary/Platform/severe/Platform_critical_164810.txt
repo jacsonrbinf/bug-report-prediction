@@ -1,0 +1,1 @@
+[EFS] FileStoreEditorInput doesn't work on non-"file:" URIs

@@ -1,0 +1,1 @@
+ColorDialog always returns null for RGB on Mac OS X

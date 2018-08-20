@@ -1,0 +1,1 @@
+ToolItem resizes on call to setText

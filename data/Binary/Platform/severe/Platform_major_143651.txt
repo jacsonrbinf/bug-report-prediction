@@ -1,0 +1,1 @@
+Performance leak in content assist

@@ -1,0 +1,1 @@
+error in about.properties prevents workbench coming up

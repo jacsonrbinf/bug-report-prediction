@@ -1,0 +1,1 @@
+Eclipse sometimes crashes when switching workspaces or restarting after installing updates

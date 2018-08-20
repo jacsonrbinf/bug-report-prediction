@@ -1,0 +1,1 @@
+BusError when Open Type window closes after selecting a type in OS X Leopard

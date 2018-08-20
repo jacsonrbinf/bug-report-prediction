@@ -1,0 +1,1 @@
+[Commands] handlers: ExpressionAuthority and HandlerAuthority cause huge performance degradation

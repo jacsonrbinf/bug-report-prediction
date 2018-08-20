@@ -1,0 +1,1 @@
+[Help] include pointing to non-present plugin causes topic to not show

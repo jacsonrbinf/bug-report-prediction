@@ -1,0 +1,1 @@
+Configuring a SourceViewerDecorationSupport need update

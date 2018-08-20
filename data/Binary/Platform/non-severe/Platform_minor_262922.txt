@@ -1,0 +1,1 @@
+Cursor jumps to top right corner of screen on drag of trim element

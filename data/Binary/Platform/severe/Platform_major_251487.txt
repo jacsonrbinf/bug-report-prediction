@@ -1,0 +1,1 @@
+Eclipse don't export .xml files in /bin

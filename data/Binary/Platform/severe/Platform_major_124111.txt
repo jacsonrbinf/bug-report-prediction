@@ -1,0 +1,1 @@
+[CellEditors] CellEditors do not allow empty strings to be displayed in table.

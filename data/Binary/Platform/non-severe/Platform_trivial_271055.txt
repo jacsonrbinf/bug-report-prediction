@@ -1,0 +1,1 @@
+Risk of deleting a launch configuration multiple times

@@ -1,0 +1,1 @@
+Entire edit buffer lost, file empty after failed attempt to save

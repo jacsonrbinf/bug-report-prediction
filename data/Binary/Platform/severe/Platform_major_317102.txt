@@ -1,0 +1,1 @@
+[EditorMgmt] Recursive editor activation when using AbstractMultiEditor

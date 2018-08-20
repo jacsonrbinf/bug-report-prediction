@@ -1,0 +1,1 @@
+Eclipse reports errors in XML with embedded PHP in prolog.

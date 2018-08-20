@@ -1,0 +1,1 @@
+Deleting the class with the main method also deletes the Run/Debug configuration that uses that main

@@ -1,0 +1,1 @@
+[regression] Errors trying to open Help from the About box

@@ -1,0 +1,1 @@
+[CommonNavigator] Bug in CVS style in Project Explorer - CVS Changes do not show up for java files

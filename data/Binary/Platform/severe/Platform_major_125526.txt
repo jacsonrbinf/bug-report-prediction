@@ -1,0 +1,1 @@
+[IDE] BuildUtilities.java's extractProjects() method does not consider ResourceMapping cases

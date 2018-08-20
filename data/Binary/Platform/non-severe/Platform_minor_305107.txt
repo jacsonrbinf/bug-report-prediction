@@ -1,0 +1,1 @@
+Running ant via shortcut doesn't work always

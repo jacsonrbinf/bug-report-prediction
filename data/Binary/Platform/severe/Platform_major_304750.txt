@@ -1,0 +1,1 @@
+IAE when setting menu on TaskItem with only a SWT.Cascade MenuItem

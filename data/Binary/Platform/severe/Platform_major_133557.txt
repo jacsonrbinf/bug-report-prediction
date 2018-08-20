@@ -1,0 +1,1 @@
+[Trim] Opening and Closing a window leaks TrimAreas

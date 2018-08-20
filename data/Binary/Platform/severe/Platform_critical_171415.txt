@@ -1,0 +1,1 @@
+[Viewers] Table viewer needs to clear label, image when items are reused

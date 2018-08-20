@@ -1,0 +1,1 @@
+[CheatSheet] Warning generated when parsing command element with start and end tags defined

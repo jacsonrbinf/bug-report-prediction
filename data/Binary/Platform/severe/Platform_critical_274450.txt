@@ -1,0 +1,1 @@
+[DataBinding] Optimize Observable[List|Map|Set].equals() with identity checks

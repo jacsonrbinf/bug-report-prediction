@@ -1,0 +1,1 @@
+[Browser] Unable to start eclipse with a new workspace

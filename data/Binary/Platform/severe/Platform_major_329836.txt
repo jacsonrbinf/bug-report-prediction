@@ -1,0 +1,1 @@
+EFS.ATTRIBUTE_IMMUTABLE is not set along with EFS.ATTRIBUTE_READ_ONLY any more

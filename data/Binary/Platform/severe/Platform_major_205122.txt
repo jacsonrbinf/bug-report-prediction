@@ -1,0 +1,1 @@
+[Viewers] The CheckboxTreeViewer.setAllChecked(true) just checks the parent (node) and not the child

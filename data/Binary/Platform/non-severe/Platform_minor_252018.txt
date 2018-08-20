@@ -1,0 +1,1 @@
+Search action is not performed  when Enter/Return key pressed in Help Content.

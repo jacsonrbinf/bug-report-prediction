@@ -1,0 +1,1 @@
+[Readme] History view does not work for remote resources

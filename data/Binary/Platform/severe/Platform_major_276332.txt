@@ -1,0 +1,1 @@
+XULRunnerPath not set and is resulting in product not starting on Linux

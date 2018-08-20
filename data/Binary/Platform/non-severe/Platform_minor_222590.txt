@@ -1,0 +1,1 @@
+[ActivityMgmt] StackOverflowException using activities 'enableWhen' expression

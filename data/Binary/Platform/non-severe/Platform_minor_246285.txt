@@ -1,0 +1,1 @@
+[Help] Null Pointer exceptions in ReusableHelpPart.java and SearchPart.java

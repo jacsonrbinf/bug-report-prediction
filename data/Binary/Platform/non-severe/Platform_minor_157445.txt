@@ -1,0 +1,1 @@
+[JFace] PopupDialog does not allow direct selection of text in editor

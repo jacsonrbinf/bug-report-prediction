@@ -1,0 +1,1 @@
+[Forms] all widgets have borders on Windows XP theme

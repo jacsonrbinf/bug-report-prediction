@@ -1,0 +1,1 @@
+[JFace] ImageRegistry.put(String, Image) cannot accept null Image

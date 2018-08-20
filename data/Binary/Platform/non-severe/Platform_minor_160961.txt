@@ -1,0 +1,1 @@
+Error icon not set on package/directory icons (Linux 32 bit/ Eclipse 3.2.1)

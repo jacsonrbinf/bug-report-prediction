@@ -1,0 +1,1 @@
+[find/replace] Find/Replace dialog beeps too much when typing in incremental mode

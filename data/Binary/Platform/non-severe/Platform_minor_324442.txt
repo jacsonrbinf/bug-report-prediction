@@ -1,0 +1,1 @@
+[Help] After criteria search selected topics is performed, show in table of contents fails on results

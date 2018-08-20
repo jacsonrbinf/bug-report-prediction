@@ -1,0 +1,1 @@
+[Webapp] In RTL mode left and right arrow keys in TOC function incorrectly

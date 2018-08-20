@@ -1,0 +1,1 @@
+[Contributions] runtime exception in objectContribution selectionChanged sabatoges popup menu

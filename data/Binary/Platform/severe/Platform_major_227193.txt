@@ -1,0 +1,1 @@
+BIDI3.4:Cancel button in RTL window Does not work when OK button is Disabled

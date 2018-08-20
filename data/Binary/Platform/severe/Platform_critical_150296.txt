@@ -1,0 +1,1 @@
+[ICU] Move to new version of ICU4J containing ICU critical performance fix [Bug 5203]

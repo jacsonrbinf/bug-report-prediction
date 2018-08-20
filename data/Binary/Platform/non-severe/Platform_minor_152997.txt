@@ -1,0 +1,1 @@
+Wrong TASK BAR icon when multiple instances of Eclipse running

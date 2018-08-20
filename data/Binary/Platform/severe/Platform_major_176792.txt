@@ -1,0 +1,1 @@
+[OLE] org.eclipse.swt.internal.ole.win32.ComObject  misbehavior in multithreaded application

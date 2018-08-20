@@ -1,0 +1,1 @@
+eclipse crashes at startup - non-recoverable

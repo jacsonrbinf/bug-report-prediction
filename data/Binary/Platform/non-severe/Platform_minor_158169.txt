@@ -1,0 +1,1 @@
+[CheatSheet] Tabs specified within description tags show up as blocks in cheat sheet view

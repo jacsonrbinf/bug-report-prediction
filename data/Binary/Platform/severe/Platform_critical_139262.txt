@@ -1,0 +1,1 @@
+'set data' callback not sent after all items are cleared in virtual tree

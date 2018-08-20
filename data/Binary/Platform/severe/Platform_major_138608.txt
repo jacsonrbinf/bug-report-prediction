@@ -1,0 +1,1 @@
+[Viewers] JFace AbstractTreeViewer: itemExists doesn't handle equal tree entries

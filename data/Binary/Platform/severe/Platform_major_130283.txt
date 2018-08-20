@@ -1,0 +1,1 @@
+[DataBinding] NullPointerException throw after several times setValue

@@ -1,0 +1,1 @@
+RCP Application migration to Ganymede version from Europa

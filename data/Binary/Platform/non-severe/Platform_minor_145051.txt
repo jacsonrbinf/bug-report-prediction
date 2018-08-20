@@ -1,0 +1,1 @@
+[Field Assist] Cannot add two field decorations on the right

@@ -1,0 +1,1 @@
+CVS Commit dialog uses wrong comment after spelling quick fix

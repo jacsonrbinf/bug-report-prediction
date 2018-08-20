@@ -1,0 +1,1 @@
+StatusHandler: we need a dispose() method

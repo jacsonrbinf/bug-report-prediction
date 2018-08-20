@@ -1,0 +1,1 @@
+SWT StyledText with WordWrap on doLineEnd moves the caret after the line break character

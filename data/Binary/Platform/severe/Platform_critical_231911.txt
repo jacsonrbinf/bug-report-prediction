@@ -1,0 +1,1 @@
+[Viewers] Synchronize view tree eats all CPU when refreshed

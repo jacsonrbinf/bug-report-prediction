@@ -1,0 +1,1 @@
+Eclipse 3.3.2 crash randomly OPenSuse-gnome

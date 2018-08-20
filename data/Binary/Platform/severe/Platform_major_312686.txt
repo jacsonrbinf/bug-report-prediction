@@ -1,0 +1,1 @@
+[CommonNavigator] double click on a tree item causes File to open in the editor

@@ -1,0 +1,1 @@
+[block selection][typing] undo does not fold events in block selection mode

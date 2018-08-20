@@ -1,0 +1,1 @@
+Contents of Text widget move slightly to the right when they are first drawn

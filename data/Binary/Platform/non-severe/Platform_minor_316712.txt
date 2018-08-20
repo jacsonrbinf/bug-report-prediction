@@ -1,0 +1,1 @@
+[widgets] Clicking in empty space can cause clicks in views

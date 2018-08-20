@@ -1,0 +1,1 @@
+SWT & Launcher fragments using 'HEAD' as qualifier

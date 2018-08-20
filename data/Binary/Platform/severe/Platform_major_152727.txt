@@ -1,0 +1,1 @@
+Deleting the parent folder of a linked resource deletes the underlying resource (file)

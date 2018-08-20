@@ -1,0 +1,1 @@
+[Metadata] Update icon for org.eclipse.platform/images/topiclabel/arrow.gif

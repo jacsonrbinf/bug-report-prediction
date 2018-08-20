@@ -1,0 +1,1 @@
+NL: Italian translation for Errors/Failures in JUnit view

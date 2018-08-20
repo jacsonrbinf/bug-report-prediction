@@ -1,0 +1,1 @@
+[Trim] Huge text artifacts in the text editor of the workbench

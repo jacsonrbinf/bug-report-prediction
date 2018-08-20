@@ -1,0 +1,1 @@
+[CommonNavigator] Unable to move file to project root in Project Explorer

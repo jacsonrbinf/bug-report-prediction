@@ -1,0 +1,1 @@
+Compare with > Revision no longer uses workspace file

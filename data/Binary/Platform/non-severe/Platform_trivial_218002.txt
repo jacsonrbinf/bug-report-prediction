@@ -1,0 +1,1 @@
+Usage of Collator from ViewerSorter class is deprecated

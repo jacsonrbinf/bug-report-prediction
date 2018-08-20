@@ -1,0 +1,1 @@
+[WorkingSets] [workingsets] hashcode implementation is WorkingSet violates contract

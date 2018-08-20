@@ -1,0 +1,1 @@
+p2 repositories from eclipse project missing .feature.group IUs

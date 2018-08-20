@@ -1,0 +1,1 @@
+Remove from View doesn't exclude from commit

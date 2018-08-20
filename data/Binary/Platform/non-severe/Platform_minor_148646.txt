@@ -1,0 +1,1 @@
+[console] current console combo uses CHECK instead of RADIO style buttons

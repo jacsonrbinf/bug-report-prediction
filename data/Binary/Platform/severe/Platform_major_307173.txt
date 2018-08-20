@@ -1,0 +1,1 @@
+ruler context menu > Show Annotation switches perspective and opens new editor

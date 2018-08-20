@@ -1,0 +1,1 @@
+[Contributions] popup menu item is missing in rcp application

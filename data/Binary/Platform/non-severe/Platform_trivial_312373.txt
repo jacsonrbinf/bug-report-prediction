@@ -1,0 +1,1 @@
+Platform Doc incorrectly mentions 'Go to line' is available in context menu

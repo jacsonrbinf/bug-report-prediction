@@ -1,0 +1,1 @@
+Re-enable old Update Manager in 3.4.0 and disable p2 as update engine/UI

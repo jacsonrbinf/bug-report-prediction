@@ -1,0 +1,1 @@
+[OLE] [EditorMgmt] Strange behavior while opening default gif editor

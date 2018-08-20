@@ -1,0 +1,1 @@
+Eclipse will segfault on fedora 9.  Please see attached segfault dump

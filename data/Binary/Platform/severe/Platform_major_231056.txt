@@ -1,0 +1,1 @@
+[api] Removal of AnnotationBarHoverManager.Closer.stop(boolean) breaks binary compatibility

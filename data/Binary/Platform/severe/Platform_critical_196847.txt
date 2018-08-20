@@ -1,0 +1,1 @@
+[Patch] Eclipse patcher does not require deletions or context lines to be contiguous

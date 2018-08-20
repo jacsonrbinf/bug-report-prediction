@@ -1,0 +1,1 @@
+[hovering] Javadoc hover sometimes gets orphaned in the Java editor

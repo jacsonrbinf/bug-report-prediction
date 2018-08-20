@@ -1,0 +1,1 @@
+[JFace] AbstractResourceManager.find() returns a RefCount instead of the created resource

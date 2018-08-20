@@ -1,0 +1,1 @@
+[bidi] BIDI3.4: Cancel button in mirrored new and edit classpath dialogs is not working properly

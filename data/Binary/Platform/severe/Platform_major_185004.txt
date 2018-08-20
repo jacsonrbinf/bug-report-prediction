@@ -1,0 +1,1 @@
+excessive indentation of tree nodes with wide images on Win32

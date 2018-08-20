@@ -1,0 +1,1 @@
+[Help] content not appearing after selecting Help->Help Contents

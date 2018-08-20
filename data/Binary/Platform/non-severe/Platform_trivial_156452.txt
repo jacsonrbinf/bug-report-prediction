@@ -1,0 +1,1 @@
+[Metadata] Remove occurences of '(no description available)' in extension point schemas

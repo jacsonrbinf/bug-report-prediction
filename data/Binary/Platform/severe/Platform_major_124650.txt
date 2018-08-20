@@ -1,0 +1,1 @@
+[Markers] Adding a view generate 3 "marker" errors

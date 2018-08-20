@@ -1,0 +1,1 @@
+Form's BusyIndicator hangs workbench on GTK

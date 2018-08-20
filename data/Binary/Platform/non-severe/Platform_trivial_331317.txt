@@ -1,0 +1,1 @@
+Duplicate mnemonic 'D' in properties->Resource page

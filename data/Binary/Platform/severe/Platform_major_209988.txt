@@ -1,0 +1,1 @@
+[Progress] Using the progress service's busyCursorWhile (and others) during Eclipse startup creates deadlock

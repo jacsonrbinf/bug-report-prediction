@@ -1,0 +1,1 @@
+Check out into an existing project doesn´t work.

@@ -1,0 +1,1 @@
+Use better default Preview example in the Colors and Fonts Preference setting

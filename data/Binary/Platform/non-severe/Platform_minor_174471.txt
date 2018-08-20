@@ -1,0 +1,1 @@
+[Viewers] [Snippet] Demonstrate Extended Custom Tooltips for TableViewer with multiple selection support

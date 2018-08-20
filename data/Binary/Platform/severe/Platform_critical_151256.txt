@@ -1,0 +1,1 @@
+StandAlone AddSite wipes out the pltform.xml

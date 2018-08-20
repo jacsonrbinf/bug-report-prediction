@@ -1,0 +1,1 @@
+[WorkbenchParts] Variables view is empty until first activation

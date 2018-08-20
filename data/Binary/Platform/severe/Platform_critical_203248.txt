@@ -1,0 +1,1 @@
+Text widget: text not selectable when readonly and border bits set

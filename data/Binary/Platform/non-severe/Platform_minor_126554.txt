@@ -1,0 +1,1 @@
+Eclipse probes internet when auto-update is disabled.

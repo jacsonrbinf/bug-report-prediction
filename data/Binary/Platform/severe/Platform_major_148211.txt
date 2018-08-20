@@ -1,0 +1,1 @@
+RunAs Eclipse Application results in FrameworkEvent.ERROR on 3.2 RC7

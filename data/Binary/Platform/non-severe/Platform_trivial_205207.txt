@@ -1,0 +1,1 @@
+[launching] '&' shows in run tooltip if debug plugins not loaded

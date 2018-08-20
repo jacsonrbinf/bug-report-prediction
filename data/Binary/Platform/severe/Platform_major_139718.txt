@@ -1,0 +1,1 @@
+Got internal error for "Retrieving labels" when displaying my JSP variable

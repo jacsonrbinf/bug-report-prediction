@@ -1,0 +1,1 @@
+TVT33:TCT257: es - TEMPLATE DEFAULT VALUES - REMOVE title truncated, windows size is too small, cannot resize

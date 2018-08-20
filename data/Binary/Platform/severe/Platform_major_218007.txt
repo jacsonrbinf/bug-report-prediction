@@ -1,0 +1,1 @@
+[hovering] StickyHoverManager does not hide focused hover when switching to other application

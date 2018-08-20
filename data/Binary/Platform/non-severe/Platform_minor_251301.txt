@@ -1,0 +1,1 @@
+[Progress] IWorkbenchSiteProgressService has slightly ambiguous class-level javadoc

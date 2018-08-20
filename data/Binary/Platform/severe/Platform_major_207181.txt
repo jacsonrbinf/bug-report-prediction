@@ -1,0 +1,1 @@
+FAQ needed to describe: "Modal dialogs do not stay on top on Solaris 10 with CDE / dtwm"

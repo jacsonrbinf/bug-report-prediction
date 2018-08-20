@@ -1,0 +1,1 @@
+Reference to Java 5 methods on SearchPatternAuto

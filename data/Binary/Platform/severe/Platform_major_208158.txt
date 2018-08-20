@@ -1,0 +1,1 @@
+Clicking on an Ant task should not result in the project being built

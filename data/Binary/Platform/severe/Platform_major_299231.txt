@@ -1,0 +1,1 @@
+there is no run as option "Eclipse Application" and it does not appear in the Run Configurations menu

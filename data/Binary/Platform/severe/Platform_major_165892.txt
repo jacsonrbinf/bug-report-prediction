@@ -1,0 +1,1 @@
+Changing persistent property on resource copy changes property in the original, too

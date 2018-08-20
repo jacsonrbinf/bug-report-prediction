@@ -1,0 +1,1 @@
+java.lang.Object cannot be resolved during buidling eclipse3.4 for IPF

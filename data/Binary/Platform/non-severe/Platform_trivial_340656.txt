@@ -1,0 +1,1 @@
+[Preferences] FileEditorsPreferencePage reuses a GridData instance for two different controls

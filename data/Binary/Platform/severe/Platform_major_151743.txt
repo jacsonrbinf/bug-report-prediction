@@ -1,0 +1,1 @@
+[PropertiesView] NPE in ResourcePropertySource when deleting item from Package Explorer

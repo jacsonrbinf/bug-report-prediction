@@ -1,0 +1,1 @@
+Checkbox Tree wastes a lot of space beween box and item

@@ -1,0 +1,1 @@
+Two potential NPE found by the new compiler warning enabled by default

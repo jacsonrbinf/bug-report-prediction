@@ -1,0 +1,1 @@
+[Workbench] DialogSettings save adds a "value" attribute to "list" tags

@@ -1,0 +1,1 @@
+[KeyBindings] Keyboard shortcuts for clipboard copy command not working in text controls

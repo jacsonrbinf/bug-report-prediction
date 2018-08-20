@@ -1,0 +1,1 @@
+[Contributions] ActionContributionItem should show accelerator text even if accelerator cannot be parsed

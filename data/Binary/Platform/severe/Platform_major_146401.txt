@@ -1,0 +1,1 @@
+Mac looses Command+ keys after hide

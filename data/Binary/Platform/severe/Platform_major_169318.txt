@@ -1,0 +1,1 @@
+[Navigator] error markers do not show properly in navigator view

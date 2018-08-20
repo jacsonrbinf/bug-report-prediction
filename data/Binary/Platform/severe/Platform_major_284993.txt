@@ -1,0 +1,1 @@
+GC#setAlpha() not respected by GC#drawImage()

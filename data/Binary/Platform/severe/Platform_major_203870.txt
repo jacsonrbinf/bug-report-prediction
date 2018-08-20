@@ -1,0 +1,1 @@
+Launch tooltip not in synch with selection

@@ -1,0 +1,1 @@
+Display#setCursorLocation(Point) does not update cursor location on win xp

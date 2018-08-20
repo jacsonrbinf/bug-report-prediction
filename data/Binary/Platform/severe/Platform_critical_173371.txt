@@ -1,0 +1,1 @@
+[OLE] OleClientSite fails open document if Microsoft Word is not installed

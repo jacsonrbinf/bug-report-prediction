@@ -1,0 +1,1 @@
+DBCS3.7 Eclipse disappears when entering DBCS characters in a text editor

@@ -1,0 +1,1 @@
+[DetachedViews] Open "detached" view in another perspective craches UI

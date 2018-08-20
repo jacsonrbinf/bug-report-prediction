@@ -1,0 +1,1 @@
+List view in Search pane does not show all found results as does the Tree view

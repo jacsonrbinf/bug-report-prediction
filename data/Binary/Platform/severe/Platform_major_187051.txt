@@ -1,0 +1,1 @@
+TVT33:TCT183: Debug Config: Debugger Connection tab has string truncation

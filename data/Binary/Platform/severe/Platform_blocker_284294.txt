@@ -1,0 +1,1 @@
+After Java update on MAC OS X (Java for 10.5 Update 4) Eclipse refuses to launch

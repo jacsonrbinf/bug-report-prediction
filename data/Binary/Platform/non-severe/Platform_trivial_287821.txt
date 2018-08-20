@@ -1,0 +1,1 @@
+"GO" button in help browser should be called "Go"

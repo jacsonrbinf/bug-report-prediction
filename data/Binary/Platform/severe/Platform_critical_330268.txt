@@ -1,0 +1,1 @@
+Display.post() logs out current session if no mouse button specified only on 10.6.5(?)

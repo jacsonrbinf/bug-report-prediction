@@ -1,0 +1,1 @@
+Eclipse Hangs when attaching java source

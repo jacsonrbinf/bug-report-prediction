@@ -1,0 +1,1 @@
+Text VerifyEvent; Changing inserted text field inserts nothing or damages content

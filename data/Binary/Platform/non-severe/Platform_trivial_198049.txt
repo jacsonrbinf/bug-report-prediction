@@ -1,0 +1,1 @@
+[misc] Clarify which image is used for the editor tab

@@ -1,0 +1,1 @@
+[About] About Dialog does not fit (scroll bar is shown)

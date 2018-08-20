@@ -1,0 +1,1 @@
+Debugging during a SWT.Show freezes GTK

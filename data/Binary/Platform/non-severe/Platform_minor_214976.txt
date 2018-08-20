@@ -1,0 +1,1 @@
+[hovering] Temporary solution for bug 136332 should be removed

@@ -1,0 +1,1 @@
+The API problem filter for: 'The method org.eclipse.compare.CompareEditorInput.setFocus() is no longer API' is no longer used

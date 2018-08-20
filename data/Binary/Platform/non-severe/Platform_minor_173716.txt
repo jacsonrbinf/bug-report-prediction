@@ -1,0 +1,1 @@
+[Help][Context] If a cheatsheet is in the tray the help button does not work until a control is selected

@@ -1,0 +1,1 @@
+Problem view seems to be broken when trying to double-click on a marker and the editor is open

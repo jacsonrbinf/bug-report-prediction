@@ -1,0 +1,1 @@
+[Edit] Copy from Right to Left works differently when copying a change at the end of a file

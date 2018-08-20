@@ -1,0 +1,1 @@
+[Workbench] Widget closed too early error when closing my workspace.

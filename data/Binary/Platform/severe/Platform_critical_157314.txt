@@ -1,0 +1,1 @@
+[CommonNavigator] Allow overriding action provider only for certain elements

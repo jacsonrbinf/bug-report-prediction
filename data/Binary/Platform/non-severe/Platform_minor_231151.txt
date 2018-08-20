@@ -1,0 +1,1 @@
+[Markers] markers view "Preferences..." should be "Preferences"

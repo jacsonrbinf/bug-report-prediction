@@ -1,0 +1,1 @@
+Timing problem in variables views' expansion state save/restore logic.

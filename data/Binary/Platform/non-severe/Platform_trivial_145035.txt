@@ -1,0 +1,1 @@
+[IDE] ESC does not work as expected on renaming a resource

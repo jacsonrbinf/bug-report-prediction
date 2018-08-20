@@ -1,0 +1,1 @@
+[Viewers] Virtual Manager should be cleared when Viewer is disposed

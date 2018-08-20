@@ -1,0 +1,1 @@
+[CellEditors] Can not navigate tables (cells) using keyboard

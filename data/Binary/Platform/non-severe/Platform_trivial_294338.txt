@@ -1,0 +1,1 @@
+UI string is missing a mnemonic, has wrong casing and has an unwanted dot

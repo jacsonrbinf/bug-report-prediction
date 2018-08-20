@@ -1,0 +1,1 @@
+SIGSEGV when running JUnit test (mac, 64-bit cocoa)

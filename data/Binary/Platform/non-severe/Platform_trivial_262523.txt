@@ -1,0 +1,1 @@
+Increment test framework plug-in version number to 3.4.2

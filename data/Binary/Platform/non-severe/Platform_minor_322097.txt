@@ -1,0 +1,1 @@
+[hovering] Tooltips are not sized according to their contents

@@ -1,0 +1,1 @@
+Eclipse crashes after saving (compiling) after changing a java file 5 to 10 times

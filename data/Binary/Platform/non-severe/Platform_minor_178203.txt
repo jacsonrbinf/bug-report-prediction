@@ -1,0 +1,1 @@
+[projection] Eclipse is too eager to unfold code

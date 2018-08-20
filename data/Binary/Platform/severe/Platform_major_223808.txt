@@ -1,0 +1,1 @@
+[PropertiesDialog] Properties dialog page hierarchy screwed up

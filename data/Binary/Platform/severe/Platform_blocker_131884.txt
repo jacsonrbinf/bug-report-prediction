@@ -1,0 +1,1 @@
+[Contributions] NPE in org.eclipse.debug.internal.ui.actions.CopyToClipboardActionDelegate.initialize(CopyToClipboardActionDelegate.java:43)

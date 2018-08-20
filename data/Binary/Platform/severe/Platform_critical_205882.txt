@@ -1,0 +1,1 @@
+[CVS UI] Renaming a file in a branch causes deletion of the file in other branches

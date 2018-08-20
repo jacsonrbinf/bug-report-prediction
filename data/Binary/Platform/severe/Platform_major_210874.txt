@@ -1,0 +1,1 @@
+Crash when using SWT.BALLOON and SWT.ICON_INFORMATION

@@ -1,0 +1,1 @@
+Selection check-box not appearing in Menu's on Windows7 whereas they appears on Windows XP.

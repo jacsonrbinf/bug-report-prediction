@@ -1,0 +1,1 @@
+Eclipse 3.2.1 on Solaris Express Community Community Release (ON 54) Throws Java Exception(s)

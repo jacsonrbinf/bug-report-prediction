@@ -1,0 +1,1 @@
+After each build, Eclipse wastes 1-2 minutes "Updating project..."

@@ -1,0 +1,1 @@
+Eclipse frees or search never finish on fifo file

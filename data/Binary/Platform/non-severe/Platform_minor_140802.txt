@@ -1,0 +1,1 @@
+[painting][linked mode] IBeam decorations not drawn at end of file

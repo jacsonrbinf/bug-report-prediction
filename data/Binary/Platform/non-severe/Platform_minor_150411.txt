@@ -1,0 +1,1 @@
+[Workbench] With multiple workspaces open at the same time, it is easy to confuse which workspace one is working with.

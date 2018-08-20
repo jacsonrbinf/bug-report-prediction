@@ -1,0 +1,1 @@
+Linked folder does not remember his last browsed position like linked file

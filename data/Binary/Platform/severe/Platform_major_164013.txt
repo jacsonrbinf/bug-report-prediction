@@ -1,0 +1,1 @@
+Crash occurs with internal browser with some popups

@@ -1,0 +1,1 @@
+Eclipse terminates with jvm exit code=1 when trying to run dynamic web project

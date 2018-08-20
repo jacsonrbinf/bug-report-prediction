@@ -1,0 +1,1 @@
+[CommonNavigator] Improvements to Package Explorer should work in Project Explorer too

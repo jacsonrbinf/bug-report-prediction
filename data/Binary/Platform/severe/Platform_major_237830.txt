@@ -1,0 +1,1 @@
+class renaming changes active selection

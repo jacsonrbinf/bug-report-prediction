@@ -1,0 +1,1 @@
+Editor shows NullPointerException when opening documents on an offline fileshare

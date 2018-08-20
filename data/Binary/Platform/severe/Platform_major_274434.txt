@@ -1,0 +1,1 @@
+NullPointerException in SWT Browser using Adobe Acrobat 9.x

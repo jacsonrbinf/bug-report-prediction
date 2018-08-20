@@ -1,0 +1,1 @@
+Odd that binary resources searched when, e.g. * used as file pattern

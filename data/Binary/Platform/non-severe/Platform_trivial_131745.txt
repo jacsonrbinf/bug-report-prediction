@@ -1,0 +1,1 @@
+[javadoc] Clarify TextAttribute Javadoc regarding 'null' argument for fg and bg color

@@ -1,0 +1,1 @@
+[framework] NPE while running performance test

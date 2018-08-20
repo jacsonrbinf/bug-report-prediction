@@ -1,0 +1,1 @@
+Disabled Text widget can gain focus

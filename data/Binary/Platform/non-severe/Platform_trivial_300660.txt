@@ -1,0 +1,1 @@
+Typo in ResourceModelTraversalCalculator.PROP_TRAVERSAL_CALCULATOR constant

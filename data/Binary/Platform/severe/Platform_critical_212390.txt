@@ -1,0 +1,1 @@
+System properties does no longer work in Launch Configurations

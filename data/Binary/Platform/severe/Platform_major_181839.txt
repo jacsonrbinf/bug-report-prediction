@@ -1,0 +1,1 @@
+[Min/Max] Mazimizing the editor area causes it to lose focus

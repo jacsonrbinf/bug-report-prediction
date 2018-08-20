@@ -1,0 +1,1 @@
+Internal Browser creashes the VM when loading a Java Applet

@@ -1,0 +1,1 @@
+[regression] created swt-32 and swt-64 directories must be writable by anyone

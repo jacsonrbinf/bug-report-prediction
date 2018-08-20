@@ -1,0 +1,1 @@
+[ActionSets] launch shortcuts display for all files in newly opened workspace

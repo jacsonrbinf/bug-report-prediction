@@ -1,0 +1,1 @@
+BuildManager#basicBuild doesn't call IProgressMonitor#done

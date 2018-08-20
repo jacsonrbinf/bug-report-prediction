@@ -1,0 +1,1 @@
+Method org.eclipse.swt.widgets.TableItem.getChecked() should be isChecked()

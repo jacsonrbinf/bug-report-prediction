@@ -1,0 +1,1 @@
+CVSUIPlugin.stop not being called

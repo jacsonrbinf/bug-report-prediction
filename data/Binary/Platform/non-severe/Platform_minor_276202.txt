@@ -1,0 +1,1 @@
+[Forms] NPE if dispose() called on FormToolkit more than once

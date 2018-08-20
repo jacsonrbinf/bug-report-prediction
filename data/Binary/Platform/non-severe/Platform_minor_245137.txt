@@ -1,0 +1,1 @@
+copy & paste not reliable with kde/klipper

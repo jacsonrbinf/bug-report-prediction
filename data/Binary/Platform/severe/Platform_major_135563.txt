@@ -1,0 +1,1 @@
+[projection] deleting after the last line of an element blindly deletes from next element

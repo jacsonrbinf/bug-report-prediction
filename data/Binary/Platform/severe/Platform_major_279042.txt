@@ -1,0 +1,1 @@
+Cocoa: top-level menus not updated as you switch between editors

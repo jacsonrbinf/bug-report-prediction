@@ -1,0 +1,1 @@
+[Viewers] FilteredTree: do not write "type filter text" to clipboard

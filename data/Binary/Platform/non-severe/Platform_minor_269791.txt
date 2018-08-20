@@ -1,0 +1,1 @@
+[EditorMgmt] Editor tabs are reordered every time one is closed.

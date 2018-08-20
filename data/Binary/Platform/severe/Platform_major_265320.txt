@@ -1,0 +1,1 @@
+[CommonNavigator] Breaking change causes adopters of WorkingSetsContentProvider to fail

@@ -1,0 +1,1 @@
+Skip All Breakpoints action does not work any more from keyboard

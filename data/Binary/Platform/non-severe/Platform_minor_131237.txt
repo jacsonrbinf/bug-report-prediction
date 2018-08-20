@@ -1,0 +1,1 @@
+[rulers] Clicking on a mark in the OverviewRuler does not reveal the selection if already selected

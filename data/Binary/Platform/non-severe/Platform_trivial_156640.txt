@@ -1,0 +1,1 @@
+[Browser] Accessiblity problem on Linux/Mozilla. Can not tab into webpage by keyboard.

@@ -1,0 +1,1 @@
+[KeyBindings] NPE when opening Keys preference page

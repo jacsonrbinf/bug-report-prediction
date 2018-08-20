@@ -1,0 +1,1 @@
+[SSH2] Jsch createSession blocks when algorithm not found

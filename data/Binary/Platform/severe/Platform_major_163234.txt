@@ -1,0 +1,1 @@
+VersionedIdentifier equals() logic in update.configurator is wrong

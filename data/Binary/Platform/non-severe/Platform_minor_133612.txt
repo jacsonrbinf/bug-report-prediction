@@ -1,0 +1,1 @@
+[Intro] Restore defaults on welcome prefs page switches tabs

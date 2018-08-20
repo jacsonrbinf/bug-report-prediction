@@ -1,0 +1,1 @@
+fillGradientRectangle() in gc doesn't use gDip clipping when foreground and background are the same.

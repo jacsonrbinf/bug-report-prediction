@@ -1,0 +1,1 @@
+Dynamic Help link in Help menu does not work unless Welcome screen is open

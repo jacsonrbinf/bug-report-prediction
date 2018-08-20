@@ -1,0 +1,1 @@
+[Viewers] IViewerLabelProvider isn't supported by the TreeViewer anymore

@@ -1,0 +1,1 @@
+A typo in the org.eclipse.team.core package.html file.

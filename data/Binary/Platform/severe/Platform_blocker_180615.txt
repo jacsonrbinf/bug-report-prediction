@@ -1,0 +1,1 @@
+too many paint events have been sent out when key down in Canvas

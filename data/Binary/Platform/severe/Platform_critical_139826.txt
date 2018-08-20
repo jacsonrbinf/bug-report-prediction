@@ -1,0 +1,1 @@
+SWT Error in TreeViewer.add(parent, child) when using categoried ViewerSorter

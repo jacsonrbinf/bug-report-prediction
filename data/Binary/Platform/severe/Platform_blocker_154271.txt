@@ -1,0 +1,1 @@
+Spinner does not have accessible name

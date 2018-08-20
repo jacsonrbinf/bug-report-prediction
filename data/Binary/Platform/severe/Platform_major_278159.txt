@@ -1,0 +1,1 @@
+[Help][Context] Regression: F1 shows wrong context help if infopopup is used

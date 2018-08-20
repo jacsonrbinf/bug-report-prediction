@@ -1,0 +1,1 @@
+When a file is edited and saved with ctrl+s, eclipse crashes.

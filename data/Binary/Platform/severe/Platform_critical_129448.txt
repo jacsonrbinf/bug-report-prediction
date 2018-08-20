@@ -1,0 +1,1 @@
+SWT crashed when use GC.setAlpha(int alpha)

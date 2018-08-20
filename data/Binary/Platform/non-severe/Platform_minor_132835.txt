@@ -1,0 +1,1 @@
+[CheatSheets] Deprecation warning in org.eclipse.ua.tests, use of StringBufferInputStream

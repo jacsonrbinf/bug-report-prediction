@@ -1,0 +1,1 @@
+[Progress] Display#getShells returns disposed shell

@@ -1,0 +1,1 @@
+SIGSEGV crash on startup, Eclipse 3.3.2 on Fedora 9

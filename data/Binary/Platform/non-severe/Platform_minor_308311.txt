@@ -1,0 +1,1 @@
+[Repo View] Triming text from clipboard when you past the connection

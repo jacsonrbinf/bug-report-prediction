@@ -1,0 +1,1 @@
+Team synchronize view does not handle incoming cvs delete changes correctly

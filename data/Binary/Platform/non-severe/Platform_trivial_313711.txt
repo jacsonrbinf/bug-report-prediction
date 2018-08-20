@@ -1,0 +1,1 @@
+API inconsistencies between dispose() and isDisposed()

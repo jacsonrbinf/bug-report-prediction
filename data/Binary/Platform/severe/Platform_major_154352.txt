@@ -1,0 +1,1 @@
+[Graphics] [64] Eclipse freezes in OS.gdk_pango_layout_get_clip_region on x86_64

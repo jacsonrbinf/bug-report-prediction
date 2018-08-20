@@ -1,0 +1,1 @@
+A modeless dialog can not be sticked on top of the AWT Frame

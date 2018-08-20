@@ -1,0 +1,1 @@
+[Doc] Make "Update" help page more accurate

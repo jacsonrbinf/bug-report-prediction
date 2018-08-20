@@ -1,0 +1,1 @@
+When opening Eclipse I get an error message in the Welcome pane.

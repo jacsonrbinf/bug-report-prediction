@@ -1,0 +1,1 @@
+[Forms] Revert Fix for  Bug #284393

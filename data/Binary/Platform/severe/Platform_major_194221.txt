@@ -1,0 +1,1 @@
+[Commands] Slow to close dialogs due to ContextAuthority.sourceChanged triggering multiple menu updates

@@ -1,0 +1,1 @@
+[Intro] <IMG> tag ignored in Eclipse Welcome pages when launching the welcome in SWT mode.

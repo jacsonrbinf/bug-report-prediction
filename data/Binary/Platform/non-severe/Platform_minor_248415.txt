@@ -1,0 +1,1 @@
+[misc] The editor content is refreshed unexpectedly

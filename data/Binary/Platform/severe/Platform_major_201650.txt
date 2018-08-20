@@ -1,0 +1,1 @@
+[Actions] Build Project is disabled when going from problems view to an editor

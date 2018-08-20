@@ -1,0 +1,1 @@
+SWT zips no longer contain .project and .classpath files

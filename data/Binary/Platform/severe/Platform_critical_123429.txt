@@ -1,0 +1,1 @@
+Eclipse 64 crashes in JRE configuration dialog

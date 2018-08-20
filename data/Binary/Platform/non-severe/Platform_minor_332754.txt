@@ -1,0 +1,1 @@
+[Help] Problems in help tray with focus in main dialog area

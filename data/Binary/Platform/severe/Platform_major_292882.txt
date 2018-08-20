@@ -1,0 +1,1 @@
+[IDE] [browser] Default external browser should be pre-configured on Solaris 10 sparc GTK

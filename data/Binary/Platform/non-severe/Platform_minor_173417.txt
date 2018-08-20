@@ -1,0 +1,1 @@
+[WorkbenchParts] IPersistableEditor's saveState not always called

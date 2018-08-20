@@ -1,0 +1,1 @@
+[Doc] Small updates in Compare framework documentation and javadocs

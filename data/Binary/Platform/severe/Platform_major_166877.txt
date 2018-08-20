@@ -1,0 +1,1 @@
+[Trim] Adding views when stack minimized leaves phantom FVB

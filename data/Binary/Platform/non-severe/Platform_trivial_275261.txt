@@ -1,0 +1,1 @@
+[Markers] Contents config dialog's 'Description' section should be renamed

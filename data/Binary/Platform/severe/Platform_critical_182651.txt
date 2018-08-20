@@ -1,0 +1,1 @@
+[FastView] WorkbenchPage.isPageZoomed class cast error

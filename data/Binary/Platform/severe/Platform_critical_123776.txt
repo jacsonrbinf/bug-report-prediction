@@ -1,0 +1,1 @@
+Press F2 for focus can cause a VM crash

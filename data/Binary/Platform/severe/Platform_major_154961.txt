@@ -1,0 +1,1 @@
+The ToolTip object is not disposed appropriately and prevents from creating another ToolTip on the same shell

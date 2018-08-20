@@ -1,0 +1,1 @@
+Java WebStart support is broken with J2SE 6.0

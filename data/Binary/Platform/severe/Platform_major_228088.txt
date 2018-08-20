@@ -1,0 +1,1 @@
+Ctrl+Z Keybinding (Undo) is bound to wrong scope and can have disastrous results

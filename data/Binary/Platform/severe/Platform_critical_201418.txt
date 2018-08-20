@@ -1,0 +1,1 @@
+ANT target: "Could not find main class. Programm will exit." after Upgrading to Eclipse 3.3

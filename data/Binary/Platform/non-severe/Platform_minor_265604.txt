@@ -1,0 +1,1 @@
+popup shells quickly show title bar

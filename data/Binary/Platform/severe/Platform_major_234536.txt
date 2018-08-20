@@ -1,0 +1,1 @@
+JUnit tests fail from time to time because DebugPlugin.getLaunchManager() is not synchronized

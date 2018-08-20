@@ -1,0 +1,1 @@
+Breaking change in Eclipse 3.4M4 - Images loaded as type SWT.ICON cannot be rendered by GC.drawImage()

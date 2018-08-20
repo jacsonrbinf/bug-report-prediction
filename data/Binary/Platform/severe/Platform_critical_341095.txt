@@ -1,0 +1,1 @@
+When content assist invoked the whole application crushes.

@@ -1,0 +1,1 @@
+[Preferences] Preference pages not scrollable (accessible) via keyboard

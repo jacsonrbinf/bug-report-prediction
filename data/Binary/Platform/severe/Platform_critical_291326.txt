@@ -1,0 +1,1 @@
+[SWT/AWT] Freeze when making a sync SWT call in response to certain Swing events

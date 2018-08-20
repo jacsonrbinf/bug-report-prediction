@@ -1,0 +1,1 @@
+Saving a docx file fails silently due to not killing WINWORD process on close

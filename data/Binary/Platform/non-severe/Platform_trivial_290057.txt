@@ -1,0 +1,1 @@
+Platform Extension Points Reference typos

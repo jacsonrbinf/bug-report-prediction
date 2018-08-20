@@ -1,0 +1,1 @@
+[clipboard] regression: pasting text from file properties to java editor seems to be in wrong format

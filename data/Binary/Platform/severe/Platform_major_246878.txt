@@ -1,0 +1,1 @@
+[Webapp] Generated online help pages display ltr for Bidi

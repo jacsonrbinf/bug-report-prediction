@@ -1,0 +1,1 @@
+Error message doesn't get cleaned up  from the WizardDialog

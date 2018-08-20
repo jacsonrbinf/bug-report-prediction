@@ -1,0 +1,1 @@
+[Workbench] Customize perspective and missing plugins

@@ -1,0 +1,1 @@
+[Help] Could not get results from extradir when searching with search scope

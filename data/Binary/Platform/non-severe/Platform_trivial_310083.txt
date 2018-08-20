@@ -1,0 +1,1 @@
+AccessibleTextEvent needs @since tags for new API fields

@@ -1,0 +1,1 @@
+[help] help topic for Select Configuration Type dialog

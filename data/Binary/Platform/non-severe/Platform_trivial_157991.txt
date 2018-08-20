@@ -1,0 +1,1 @@
+[rulers] Typo in invalid ruler column description message

@@ -1,0 +1,1 @@
+Control Example should use SWT.ICON_CANCEL for Text widget

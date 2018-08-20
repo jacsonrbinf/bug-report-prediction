@@ -1,0 +1,1 @@
+UI locks up when using Resource nav view

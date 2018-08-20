@@ -1,0 +1,1 @@
+[RCP] (Regression) loading default preferences is broken on first time call

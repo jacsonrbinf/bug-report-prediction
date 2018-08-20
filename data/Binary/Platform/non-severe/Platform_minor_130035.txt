@@ -1,0 +1,1 @@
+[Workbench] Locking Screen on Windows XP Resizes Workbench on Dual-Screen Setup

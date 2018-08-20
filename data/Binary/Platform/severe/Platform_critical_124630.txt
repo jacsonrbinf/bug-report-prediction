@@ -1,0 +1,1 @@
+Eclipse cant match case sensitivity with CVS which causes problems in teams

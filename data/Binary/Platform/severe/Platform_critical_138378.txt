@@ -1,0 +1,1 @@
+[Trim] can't drag a trim bar at all

@@ -1,0 +1,1 @@
+[find/replace] Incremental Find Next does not let me find Option+<Key> characters

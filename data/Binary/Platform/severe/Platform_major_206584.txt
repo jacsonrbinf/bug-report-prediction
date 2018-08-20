@@ -1,0 +1,1 @@
+[Commands] Memory leak after closing a Workbenchwindow in a RCP Application

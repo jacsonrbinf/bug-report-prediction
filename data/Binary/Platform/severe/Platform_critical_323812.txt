@@ -1,0 +1,1 @@
+Eclipse crashes when navigating in Package Explorer

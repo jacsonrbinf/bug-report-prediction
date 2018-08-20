@@ -1,0 +1,1 @@
+[key binding][content assist] Chinese content assist key bindings broken when moved down to org.eclipse.ui

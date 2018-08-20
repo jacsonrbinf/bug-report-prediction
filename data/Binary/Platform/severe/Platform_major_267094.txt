@@ -1,0 +1,1 @@
+CompilationUnitEditor leaked in Display.timerList (Ruler doubleclick timeout)

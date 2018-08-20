@@ -1,0 +1,1 @@
+Eclipse "Problems Tab": dragging column separators causes application to hang

@@ -1,0 +1,1 @@
+[CommonNavigator][ProjectExplorer] after "Go Into", the "Up" action is incorrect

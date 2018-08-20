@@ -1,0 +1,1 @@
+WinCE: setClipping(x,y,w,h) throws NullPointerException

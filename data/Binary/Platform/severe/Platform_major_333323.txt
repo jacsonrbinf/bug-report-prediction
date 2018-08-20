@@ -1,0 +1,1 @@
+[SWT][Browser][Mozilla] memory leak in embeded mozilla browser widget

@@ -1,0 +1,1 @@
+[Browser] SWT_AWT: can't type in MOZILLA Browser HTML fields

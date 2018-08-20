@@ -1,0 +1,1 @@
+On linux, filenames containing Japanese characters are not viewable in navigator

@@ -1,0 +1,1 @@
+UI failures in N20080416-2000 appear to be caused by SWT changes

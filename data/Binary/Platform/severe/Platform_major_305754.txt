@@ -1,0 +1,1 @@
+ANT targets do nothing - not even show output in console (same symptom breaks debug mode too)

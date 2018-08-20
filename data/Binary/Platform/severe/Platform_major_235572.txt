@@ -1,0 +1,1 @@
+[relengtool] "Fix copyrights" doesnt detect existing Copyright in Windows .bat files

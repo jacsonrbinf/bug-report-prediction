@@ -1,0 +1,1 @@
+[Help] Lucene source attachments incorrectly configured

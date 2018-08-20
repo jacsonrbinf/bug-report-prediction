@@ -1,0 +1,1 @@
+p2: update manager should not hang while processing IUs on repository initialization

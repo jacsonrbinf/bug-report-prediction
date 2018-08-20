@@ -1,0 +1,1 @@
+Project name sort order ignores '-' character

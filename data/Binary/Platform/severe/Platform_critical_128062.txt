@@ -1,0 +1,1 @@
+Widget disposed exceptions from Variables view

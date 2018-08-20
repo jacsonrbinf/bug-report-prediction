@@ -1,0 +1,1 @@
+[Markers] Marker#checkInfo need to include a stack trace

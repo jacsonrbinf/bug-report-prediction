@@ -1,0 +1,1 @@
+Eclipse not showing "native" icons for files with native associations

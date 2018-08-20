@@ -1,0 +1,1 @@
+Cannot open internal browser on linux

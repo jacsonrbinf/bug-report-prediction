@@ -1,0 +1,1 @@
+[WorkbenchLauncher] Invalid thread access when starting 3.3M5 with 312 workspace in NavigationHistory

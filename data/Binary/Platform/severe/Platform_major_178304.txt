@@ -1,0 +1,1 @@
+Weird line in CTabFolder with no SWT.BORDER

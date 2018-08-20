@@ -1,0 +1,1 @@
+SWT.SetData Listener is called for all items of virtual table

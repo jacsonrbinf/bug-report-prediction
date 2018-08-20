@@ -1,0 +1,1 @@
+Outside Eclipse deleted files are not shown in Synchronize View

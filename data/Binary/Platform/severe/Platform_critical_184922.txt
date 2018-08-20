@@ -1,0 +1,1 @@
+GTK: crash when calling Table.getItemHeight()

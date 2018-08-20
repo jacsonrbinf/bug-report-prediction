@@ -1,0 +1,1 @@
+[DataBinding] ComboObservableValue fails to fire value change on selection on GTK with style SWT.READ_ONLY | SWT.DROP_DOWN

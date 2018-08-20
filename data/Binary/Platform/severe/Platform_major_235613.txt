@@ -1,0 +1,1 @@
+[DetachedView] Widget disposed exception when disposing ShellPool on shutdown

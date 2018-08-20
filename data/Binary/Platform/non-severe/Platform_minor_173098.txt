@@ -1,0 +1,1 @@
+[Dialogs] Selection after removing items from FilteredResourcesSelectionDialog

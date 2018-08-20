@@ -1,0 +1,1 @@
+CheckboxTreeViewer does not render grayed elements on WinXP

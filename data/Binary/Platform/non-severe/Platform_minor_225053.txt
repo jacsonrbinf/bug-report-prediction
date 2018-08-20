@@ -1,0 +1,1 @@
+[WorkingSets] WorkingSetsDialog seems to be damaged

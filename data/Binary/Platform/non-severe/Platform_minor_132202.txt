@@ -1,0 +1,1 @@
+[implementation] FileDocumentProvider doSaveDocument() assumes presence of annotation model

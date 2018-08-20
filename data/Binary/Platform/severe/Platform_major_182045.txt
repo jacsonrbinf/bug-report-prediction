@@ -1,0 +1,1 @@
+[implementation] TextFileDocumentProvider#disposeFileInfo does not disconnect properly for FileStoreTextFileBuffer

@@ -1,0 +1,1 @@
+swt dependecy on msvfw32.dll

@@ -1,0 +1,1 @@
+[Commands] Adding breakpoint stopps working

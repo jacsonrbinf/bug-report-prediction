@@ -1,0 +1,1 @@
+Eclipse frequently crashes when automatically chaning to the debug perspective

@@ -1,0 +1,1 @@
+[Viewers] Fix Javadoc for StyledCellLabelProvider#styleDecoratedString(..)

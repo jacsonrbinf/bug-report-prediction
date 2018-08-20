@@ -1,0 +1,1 @@
+Forward delete key does not work in editor or navigator

@@ -1,0 +1,1 @@
+welcome screen broken with MSIE 7 beta 2

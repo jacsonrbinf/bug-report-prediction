@@ -1,0 +1,1 @@
+'Terminate and relaunch' action is enabled for non-relaunchable configs

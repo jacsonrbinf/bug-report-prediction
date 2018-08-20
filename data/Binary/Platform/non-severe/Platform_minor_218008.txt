@@ -1,0 +1,1 @@
+[History View] Inappropriate selection handling in the TableViewerAction

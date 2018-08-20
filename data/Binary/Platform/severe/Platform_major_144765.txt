@@ -1,0 +1,1 @@
+Layout on Labels generates a size that cuts off characters

@@ -1,0 +1,1 @@
+Very strange layout behavior with SashForm when hierarchy is deep

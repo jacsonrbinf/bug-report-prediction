@@ -1,0 +1,1 @@
+Quit from "Mac dock Icon" does not detect dirty and save workspace

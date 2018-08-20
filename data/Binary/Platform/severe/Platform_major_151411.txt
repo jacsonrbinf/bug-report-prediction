@@ -1,0 +1,1 @@
+[Help] Help index is rebuilt (and pre-built indexes ignored) with cascaded configuration area

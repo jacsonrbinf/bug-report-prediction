@@ -1,0 +1,1 @@
+Incremental build before autobuild shouldn't return immediately

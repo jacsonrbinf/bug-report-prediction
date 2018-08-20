@@ -1,0 +1,1 @@
+[CommonNavigator] Project Explorer (in platform - NOT SDK!) is not refreshed on changes

@@ -1,0 +1,1 @@
+Eclipse inexplicably exits, logs OutOfMemory PermGen error

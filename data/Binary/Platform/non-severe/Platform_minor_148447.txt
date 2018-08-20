@@ -1,0 +1,1 @@
+[hovering] quick diff hover does not follow lines when scrolling

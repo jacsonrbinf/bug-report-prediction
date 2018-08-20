@@ -1,0 +1,1 @@
+[CommonNavigator] Closing the Project explorer view and reopen should display the previous Top Level Elements

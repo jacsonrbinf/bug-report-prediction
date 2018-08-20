@@ -1,0 +1,1 @@
+eclipse often occupy more than 95% CPU

@@ -1,0 +1,1 @@
+[Widgets] Buttons functionality problem with GTK+ 2.18

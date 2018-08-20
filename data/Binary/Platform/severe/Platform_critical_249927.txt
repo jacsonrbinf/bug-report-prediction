@@ -1,0 +1,1 @@
+[Intro] RSSViewer.createNewsItems can block the UI thread infinitely

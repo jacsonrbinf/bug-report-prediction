@@ -1,0 +1,1 @@
+Hang in OS._pango_layout_get_size with empty string

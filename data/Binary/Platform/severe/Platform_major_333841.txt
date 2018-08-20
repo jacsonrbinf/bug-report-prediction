@@ -1,0 +1,1 @@
+Eclipse IDE Galileo crash close when using the [ Cntrl + SpaceBar ] Content Assist command.

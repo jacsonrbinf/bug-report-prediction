@@ -1,0 +1,1 @@
+digestBuider throws NPE if feature description is misisng

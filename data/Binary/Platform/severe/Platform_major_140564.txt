@@ -1,0 +1,1 @@
+When deleting 10.000 files eclipse freezes

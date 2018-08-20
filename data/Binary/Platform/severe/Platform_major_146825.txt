@@ -1,0 +1,1 @@
+[console] NPE in process console participant

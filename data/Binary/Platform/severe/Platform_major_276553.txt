@@ -1,0 +1,1 @@
+Cocoa: Menus completely gray after drag-and-drop to detached view

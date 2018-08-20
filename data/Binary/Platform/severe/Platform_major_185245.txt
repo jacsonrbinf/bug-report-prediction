@@ -1,0 +1,1 @@
+[Contributions] legacy actions no longer work for multipage editors

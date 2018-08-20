@@ -1,0 +1,1 @@
+Europa PDE launcher crashes JVM 1.5.0_12

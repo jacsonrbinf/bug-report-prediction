@@ -1,0 +1,1 @@
+[Wizards] WizardNewProjectCreationPage and WorkingSetConfigurationBlock needs to update its deprecated comments

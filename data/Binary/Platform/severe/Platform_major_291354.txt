@@ -1,0 +1,1 @@
+[Widgets] Windows 7: small indeterminate ProgressBar looks broken

@@ -1,0 +1,1 @@
+[FastView] Views cannot get focus when opening as FastView and dragging to a position

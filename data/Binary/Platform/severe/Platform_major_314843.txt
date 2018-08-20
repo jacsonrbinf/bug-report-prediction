@@ -1,0 +1,1 @@
+JRE or JDK not found after installation

@@ -1,0 +1,1 @@
+About dialog for 3.2.2 candidate shows 3.2.1

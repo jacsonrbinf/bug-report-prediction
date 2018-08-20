@@ -1,0 +1,1 @@
+Markers preference dialog's lists should be multiselect

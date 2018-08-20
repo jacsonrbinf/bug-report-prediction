@@ -1,0 +1,1 @@
+Missing API reference doc for 'org.eclipse.search.core.text'

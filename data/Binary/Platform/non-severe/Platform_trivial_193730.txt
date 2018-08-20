@@ -1,0 +1,1 @@
+Search preference page should have keyword 'potential'

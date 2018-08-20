@@ -1,0 +1,1 @@
+[Browser] Since Installing IE7 Internal Web Browser ( or Online Help ) Crashes JVM

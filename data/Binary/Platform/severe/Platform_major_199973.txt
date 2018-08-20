@@ -1,0 +1,1 @@
+[Import/Export] Importing existing Java project with different name than on filesystem uses folder name instead

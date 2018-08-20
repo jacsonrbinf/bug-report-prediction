@@ -1,0 +1,1 @@
+The "-showlocation" argument should not be an element of Platform.getApplicationArgs()

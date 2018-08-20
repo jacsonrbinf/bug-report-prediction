@@ -1,0 +1,1 @@
+[Keybindings] Enter and Esc keys don't work any more in dialogs

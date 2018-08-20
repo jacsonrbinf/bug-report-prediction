@@ -1,0 +1,1 @@
+[GlobalActions]'Export...' and 'Exit' menu items under the 'File' menu share the same mnemonic

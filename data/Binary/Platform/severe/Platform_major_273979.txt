@@ -1,0 +1,1 @@
+[CommonNavigator] commonSorter in extension org.eclipse.ui.navigatorContent does not work

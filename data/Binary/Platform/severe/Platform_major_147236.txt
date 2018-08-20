@@ -1,0 +1,1 @@
+[Presentations] On resizing view part suddenly change his size and then refuse to resize - it's blocked

@@ -1,0 +1,1 @@
+It is not possible to create an applet with embedded SWT on Mac OS X

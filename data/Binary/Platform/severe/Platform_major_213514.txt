@@ -1,0 +1,1 @@
+[GlobalActions] Navigator does not alow renaming if detached

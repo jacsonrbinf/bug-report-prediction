@@ -1,0 +1,1 @@
+Compare Java structure: Ignore White Space only works partially

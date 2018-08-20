@@ -1,0 +1,1 @@
+[DND] NavigatorDnDService does not update DragSource Transfer if invalid

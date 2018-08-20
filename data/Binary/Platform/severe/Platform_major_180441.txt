@@ -1,0 +1,1 @@
+RetargetAction should not update upon text selection change

@@ -1,0 +1,1 @@
+[FastView] Bindings shouldn't appear in fast view pop-up

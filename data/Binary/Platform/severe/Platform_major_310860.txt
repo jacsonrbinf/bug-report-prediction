@@ -1,0 +1,1 @@
+minimized view buttons not responding to click, nor minimize button

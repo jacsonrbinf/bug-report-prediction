@@ -1,0 +1,1 @@
+TabFolder background not drawn when using skins for Windows XP

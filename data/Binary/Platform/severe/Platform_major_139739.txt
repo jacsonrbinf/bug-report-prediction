@@ -1,0 +1,1 @@
+[SSH2] extssh connection type with proxy connection enabled does not seem to work with RC2

@@ -1,0 +1,1 @@
+command-d deletes line of text twice

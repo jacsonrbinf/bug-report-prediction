@@ -1,0 +1,1 @@
+Eclipse packages do not expand properly with OS X default unzipper

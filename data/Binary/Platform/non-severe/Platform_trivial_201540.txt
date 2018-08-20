@@ -1,0 +1,1 @@
+[Preferences] 'encoding' should find 'Content Types' preference page

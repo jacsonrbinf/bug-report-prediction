@@ -1,0 +1,1 @@
+Feature's EULA (licence agreement) should word-wrap

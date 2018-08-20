@@ -1,0 +1,1 @@
+Enclosing project does not work for file search

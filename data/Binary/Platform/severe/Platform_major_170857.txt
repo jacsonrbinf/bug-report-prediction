@@ -1,0 +1,1 @@
+Index out of bound at the SWT level in the debug view

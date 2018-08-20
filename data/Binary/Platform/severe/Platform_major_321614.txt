@@ -1,0 +1,1 @@
+Mouse move events broken in SWT.TOOL shells

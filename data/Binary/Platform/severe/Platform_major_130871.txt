@@ -1,0 +1,1 @@
+"copy current change from right to left" creates conflicting change

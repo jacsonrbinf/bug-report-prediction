@@ -1,0 +1,1 @@
+[FastView] Unhandled event loop exception: NPE in ToolBarManager.update

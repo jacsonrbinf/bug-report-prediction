@@ -1,0 +1,1 @@
+[Clipboard] Pasting multiple external resources on Mac OS X pastes only one resource.

@@ -1,0 +1,1 @@
+[CommonNavigator] The .* resources filter does not work in Project Explorer

@@ -1,0 +1,1 @@
+[Browser] XGL enabled Suse : Blurred ConfirmEx dialog with long long URL string

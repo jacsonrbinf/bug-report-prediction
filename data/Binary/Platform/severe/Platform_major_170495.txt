@@ -1,0 +1,1 @@
+CVS History fails with Java 1.6.0 (Error: Illegal character in port number)

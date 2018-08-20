@@ -1,0 +1,1 @@
+overlap image transparency failure in 16bits color quality

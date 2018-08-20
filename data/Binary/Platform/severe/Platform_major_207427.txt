@@ -1,0 +1,1 @@
+bug  #140306 fix need to be included in Eclipse 3.2 version

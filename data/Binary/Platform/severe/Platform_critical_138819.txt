@@ -1,0 +1,1 @@
+[Forms] native crash by clicking on "Extensions" in the manifest editor

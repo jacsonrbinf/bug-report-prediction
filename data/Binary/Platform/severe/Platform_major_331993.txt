@@ -1,0 +1,1 @@
+Display#setCursorLocation(Point) does not cause MouseMove event on MacOSX Cocoa

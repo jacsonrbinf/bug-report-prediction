@@ -1,0 +1,1 @@
+Ancestor dialog from 'Compare With > Each Other' does not cancel

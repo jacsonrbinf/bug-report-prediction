@@ -1,0 +1,1 @@
+[IDE] Encoding field editor: "determined from content" is ambiguous

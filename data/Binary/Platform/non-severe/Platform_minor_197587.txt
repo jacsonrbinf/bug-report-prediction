@@ -1,0 +1,1 @@
+[Workbench] Document that workbench window doesn't fire activation/deactivation events if no active page opened in that window

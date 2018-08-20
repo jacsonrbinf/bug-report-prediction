@@ -1,0 +1,1 @@
+SIGSEGV in libgtk --> Eclipse crashes

@@ -1,0 +1,1 @@
+[Browser] Browser widget crashes VM after failed Ctrl+L in hover

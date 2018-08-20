@@ -1,0 +1,1 @@
+null pointer exception while saving from a comparison editor

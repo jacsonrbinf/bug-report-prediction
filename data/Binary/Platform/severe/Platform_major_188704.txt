@@ -1,0 +1,1 @@
+Top index not maintained properly in variables / registers view.

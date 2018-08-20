@@ -1,0 +1,1 @@
+SWT cannot right work when set Antialias ON in FedoraCore 6

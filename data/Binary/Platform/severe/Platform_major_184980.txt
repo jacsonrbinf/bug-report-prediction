@@ -1,0 +1,1 @@
+[WorkbenchLauncher] Three colors and a font leaked on switch workspace dialog

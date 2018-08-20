@@ -1,0 +1,1 @@
+[KeyBindings] Re-enable old keys preferences page until new version has stabilized

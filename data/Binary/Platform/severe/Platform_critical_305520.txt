@@ -1,0 +1,1 @@
+Plugins stop() method not called when "Quit" called on MAC

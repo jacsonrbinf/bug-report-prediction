@@ -1,0 +1,1 @@
+Eclipse crashes when I browse files from File -> Open

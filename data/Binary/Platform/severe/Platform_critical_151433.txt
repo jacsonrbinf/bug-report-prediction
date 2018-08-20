@@ -1,0 +1,1 @@
+Firing content event on a debug target does not causing the target to be refreshed

@@ -1,0 +1,1 @@
+Error=1 after autocompletion tooltip is shown and hit enter on an option.

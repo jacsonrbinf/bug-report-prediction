@@ -1,0 +1,1 @@
+[Wizards] Cannot create project inside workspace directory unless default location is used.

@@ -1,0 +1,1 @@
+release tool doesn't work quite right if more than one version in map file

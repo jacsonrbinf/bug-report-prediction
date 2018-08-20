@@ -1,0 +1,1 @@
+MarkerInfo.setAttributes(Map map) calls checkValidAttribute which throws IllegalArgumentException

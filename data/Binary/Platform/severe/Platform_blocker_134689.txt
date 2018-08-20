@@ -1,0 +1,1 @@
+ICU4J: Internal Error when user presses right mouse button

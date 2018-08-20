@@ -1,0 +1,1 @@
+Combo Control cuts off the ends of "too long" values

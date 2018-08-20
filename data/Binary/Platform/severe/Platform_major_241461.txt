@@ -1,0 +1,1 @@
+OS.gtk_list_store_append(modelHandle, iter); blocks in org.eclipse.swt.widgets.Table#setItemCount(int)

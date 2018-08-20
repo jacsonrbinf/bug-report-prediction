@@ -1,0 +1,1 @@
+[CommonNavigator] [DND] - Drag/drop within the project explorer; doesn't scroll

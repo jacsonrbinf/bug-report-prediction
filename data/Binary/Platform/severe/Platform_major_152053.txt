@@ -1,0 +1,1 @@
+[Resources] Update disrupted when folder with improper name encountered

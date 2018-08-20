@@ -1,0 +1,1 @@
+Active editor set to null when views are maximised. PartList#setActiveEditor()

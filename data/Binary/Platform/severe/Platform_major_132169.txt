@@ -1,0 +1,1 @@
+[Keybindings] Focus stays in editor, but view is activated

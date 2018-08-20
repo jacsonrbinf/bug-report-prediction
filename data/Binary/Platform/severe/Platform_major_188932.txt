@@ -1,0 +1,1 @@
+Can't enter paths in Text fields on Red Hat Workstation 5

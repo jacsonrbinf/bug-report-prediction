@@ -1,0 +1,1 @@
+Trying to reveal element in Table takes very long

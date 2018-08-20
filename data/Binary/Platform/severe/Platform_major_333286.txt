@@ -1,0 +1,1 @@
+[performance] Combo creation is sometimes very slow on gtk

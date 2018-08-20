@@ -1,0 +1,1 @@
+[Commands] org.eclipse.ui.commands extension point tells user to implement a subclass

@@ -1,0 +1,1 @@
+Eclipse PDT- project explorer doesn't update when file is selected.

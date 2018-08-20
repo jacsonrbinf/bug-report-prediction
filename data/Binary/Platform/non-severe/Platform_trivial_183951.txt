@@ -1,0 +1,1 @@
+Team > CVS preference page should include keywords 'timeout' and 'connection'

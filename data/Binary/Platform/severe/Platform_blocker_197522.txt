@@ -1,0 +1,1 @@
+Eclipse does not run when installed into path containing NL characters from multiple languages, or  from single NL langauge when default locale is English

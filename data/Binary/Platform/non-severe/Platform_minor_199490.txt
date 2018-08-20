@@ -1,0 +1,1 @@
+Java project from Ant wizard needs changes to label casing

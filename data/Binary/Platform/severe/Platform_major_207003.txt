@@ -1,0 +1,1 @@
+[Patch] Wrong fuzz used after calculating the fuzz

@@ -1,0 +1,1 @@
+SWT error on AIX when launching RCP app

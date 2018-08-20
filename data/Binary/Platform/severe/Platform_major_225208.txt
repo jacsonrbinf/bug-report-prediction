@@ -1,0 +1,1 @@
+[Webapp] From the TOC view print topic prints the TOC instead

@@ -1,0 +1,1 @@
+Renaming a class by changing case causes an error

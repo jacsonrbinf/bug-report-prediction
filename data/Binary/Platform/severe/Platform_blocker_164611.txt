@@ -1,0 +1,1 @@
+Editors end up in starvation on openSUSE 10.2

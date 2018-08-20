@@ -1,0 +1,1 @@
+[Contributions] Customize Perspective dialog removes menu entires

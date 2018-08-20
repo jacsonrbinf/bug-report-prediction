@@ -1,0 +1,1 @@
+Static constants which should not be null cause NPE at runtime and crash workbench

@@ -1,0 +1,1 @@
+[Contributions] IndexOutOfBoundsException when opening popup on marker in Problems view

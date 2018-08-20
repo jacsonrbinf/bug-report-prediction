@@ -1,0 +1,1 @@
+Eclipse crashed when opening the VE

@@ -1,0 +1,1 @@
+New Project Path cannot be a subset of Current Workspace.

@@ -1,0 +1,1 @@
+Eclipse 3.2.1 crashses on linux (gtk) during startup(intro)

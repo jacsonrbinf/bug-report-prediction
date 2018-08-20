@@ -1,0 +1,1 @@
+[Markers] org.eclipse.ui.ide does not compile due to usage of Java 6 APIs

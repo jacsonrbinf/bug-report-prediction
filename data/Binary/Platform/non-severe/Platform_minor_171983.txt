@@ -1,0 +1,1 @@
+[Preferences] Wrong ref to preference page on 'Server Encoding' property page

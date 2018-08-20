@@ -1,0 +1,1 @@
+"Apply Patch" doesn't work for older repository providers

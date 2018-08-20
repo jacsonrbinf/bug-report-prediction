@@ -1,0 +1,1 @@
+[Contributions] WorkbenchMenuService leaks editor after context menu opened

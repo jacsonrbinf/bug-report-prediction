@@ -1,0 +1,1 @@
+[Min / Max]  Restoring View from FVB using DND makes View unusable

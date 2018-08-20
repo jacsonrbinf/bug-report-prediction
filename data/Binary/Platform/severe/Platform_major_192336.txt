@@ -1,0 +1,1 @@
+Text isn't visble on dialogs (in treeviews and listviews)

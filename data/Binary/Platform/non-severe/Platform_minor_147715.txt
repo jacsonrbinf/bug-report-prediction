@@ -1,0 +1,1 @@
+Wrong notification of margin column delimiter in editor

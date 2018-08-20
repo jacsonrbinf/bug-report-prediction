@@ -1,0 +1,1 @@
+[Browser] Eclipse crash sporadically when use SWT browser to preview report

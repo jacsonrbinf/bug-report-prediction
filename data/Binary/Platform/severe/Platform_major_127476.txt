@@ -1,0 +1,1 @@
+[DND] Trim Drag handles don't show up; can't initiate a drag op

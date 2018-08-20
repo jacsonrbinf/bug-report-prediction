@@ -1,0 +1,1 @@
+[CommonNavigator] Project Explorer does not show contributed view menu actions unless opened on startup

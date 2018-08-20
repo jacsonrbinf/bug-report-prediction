@@ -1,0 +1,1 @@
+[Wizards] Unable to "Check out as..." from CVS

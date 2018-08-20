@@ -1,0 +1,1 @@
+Prevent temporary creation of preference store and source viewer config.

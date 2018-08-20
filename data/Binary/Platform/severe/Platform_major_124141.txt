@@ -1,0 +1,1 @@
+[Progress] ProgressView does not populate until first update occurs

@@ -1,0 +1,1 @@
+Exported ANT scripts should use the 'dir' attribute of the ant task

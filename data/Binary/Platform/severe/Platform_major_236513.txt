@@ -1,0 +1,1 @@
+bidi: english characters swapped only in linux

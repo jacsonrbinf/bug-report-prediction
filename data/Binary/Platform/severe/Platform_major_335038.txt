@@ -1,0 +1,1 @@
+Extra character highlighted if StyleRange overlaps another StyleRange in StyledText

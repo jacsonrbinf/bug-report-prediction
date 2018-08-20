@@ -1,0 +1,1 @@
+Ant builder - input handler property mispelled

@@ -1,0 +1,1 @@
+[Progress] JobErrorDialog class should enable "Details>>" button in error dialog if Status includes an exception

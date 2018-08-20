@@ -1,0 +1,1 @@
+[DataBinding] SimpleListProperty should copy in getList()

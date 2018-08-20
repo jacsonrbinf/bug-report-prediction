@@ -1,0 +1,1 @@
+Hang when i click a java class to see the source code

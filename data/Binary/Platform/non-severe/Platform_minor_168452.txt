@@ -1,0 +1,1 @@
+Update manager aborts on "bad" http url

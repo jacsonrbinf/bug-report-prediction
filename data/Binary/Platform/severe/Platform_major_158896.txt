@@ -1,0 +1,1 @@
+[CommonNavigator] Duplicate menu items in project exporer for non Java projects

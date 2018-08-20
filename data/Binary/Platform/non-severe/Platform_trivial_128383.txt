@@ -1,0 +1,1 @@
+BreakpointOrganzierLabelProvider extends internal UI class but does not use it

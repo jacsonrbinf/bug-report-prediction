@@ -1,0 +1,1 @@
+Selecting a selected project does not deselect already selected projects.

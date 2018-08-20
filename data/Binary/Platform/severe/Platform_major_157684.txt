@@ -1,0 +1,1 @@
+npe at: ProjectPreferences.computeChildren(ProjectPreferences.java:576)

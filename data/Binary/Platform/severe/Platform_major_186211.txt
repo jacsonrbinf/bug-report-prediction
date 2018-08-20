@@ -1,0 +1,1 @@
+[Viewers] SWT/JFace: TreeViewer unable to show same image in different columns

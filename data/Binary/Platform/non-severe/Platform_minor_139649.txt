@@ -1,0 +1,1 @@
+[CheatSheet] Welcome page steals focus away from cheat sheet in right-hand column view

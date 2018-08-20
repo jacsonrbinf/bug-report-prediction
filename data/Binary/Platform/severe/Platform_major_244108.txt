@@ -1,0 +1,1 @@
+[WorkbenchLauncher] ArrayIndexOutOfBoundsException in IDEApplication.start() when launching partially branded product

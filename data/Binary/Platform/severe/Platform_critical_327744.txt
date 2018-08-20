@@ -1,0 +1,1 @@
+Eclip[se becomes unusable when editing an xhtml file in a web project and continuous error messages are displayed.

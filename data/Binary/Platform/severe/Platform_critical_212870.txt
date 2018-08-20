@@ -1,0 +1,1 @@
+Image#getImageData() OutOfMemoryError Large Image swt-3,3-gtk-linux-x86

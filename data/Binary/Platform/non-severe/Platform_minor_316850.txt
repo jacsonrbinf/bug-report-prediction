@@ -1,0 +1,1 @@
+[breakpoints] Remove toolbar action disabled when view does not have focus.

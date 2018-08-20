@@ -1,0 +1,1 @@
+[Commands] handlers: Each opened Text and Java editor is leaked due to ProxyKeyBindingService

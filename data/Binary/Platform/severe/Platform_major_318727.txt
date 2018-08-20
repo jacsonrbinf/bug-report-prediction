@@ -1,0 +1,1 @@
+Some SWT Dialogs freeze if used in a Java Web Start application on Linux

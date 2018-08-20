@@ -1,0 +1,1 @@
+Backspace doesnot work flash files viewed in SWT browser when eclipse is minimised and restored

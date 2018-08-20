@@ -1,0 +1,1 @@
+[DataBinding] JavaBeans API is implemented at various places

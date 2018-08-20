@@ -1,0 +1,1 @@
+[Dialogs] JFace error dialog does not resize well

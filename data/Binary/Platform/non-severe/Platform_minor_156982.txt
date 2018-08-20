@@ -1,0 +1,1 @@
+[JFace] GridLayoutFactory lacks method to set margins individually

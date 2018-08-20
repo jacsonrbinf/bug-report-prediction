@@ -1,0 +1,1 @@
+[ErrorHandling] [StatusHandling] StatusManager#handle(StatusAdapter) should log that the adapter or status is null

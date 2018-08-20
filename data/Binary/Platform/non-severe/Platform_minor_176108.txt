@@ -1,0 +1,1 @@
+Icons not centered in minimized trim stack

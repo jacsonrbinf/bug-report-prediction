@@ -1,0 +1,1 @@
+handler conflict in org.eclipse.ui.examples.jobs/plugin.xml

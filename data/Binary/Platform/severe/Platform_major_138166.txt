@@ -1,0 +1,1 @@
+Toolbar buttons have wrong shade of grey in 3.2RC1a under Win XP

@@ -1,0 +1,1 @@
+calling gc.setAdvanced for a printer scales everything

@@ -1,0 +1,1 @@
+Open Type Dialog results in NullPointerException in GEF

@@ -1,0 +1,1 @@
+Wrong externalized string shown when two fragments have the same host

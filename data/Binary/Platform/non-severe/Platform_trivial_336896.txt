@@ -1,0 +1,1 @@
+Spinner should add SWT.BORDER in the documentation

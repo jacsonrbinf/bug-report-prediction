@@ -1,0 +1,1 @@
+[Workbench] ClassCastException: org.eclipse.ui.testing.ContributionInfo cannot be cast to org.eclipse.gef.EditPart

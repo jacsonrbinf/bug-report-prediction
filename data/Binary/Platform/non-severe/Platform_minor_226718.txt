@@ -1,0 +1,1 @@
+[PerspectiveBar] problem with the Perspective Switcher/Bar

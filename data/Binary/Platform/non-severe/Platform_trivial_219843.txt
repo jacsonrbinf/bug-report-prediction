@@ -1,0 +1,1 @@
+SWT.UP/DOWN do not spec that it can be used with org.eclipse.swt.widgets.Table.setSortDirection(int)

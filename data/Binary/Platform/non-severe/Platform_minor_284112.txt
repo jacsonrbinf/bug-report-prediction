@@ -1,0 +1,1 @@
+Wrong tooltip text in TableViewer after reordering columns

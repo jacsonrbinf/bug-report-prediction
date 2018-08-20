@@ -1,0 +1,1 @@
+[Browser] Arrow_Down does not scroll after tabbing into Browser

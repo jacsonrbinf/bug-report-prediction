@@ -1,0 +1,1 @@
+Inconsistent borders in Compare/Patch preference page

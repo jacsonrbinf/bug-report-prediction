@@ -1,0 +1,1 @@
+CVS extssh repository username is not preserved when upgrading Eclipse

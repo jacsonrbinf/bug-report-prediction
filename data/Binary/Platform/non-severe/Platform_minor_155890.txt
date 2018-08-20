@@ -1,0 +1,1 @@
+Entering a long string with no spaces in the editor crashes the editor

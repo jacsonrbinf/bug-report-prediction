@@ -1,0 +1,1 @@
+Crash whilst scrolling under 64-bit linux

@@ -1,0 +1,1 @@
+Shell.getClientArea has side effect

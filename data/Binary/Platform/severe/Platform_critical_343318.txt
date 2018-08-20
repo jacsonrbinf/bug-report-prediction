@@ -1,0 +1,1 @@
+sendToolTipEvent blows up with a null pointer exception when the window == null

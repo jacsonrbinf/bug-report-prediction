@@ -1,0 +1,1 @@
+[Repo View] CVS Prespective in Eclipse 3.0 does not scale with a repository having around 4000 modules

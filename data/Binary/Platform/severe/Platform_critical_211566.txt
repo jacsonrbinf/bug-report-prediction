@@ -1,0 +1,1 @@
+[browser] Perform dialog cancel action after performing "Download Linked File" in context menu causes crash

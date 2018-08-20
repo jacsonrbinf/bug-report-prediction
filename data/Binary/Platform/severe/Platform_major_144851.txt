@@ -1,0 +1,1 @@
+MultiPageEditorPart.getAdapter uses code that requires UI thread

@@ -1,0 +1,1 @@
+[Trim] [Trim] NPE in IWorkbenchPage.setPartState(IWorkbenchPartReference, IWorkbenchPage.STATE_RESTORED);

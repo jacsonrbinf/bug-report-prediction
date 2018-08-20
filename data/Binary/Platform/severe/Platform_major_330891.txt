@@ -1,0 +1,1 @@
+NullPointerException: LineNumberRulerColumn.java:488

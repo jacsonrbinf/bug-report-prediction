@@ -1,0 +1,1 @@
+"open" dialog should remember last directory

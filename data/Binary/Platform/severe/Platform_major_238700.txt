@@ -1,0 +1,1 @@
+Cannot launch Eclipse on RHEL5.2 with SWT error

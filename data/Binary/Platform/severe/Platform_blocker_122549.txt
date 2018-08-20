@@ -1,0 +1,1 @@
+[Viewers] new TreeSelection breaks clients (was: Java browsing perspective broken)

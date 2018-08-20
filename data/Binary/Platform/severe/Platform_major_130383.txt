@@ -1,0 +1,1 @@
+Use the verify code from the framework to verify features and plug-ins

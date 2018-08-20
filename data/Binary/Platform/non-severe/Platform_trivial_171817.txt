@@ -1,0 +1,1 @@
+[preferences] Either remove or show descriptions for hyperlink detector and target

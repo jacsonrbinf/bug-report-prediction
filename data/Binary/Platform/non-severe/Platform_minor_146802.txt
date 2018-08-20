@@ -1,0 +1,1 @@
+[KeyBindings] type-to-find in outline and package explorer doesn't work

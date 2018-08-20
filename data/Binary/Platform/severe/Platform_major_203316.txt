@@ -1,0 +1,1 @@
+[Viewers] ColumnViewer incorrectly handles right mouse click.

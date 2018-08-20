@@ -1,0 +1,1 @@
+Compare with Latest from HEAD results in empty revision

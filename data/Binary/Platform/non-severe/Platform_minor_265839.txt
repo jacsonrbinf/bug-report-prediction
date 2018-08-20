@@ -1,0 +1,1 @@
+[Proxy] NPE from IProxyData.setHost

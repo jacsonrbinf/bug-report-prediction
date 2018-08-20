@@ -1,0 +1,1 @@
+[Apply Patch] Apply patch does no longer if you click on Finish on first wizard page

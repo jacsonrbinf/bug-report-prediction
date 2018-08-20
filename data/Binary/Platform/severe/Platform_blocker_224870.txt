@@ -1,0 +1,1 @@
+Bidi3.4: Eclipse Crashes when trying to open HTML file that resides in Arabic named project

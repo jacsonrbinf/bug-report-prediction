@@ -1,0 +1,1 @@
+[BIDI3.6]:Arrows not mirrored correctly on new folder wizard

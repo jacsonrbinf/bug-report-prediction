@@ -1,0 +1,1 @@
+[regression] Bug 23969 -  Launcher should throw JVM exit code to parent process when build fails

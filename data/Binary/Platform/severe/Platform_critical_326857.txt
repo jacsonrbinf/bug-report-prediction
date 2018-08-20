@@ -1,0 +1,1 @@
+Eclipse hangs on exit in futex

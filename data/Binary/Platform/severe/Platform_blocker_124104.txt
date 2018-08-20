@@ -1,0 +1,1 @@
+[Contributions] SubActionBars(IActionBars) was removed and needs to be resurrected

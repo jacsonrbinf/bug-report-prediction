@@ -1,0 +1,1 @@
+SWTError: No more handles & NullPointerException in ui.internal.statushandlers.InternalDialog

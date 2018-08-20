@@ -1,0 +1,1 @@
+Eclipse loses keyboard shortcuts on OSX

@@ -1,0 +1,1 @@
+[Help][Context] Click on infopop link does not open help content in system browser

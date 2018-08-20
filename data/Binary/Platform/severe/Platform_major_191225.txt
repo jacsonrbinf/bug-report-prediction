@@ -1,0 +1,1 @@
+[JFace] Source compatibility breakage: DeviceResourceDescriptor.createResource

@@ -1,0 +1,1 @@
+[properties] process property page cuts off text

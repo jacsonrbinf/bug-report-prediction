@@ -1,0 +1,1 @@
+eclipse hangs up with an error

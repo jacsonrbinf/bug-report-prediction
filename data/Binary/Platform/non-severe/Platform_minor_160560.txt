@@ -1,0 +1,1 @@
+[Forms] Section header title goes missing if set before section text client

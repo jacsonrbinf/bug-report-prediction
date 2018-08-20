@@ -1,0 +1,1 @@
+CTabItems no longer have close buttons drawn on them upon workbench startup with N20091023-2000

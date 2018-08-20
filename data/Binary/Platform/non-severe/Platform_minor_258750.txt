@@ -1,0 +1,1 @@
+Remove perspective of uninstalled plugin

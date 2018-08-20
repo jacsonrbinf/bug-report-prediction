@@ -1,0 +1,1 @@
+[EFS] NPE opening external editor on external file

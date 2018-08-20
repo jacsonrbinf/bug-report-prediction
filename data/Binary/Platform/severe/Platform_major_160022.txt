@@ -1,0 +1,1 @@
+[OLE] OLE Graphic is disposed exception closing a Wizard dialog

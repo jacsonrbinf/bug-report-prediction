@@ -1,0 +1,1 @@
+[WorkbenchParts] Outline view disposal order different on Windows and Mac Cocoa

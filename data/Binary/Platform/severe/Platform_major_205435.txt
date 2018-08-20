@@ -1,0 +1,1 @@
+Can´t share project between Windows and Linux platform

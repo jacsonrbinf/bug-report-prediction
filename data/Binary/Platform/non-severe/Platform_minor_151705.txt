@@ -1,0 +1,1 @@
+[FastView] Hidden Fast View tooltips when it's docked on bottom in a Maximized Window

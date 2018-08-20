@@ -1,0 +1,1 @@
+[Help][Search] searchProcessor extension point can show duplicates in alternate expression

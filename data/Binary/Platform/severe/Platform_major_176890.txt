@@ -1,0 +1,1 @@
+NLS33:new debug.ui message "LaunchConfigurationAction_0" not enabled for translation properly

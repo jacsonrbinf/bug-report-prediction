@@ -1,0 +1,1 @@
+Console view: Opening drop-down of console switcher button already switches consoles

@@ -1,0 +1,1 @@
+CTRL + PAGE UP in Search Dialog causes JVM crash

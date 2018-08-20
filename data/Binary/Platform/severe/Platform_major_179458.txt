@@ -1,0 +1,1 @@
+[Presentations] EditorArea shown when application restored

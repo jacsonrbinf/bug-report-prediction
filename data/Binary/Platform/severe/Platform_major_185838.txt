@@ -1,0 +1,1 @@
+[Parts] CoreExceptions are thrown as PartInitExceptions by TextFileDocumentProvider

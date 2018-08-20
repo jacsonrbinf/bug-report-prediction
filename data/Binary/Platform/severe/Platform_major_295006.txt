@@ -1,0 +1,1 @@
+Items in install dialog are not visible

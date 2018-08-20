@@ -1,0 +1,1 @@
+[?] button in dialogs isn't hidden when there's no help written.

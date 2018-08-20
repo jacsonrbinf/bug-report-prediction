@@ -1,0 +1,1 @@
+[KeyBindings][Preferences] TVT34:TCT380: The "Filters" button is truncated

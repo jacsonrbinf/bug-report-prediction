@@ -1,0 +1,1 @@
+Update Manager installs even if cancelled at "unsigned feature" warning

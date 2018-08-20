@@ -1,0 +1,1 @@
+crash of the server after about 10 eclipse launch

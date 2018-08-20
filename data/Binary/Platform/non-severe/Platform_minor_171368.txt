@@ -1,0 +1,1 @@
+[Dialogs] misleading Javadoc contract for #isConsistentItem(Object) and #matchItem(Object)

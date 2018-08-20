@@ -1,0 +1,1 @@
+[Help] API Documentation for displayHelpResource

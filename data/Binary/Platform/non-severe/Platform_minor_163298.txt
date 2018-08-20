@@ -1,0 +1,1 @@
+Reduce size of buffers used for CVS decoration calculation

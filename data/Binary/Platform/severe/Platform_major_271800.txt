@@ -1,0 +1,1 @@
+KeyPressed event is processed twice if widget is set to invisible on KeyPress

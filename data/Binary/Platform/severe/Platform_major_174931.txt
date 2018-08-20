@@ -1,0 +1,1 @@
+[Contributions] Eclipse not starting up due to SWT Error.

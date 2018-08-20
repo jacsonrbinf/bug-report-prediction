@@ -1,0 +1,1 @@
+[Workbench] Eclipse crashes if you try to save-as an outside-workspace-file without specifying a 'save in' folder

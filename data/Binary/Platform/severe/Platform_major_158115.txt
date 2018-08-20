@@ -1,0 +1,1 @@
+Some Mac key binding modifications are being ignored

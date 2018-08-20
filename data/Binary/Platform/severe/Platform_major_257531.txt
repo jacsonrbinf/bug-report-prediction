@@ -1,0 +1,1 @@
+[ErrorHandling] WorkbenchStatusDialogManager leaks two images in StatusTray

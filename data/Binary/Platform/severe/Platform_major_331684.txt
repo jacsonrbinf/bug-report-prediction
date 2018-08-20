@@ -1,0 +1,1 @@
+After crash, Eclipse fails to create view in Project Explorer

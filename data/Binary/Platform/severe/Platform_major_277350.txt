@@ -1,0 +1,1 @@
+[Help] OnMac OS child windows of he help browser are far too large

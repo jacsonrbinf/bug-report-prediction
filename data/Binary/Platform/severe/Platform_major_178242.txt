@@ -1,0 +1,1 @@
+[Themes] Cannot customize foreground font any longer with 3.0 presentation

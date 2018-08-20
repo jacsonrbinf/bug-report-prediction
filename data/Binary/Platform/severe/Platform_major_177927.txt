@@ -1,0 +1,1 @@
+Triple-Click broken if drag source installed on StyledText

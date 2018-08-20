@@ -1,0 +1,1 @@
+Opening and closing Views wipes out (erases) changes made in editor

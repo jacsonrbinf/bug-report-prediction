@@ -1,0 +1,1 @@
+[ActivityMgmt] Activities should allow default enablement to be controlled by product definition

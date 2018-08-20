@@ -1,0 +1,1 @@
+[javadoc] GotoLastEditPositionAction's Javadoc references an internal type

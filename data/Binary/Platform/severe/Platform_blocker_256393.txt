@@ -1,0 +1,1 @@
+Update Manager on WINDOWS VISTA is not able to connect to remote repositories

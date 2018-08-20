@@ -1,0 +1,1 @@
+StyledText: horizontal scrollbar doesn't handle indent

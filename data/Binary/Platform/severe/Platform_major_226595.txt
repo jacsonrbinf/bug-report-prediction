@@ -1,0 +1,1 @@
+[Help] Help index cannot handle multiple files with same ID

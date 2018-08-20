@@ -1,0 +1,1 @@
+[CommonNavigator] Navigating to Project Explorer causes an NPE

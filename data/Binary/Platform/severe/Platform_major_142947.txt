@@ -1,0 +1,1 @@
+[DND] Classes to provide drag under feedback should be public

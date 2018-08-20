@@ -1,0 +1,1 @@
+[Dialogs] Behavioral change for FilteredItemsSelectionDialog#setDetailsLabelProvider(..) must be documented

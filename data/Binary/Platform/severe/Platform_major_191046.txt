@@ -1,0 +1,1 @@
+[Min/Max] View does not open 2nd time when editor max'd

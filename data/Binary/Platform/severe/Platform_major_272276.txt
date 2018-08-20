@@ -1,0 +1,1 @@
+DBCS3.5:Selecting korean text and right clicking on eclipse editor results in deletion of those characters.

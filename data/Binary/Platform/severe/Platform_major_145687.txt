@@ -1,0 +1,1 @@
+Java process doesnt stop even when Eclipse is quit

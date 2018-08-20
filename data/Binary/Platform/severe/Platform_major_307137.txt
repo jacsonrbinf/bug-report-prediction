@@ -1,0 +1,1 @@
+[Help] Help scope in webapp causes breadcrumb problems in Help View

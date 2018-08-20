@@ -1,0 +1,1 @@
+ColorDialog always returns null on 64 bit Cocoa (or sometimes hangs and does not return)

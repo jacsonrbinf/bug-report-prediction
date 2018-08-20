@@ -1,0 +1,1 @@
+regression: FocusOut not fired for Texts in an SWT.APPLICATION_MODAL shell

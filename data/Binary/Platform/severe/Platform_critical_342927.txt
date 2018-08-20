@@ -1,0 +1,1 @@
+[JFace] Mouse down action on jface tooltip blocks X session

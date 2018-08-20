@@ -1,0 +1,1 @@
+no north-south cursor for resizing panes on Mac

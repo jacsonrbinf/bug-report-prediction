@@ -1,0 +1,1 @@
+UI extremely slow after start, build, sync, etc. in Vista

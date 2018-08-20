@@ -1,0 +1,1 @@
+[misc] Restore editor selection on restart should restore visible view port as well

@@ -1,0 +1,1 @@
+[Viewers] TreeViewer holds on to filters after being disposed

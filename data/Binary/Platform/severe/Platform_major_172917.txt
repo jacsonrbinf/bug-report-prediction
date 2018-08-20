@@ -1,0 +1,1 @@
+[ErrorHandling] Possibility of accessing the status manager before workbench starts up

@@ -1,0 +1,1 @@
+Startup error on new MacBook Pro (OS X 1.4)

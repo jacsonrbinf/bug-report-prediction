@@ -1,0 +1,1 @@
+[EditorMgmt] Buttons on "File not accessible" dialog can not be used through key stroke

@@ -1,0 +1,1 @@
+[64] Widget disposed too early! error with SWT_AWT on GTK64

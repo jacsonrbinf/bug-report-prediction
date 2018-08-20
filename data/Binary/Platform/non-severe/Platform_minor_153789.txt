@@ -1,0 +1,1 @@
+[launching] Launch configuration dialog: switching filters should not remove multiselection

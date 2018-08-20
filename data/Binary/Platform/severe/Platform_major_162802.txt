@@ -1,0 +1,1 @@
+[launching] launch manager causes exception persisting preferred delegates

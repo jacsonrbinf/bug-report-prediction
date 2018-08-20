@@ -1,0 +1,1 @@
+[Connection] cvs co fails in Eclipse but succeeds on command line

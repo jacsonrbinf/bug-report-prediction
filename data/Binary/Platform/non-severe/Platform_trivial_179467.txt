@@ -1,0 +1,1 @@
+[preferences] Hyperlinking preference page should have keywords "key" and "modifier"

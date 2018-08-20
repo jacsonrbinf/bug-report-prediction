@@ -1,0 +1,1 @@
+[DND] 'Alt' does not request DROP_LINK

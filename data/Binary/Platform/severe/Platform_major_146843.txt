@@ -1,0 +1,1 @@
+Rename a method is slow when using a big workspace

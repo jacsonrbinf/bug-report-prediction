@@ -1,0 +1,1 @@
+Eclipse appears half a second and disappears

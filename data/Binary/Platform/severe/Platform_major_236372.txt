@@ -1,0 +1,1 @@
+[Wizards] The dialog message indentation is wrong

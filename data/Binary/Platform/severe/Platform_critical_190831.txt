@@ -1,0 +1,1 @@
+Update Configurator reconciles platform.xml with newer features even when the site is marked not updateable.

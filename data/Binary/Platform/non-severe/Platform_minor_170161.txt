@@ -1,0 +1,1 @@
+[Themes] Font Preview is not visible in HighContrast mode

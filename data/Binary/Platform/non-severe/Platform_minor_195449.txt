@@ -1,0 +1,1 @@
+[Contributions] IFocusService not working when IncrementalFind's Label on the status bar is converted to a Text widget

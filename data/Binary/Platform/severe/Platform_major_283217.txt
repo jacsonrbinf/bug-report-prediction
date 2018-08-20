@@ -1,0 +1,1 @@
+Can't print Image with alphas with transparent pixel unspecified

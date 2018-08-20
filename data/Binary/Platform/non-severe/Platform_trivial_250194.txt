@@ -1,0 +1,1 @@
+NullPointerException when closing Eclipse with no Perspective opened

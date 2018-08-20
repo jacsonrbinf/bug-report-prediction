@@ -1,0 +1,1 @@
+[implementation] org.eclipse.ui.internal.editors.text.URLHyperlink

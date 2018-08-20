@@ -1,0 +1,1 @@
+[Forms] org.eclipse.ui.forms.widgets.Section does not conform Accessibility Requirement

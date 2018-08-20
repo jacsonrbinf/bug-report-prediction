@@ -1,0 +1,1 @@
+GoToAddressDialog should not modify parent composite layout

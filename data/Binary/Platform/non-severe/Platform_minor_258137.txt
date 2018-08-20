@@ -1,0 +1,1 @@
+[Help] search scope name "Default_new" changes from invalid to valid

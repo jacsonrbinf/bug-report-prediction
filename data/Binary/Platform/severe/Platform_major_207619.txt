@@ -1,0 +1,1 @@
+[CommonNavigator] StackOverflowError when attempting to import with at least 2 projects in workspace

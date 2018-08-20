@@ -1,0 +1,1 @@
+[hovering] First click on not yet enriched hover closes hover immediately

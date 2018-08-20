@@ -1,0 +1,1 @@
+[Help][Search] Need to be able to see search query when DEBUG_SEARCH is turned on

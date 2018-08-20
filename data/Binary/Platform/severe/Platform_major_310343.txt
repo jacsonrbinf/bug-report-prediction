@@ -1,0 +1,1 @@
+[Intro] BIDI3.6: Wrong display of English text in Intro on ar UTF-8 locales

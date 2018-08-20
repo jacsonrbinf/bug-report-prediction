@@ -1,0 +1,1 @@
+LCD title not correct creating a new configuration

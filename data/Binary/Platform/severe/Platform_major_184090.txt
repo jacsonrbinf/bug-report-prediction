@@ -1,0 +1,1 @@
+Test Status Handler should only be enabled when running the test suites

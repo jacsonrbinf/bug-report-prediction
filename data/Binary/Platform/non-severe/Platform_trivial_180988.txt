@@ -1,0 +1,1 @@
+SourceFile class from org.eclipse.releng.tools has no copyright header

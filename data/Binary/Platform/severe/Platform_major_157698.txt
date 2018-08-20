@@ -1,0 +1,1 @@
+[CommonNavigator] Java source directories starting with dot are visible in the Project Explorer view

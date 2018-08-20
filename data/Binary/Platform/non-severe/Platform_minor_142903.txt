@@ -1,0 +1,1 @@
+Documentation improvements for extension point schemas

@@ -1,0 +1,1 @@
+NPE in Update Manager when there's a proxy server

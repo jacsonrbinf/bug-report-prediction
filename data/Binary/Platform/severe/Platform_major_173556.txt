@@ -1,0 +1,1 @@
+[OLE] SWTException constructing OleControlSite for WMPlayer.OCX with Windows Media Player 11

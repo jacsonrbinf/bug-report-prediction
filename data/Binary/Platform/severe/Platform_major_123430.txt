@@ -1,0 +1,1 @@
+Patch file misses changes without network connection during patch creation without indication

@@ -1,0 +1,1 @@
+[Help][Context] NPE in ContextHelpDialog when context has no description

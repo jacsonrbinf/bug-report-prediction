@@ -1,0 +1,1 @@
+Detaching view (via drag) crashses eclipse on OSX

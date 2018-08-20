@@ -1,0 +1,1 @@
+[Intro] missing icon on the standby page of the swt welcome theme purple mesh

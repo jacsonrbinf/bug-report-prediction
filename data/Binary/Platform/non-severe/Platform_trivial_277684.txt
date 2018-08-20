@@ -1,0 +1,1 @@
+[preferences] Add comment to pref page that changing quick diff provider does not update open editors

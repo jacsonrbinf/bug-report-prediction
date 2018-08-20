@@ -1,0 +1,1 @@
+SWT Table truncates text longer than 259 characters

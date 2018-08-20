@@ -1,0 +1,1 @@
+Eclipse crashed in org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Lorg/eclipse/swt/internal/cocoa/objc_super;JJ)J

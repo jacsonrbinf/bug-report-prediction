@@ -1,0 +1,1 @@
+[rulers] Duplicate mnemonic on annotate's Show Author

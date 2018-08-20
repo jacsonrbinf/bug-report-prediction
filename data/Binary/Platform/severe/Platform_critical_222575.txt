@@ -1,0 +1,1 @@
+findFilesForLocation returns empty array if there are escaped symbols in the path variable

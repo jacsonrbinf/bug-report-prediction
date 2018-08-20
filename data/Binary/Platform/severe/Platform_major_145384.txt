@@ -1,0 +1,1 @@
+TVT3.2:TCT847: Externalized strings not translated

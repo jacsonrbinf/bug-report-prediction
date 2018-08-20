@@ -1,0 +1,1 @@
+[Viewers] Widget is disposed exception when refreshing TreeViewer after modifying a filter

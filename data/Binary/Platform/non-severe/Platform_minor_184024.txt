@@ -1,0 +1,1 @@
+Cancelling Rename Resource Action Dialog via escape key does not cancel action

@@ -1,0 +1,1 @@
+Patch wizard excludes changes in projects that it can't connect

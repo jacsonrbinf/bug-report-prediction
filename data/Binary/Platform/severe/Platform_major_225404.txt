@@ -1,0 +1,1 @@
+Clicking on areas to left or right of cell editors in tree does not raise a FocusIn event for tree on vista

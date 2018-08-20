@@ -1,0 +1,1 @@
+Label in markers view moves when sorting changed

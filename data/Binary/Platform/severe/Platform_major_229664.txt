@@ -1,0 +1,1 @@
+[Webapp] Selected items in TOC on OSX have dark background and are not readable

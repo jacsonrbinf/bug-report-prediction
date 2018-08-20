@@ -1,0 +1,1 @@
+[JarProcessor] Processor can change hash of eclipse.inf

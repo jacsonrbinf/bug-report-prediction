@@ -1,0 +1,1 @@
+SourceLookupFacility should use IEditorMatchingStrategy

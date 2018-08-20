@@ -1,0 +1,1 @@
+run dialog gets distorted with the change of screen resolution and font size

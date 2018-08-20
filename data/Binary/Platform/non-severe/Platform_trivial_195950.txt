@@ -1,0 +1,1 @@
+Incorrect error explanation when using return value other than void for main(...)

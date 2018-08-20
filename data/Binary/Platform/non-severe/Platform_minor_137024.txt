@@ -1,0 +1,1 @@
+Package explorer, outline, etc has increased vertical padding

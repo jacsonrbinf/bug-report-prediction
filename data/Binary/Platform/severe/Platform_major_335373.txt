@@ -1,0 +1,1 @@
+NPE when changing iFrame url via SWT browser evaluate() method

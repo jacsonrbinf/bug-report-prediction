@@ -1,0 +1,1 @@
+[KeyBindings] Table in Keys preference page should use sort arrows

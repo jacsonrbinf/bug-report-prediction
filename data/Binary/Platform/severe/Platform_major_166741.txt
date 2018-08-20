@@ -1,0 +1,1 @@
+shortenText() in Clable may cause  globalization problems

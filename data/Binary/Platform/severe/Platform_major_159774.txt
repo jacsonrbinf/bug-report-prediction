@@ -1,0 +1,1 @@
+Reproducible Feature Manifest Editor sequence causes JVM hotspot error

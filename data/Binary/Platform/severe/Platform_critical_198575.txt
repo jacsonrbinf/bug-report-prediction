@@ -1,0 +1,1 @@
+[Intro] display problems -- standby and maximized

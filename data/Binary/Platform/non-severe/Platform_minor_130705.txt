@@ -1,0 +1,1 @@
+[OLE] SWT 32 should expose IUnknown, IOle***, COM classes.

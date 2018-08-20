@@ -1,0 +1,1 @@
+[Viewers] binary incompatibility (adding public fields) reported against jface.viewers

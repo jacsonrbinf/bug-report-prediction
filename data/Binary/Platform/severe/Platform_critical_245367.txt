@@ -1,0 +1,1 @@
+[Browser] swt browser doesn't hold the SWT global lock when calling to Xlib

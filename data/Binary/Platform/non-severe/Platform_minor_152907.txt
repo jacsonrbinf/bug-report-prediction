@@ -1,0 +1,1 @@
+[DataBinding] Patch: ArrayIndexOutOfBoundsException in TableViewerObservableCollectionWithLabels.convertColumnValue()

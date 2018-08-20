@@ -1,0 +1,1 @@
+Startup Fails in Suse Linux 10.2.  Not resolved by reinstalling

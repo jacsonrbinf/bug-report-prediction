@@ -1,0 +1,1 @@
+[typing] toUpperCase incorrect selection

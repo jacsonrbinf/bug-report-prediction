@@ -1,0 +1,1 @@
+View using SWT_AWT crashes on Mac if open at startup

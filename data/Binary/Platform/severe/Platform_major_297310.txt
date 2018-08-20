@@ -1,0 +1,1 @@
+[results] No more handles exception while generating performance results

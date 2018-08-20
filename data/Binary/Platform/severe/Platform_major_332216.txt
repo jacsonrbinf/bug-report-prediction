@@ -1,0 +1,1 @@
+[ViewMgmt] ErrorViewPart must implement setFocus() method

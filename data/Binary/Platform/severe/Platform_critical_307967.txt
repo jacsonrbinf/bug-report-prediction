@@ -1,0 +1,1 @@
+eclipse freezes when I try to add a local site

@@ -1,0 +1,1 @@
+[Forms] Header message disappears after adding hyperlink listener

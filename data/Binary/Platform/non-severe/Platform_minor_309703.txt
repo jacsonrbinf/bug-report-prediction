@@ -1,0 +1,1 @@
+Detail panel of the Breakpoints view is not cleaned up when all breakpoint are removed

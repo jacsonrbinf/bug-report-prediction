@@ -1,0 +1,1 @@
+exported ant script does not apply include/exclude filter on init target's copy task

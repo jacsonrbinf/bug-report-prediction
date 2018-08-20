@@ -1,0 +1,1 @@
+AliasManager incorrectly removes folders linked by path variable values

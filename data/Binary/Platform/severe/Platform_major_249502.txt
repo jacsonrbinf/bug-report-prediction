@@ -1,0 +1,1 @@
+[Coolbar] init is called during dispose of a IWorkbenchWindowPulldownDelegate2

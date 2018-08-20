@@ -1,0 +1,1 @@
+protected method getFontPropertyPreferenceKey in AbstractTextEditor also final, preventing override

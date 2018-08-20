@@ -1,0 +1,1 @@
+JVM terminates on startup in version 3.2.2, but is fine in 3.2.1

@@ -1,0 +1,1 @@
+[Doc] Update a screenshot on "CVS Checkout wizard" page

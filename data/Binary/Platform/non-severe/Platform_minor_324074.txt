@@ -1,0 +1,1 @@
+unable to search in selected project if package explorer is undocked

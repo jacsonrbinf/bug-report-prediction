@@ -1,0 +1,1 @@
+[Markers] Columns in markers view are very small

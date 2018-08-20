@@ -1,0 +1,1 @@
+non API browser classes have disappeard

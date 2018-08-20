@@ -1,0 +1,1 @@
+[DND] PluginDropAdapter does not accept multiple actions in an extension

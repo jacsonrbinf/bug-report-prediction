@@ -1,0 +1,1 @@
+Progress view leaks X resources on Linux Ubuntu

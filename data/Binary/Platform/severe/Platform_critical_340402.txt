@@ -1,0 +1,1 @@
+Eclipse running with xulrunner 2.0 crashed on press Ctrl+Space

@@ -1,0 +1,1 @@
+"Synchronizing CVS (Workspace)" stays at 80%

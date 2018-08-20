@@ -1,0 +1,1 @@
+[KeyBindings] Some key bindings do not work in Java editors

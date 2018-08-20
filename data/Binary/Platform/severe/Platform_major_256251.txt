@@ -1,0 +1,1 @@
+[Help][Search] Problem searching via Eclipse Help Browser

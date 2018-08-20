@@ -1,0 +1,1 @@
+[rulers] annotate hover shows CSS when Browser widget not available

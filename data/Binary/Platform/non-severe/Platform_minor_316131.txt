@@ -1,0 +1,1 @@
+Merge wizard finish not updated when tags are refreshed

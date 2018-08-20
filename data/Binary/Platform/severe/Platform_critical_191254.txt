@@ -1,0 +1,1 @@
+[WorkbenchLauncher] Eclipse launched with gcj should alert user to potential problems

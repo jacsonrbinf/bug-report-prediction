@@ -1,0 +1,1 @@
+[history view] shows no items in the list, although you can navigate through the list to see the comments and tags

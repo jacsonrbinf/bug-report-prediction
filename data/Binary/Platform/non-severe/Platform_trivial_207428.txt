@@ -1,0 +1,1 @@
+[ErrorHandling] [Status Handling][SHTB] Explanation and Action fields should adjust their size to the size of the view.

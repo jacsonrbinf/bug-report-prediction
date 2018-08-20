@@ -1,0 +1,1 @@
+[SWT/AWT] CPU consumption issue

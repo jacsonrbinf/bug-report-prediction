@@ -1,0 +1,1 @@
+File > Properties is enabled when there's no selection or resources

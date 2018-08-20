@@ -1,0 +1,1 @@
+StyledText shows rendering problems with 'snowman' unicode character

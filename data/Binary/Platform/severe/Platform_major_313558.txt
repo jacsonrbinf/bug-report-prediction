@@ -1,0 +1,1 @@
+RC1 qualifier on org.eclipse.core.resources is lexically earlier than that of M7

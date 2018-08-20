@@ -1,0 +1,1 @@
+Numerous errors while packing "SHA1 digest error for META-INF/eclipse.inf"

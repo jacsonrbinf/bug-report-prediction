@@ -1,0 +1,1 @@
+(RC3) Compare with Date no longer works (probably due to ICU4J)

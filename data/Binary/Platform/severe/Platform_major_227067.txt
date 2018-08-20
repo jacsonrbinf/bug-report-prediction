@@ -1,0 +1,1 @@
+Vista 64 crash when changing java build path

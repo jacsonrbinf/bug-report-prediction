@@ -1,0 +1,1 @@
+[GTK2.18] Hangs when attempting to add project

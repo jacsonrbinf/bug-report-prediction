@@ -1,0 +1,1 @@
+Declarative toolbar contributions are not shown in 3.2M6

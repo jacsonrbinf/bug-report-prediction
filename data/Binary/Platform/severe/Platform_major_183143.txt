@@ -1,0 +1,1 @@
+[Dialogs] FilteredItemsSelectionDialog should filter history before search results are available

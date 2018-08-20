@@ -1,0 +1,1 @@
+[StatusHandling] Workbench ILogDialog swallows dialog title if StatusManager is installed

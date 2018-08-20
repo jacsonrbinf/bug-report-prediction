@@ -1,0 +1,1 @@
+TextTransfer should specify more clearly that it does not translate \n into platform line delimiter

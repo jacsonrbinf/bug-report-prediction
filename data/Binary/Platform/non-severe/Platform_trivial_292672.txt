@@ -1,0 +1,1 @@
+IWorkbenchPage's showView(String, String, int) method has grammatical problems

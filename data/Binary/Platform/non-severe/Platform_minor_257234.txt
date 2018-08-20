@@ -1,0 +1,1 @@
+[statushandling] class created during new statushandler definiton process is not derived from AbstractStatusHandler

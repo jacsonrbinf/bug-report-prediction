@@ -1,0 +1,1 @@
+[RCP]Impossible to launch application via Java Web Start : ClassNotFoundException

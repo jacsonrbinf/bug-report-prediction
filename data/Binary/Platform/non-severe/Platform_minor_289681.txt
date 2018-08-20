@@ -1,0 +1,1 @@
+-clean option for eclipse doesn't clean the cached and invalid nl strings in workspace when switching between different nl

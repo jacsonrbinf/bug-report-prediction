@@ -1,0 +1,1 @@
+TextViewer ContentAssistant in standalone JFace application is broken

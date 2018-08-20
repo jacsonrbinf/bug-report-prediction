@@ -1,0 +1,1 @@
+org.eclipse.rcp and org.eclipse.equinox.executable features references non existent bundles.

@@ -1,0 +1,1 @@
+[Dialogs] ErrorDialog.createDialogArea javadoc references missing createCustomArea method

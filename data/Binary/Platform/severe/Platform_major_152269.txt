@@ -1,0 +1,1 @@
+Bug 149407 still occurs in the 3.1.2 release on Fedora Core 5 (FC5)

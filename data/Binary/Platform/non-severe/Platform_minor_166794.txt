@@ -1,0 +1,1 @@
+[variables] Copy variables shortcut key doesn't work after detail pane gets focus

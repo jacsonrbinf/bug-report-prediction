@@ -1,0 +1,1 @@
+[Intro] Redraw bug in Welcome screen on right mouse click

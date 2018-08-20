@@ -1,0 +1,1 @@
+Search&Replace mangles source code when documents are not safed

@@ -1,0 +1,1 @@
+[Webapp][Security] XSS vulnerabilities in Eclipse 3.4 help system

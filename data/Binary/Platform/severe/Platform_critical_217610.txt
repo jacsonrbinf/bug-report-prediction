@@ -1,0 +1,1 @@
+[Contributions] Main menu is no longer populated from org.eclipse.ui.menus

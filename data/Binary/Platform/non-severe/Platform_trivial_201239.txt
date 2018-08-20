@@ -1,0 +1,1 @@
+Javadoc of ILaunchesListener should mention ILaunchesListener2

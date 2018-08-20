@@ -1,0 +1,1 @@
+[launching] When launching a project with errors the warning dialog title says "Errors in Project{0}"

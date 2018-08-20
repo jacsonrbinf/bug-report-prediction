@@ -1,0 +1,1 @@
+[implementation] Unable to open DefaultTextEditor on a FileStoreEditorInput when the filestore is non-local

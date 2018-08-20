@@ -1,0 +1,1 @@
+[CommonNavigator] Typo "overridding" used instead of "overriding"

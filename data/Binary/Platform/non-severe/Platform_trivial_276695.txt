@@ -1,0 +1,1 @@
+Unused editor messages in Compare properties file

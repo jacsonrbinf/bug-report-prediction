@@ -1,0 +1,1 @@
+In order to use the junit ant task you need to manually add junit.jar to the ant runtime

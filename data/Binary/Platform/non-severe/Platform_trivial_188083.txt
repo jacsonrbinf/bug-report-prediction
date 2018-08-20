@@ -1,0 +1,1 @@
+[Wizards] Default connection type while creating a new CVS Repository

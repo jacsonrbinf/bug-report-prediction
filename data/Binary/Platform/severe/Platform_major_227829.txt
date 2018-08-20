@@ -1,0 +1,1 @@
+[DataBinding] libraries (M20070910-0800b, M20080207-0800) can't run against 3.3 version of JFace

@@ -1,0 +1,1 @@
+[CommonNavigator] NavigatorContentDescriptorManager.findDescriptorsForPossibleChild() is very slow

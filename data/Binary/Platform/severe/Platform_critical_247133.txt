@@ -1,0 +1,1 @@
+SWT crashes when being called in a non-UI thread, caused by Gdip's Font_delete(int), GC's checkGC(), and Gdip's Graphics_MeasureString

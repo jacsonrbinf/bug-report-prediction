@@ -1,0 +1,1 @@
+[KeyBindings] errors: No warning when creating an invalid keybinding sequence

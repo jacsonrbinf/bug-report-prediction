@@ -1,0 +1,1 @@
+Getting error : " unable to open 'C:\devBRIAN\eclipse\introspector-1.0.swc' "

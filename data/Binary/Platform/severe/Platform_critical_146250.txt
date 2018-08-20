@@ -1,0 +1,1 @@
+[SWT] Columns of Table widget cannot be resized, except for by dragging a mouse

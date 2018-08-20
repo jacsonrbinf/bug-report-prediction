@@ -1,0 +1,1 @@
+IConfigurationWizardExtension has TODO in its init(IWorkbench, IProject[]) method's javadoc

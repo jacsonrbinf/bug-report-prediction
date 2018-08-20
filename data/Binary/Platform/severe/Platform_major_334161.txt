@@ -1,0 +1,1 @@
+Eclipse crashes if link to PDF with anchor is clicked twice from Browser Widget

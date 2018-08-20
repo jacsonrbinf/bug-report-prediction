@@ -1,0 +1,1 @@
+[Patch] "Create Patch" creates invalid file if a new file ends with no newline

@@ -1,0 +1,1 @@
+[Browser] crash when disposed in changing callback

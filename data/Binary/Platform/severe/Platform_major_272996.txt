@@ -1,0 +1,1 @@
+SWT program crashes/freezes at startup on Mac OS X

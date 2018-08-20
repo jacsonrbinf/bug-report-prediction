@@ -1,0 +1,1 @@
+[implementation] Bug in endSequenceDetected() method of PatternRule

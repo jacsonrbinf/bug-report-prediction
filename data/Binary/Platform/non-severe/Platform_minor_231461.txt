@@ -1,0 +1,1 @@
+F1 for dynamic help context doesn't work for "Views" on  Linux

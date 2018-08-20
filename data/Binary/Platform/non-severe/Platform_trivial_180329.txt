@@ -1,0 +1,1 @@
+Add icon to "Tag as Version" repository action

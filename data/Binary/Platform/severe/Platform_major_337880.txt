@@ -1,0 +1,1 @@
+Performance: It  takes about 30 minutes to start RSA 802 the first time it's launched by a non-admin user

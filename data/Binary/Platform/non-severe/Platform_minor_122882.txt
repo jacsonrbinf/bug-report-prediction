@@ -1,0 +1,1 @@
+Mnemonic change on debug launch page: "De&bug" conflicts with "&Browse" buttons

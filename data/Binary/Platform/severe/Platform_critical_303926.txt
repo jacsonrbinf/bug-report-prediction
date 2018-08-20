@@ -1,0 +1,1 @@
+[breakpoints] proxyDisposed causes a deadlock

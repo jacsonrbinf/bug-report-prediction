@@ -1,0 +1,1 @@
+Application crashes when using SWT_AWT bridge and file dialog on Leopard

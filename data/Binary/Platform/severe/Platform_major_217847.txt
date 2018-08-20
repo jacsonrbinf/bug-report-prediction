@@ -1,0 +1,1 @@
+[Contributions] Have to click away from a view to get it's enablements retested

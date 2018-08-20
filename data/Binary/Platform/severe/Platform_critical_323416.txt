@@ -1,0 +1,1 @@
+Clicking on Window->Web Browser causes a crash

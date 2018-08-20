@@ -1,0 +1,1 @@
+[Commands][Mac] context menu submenus are disabled when selecting on OSX

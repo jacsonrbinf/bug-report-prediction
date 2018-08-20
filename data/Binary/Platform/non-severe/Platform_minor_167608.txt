@@ -1,0 +1,1 @@
+[spell checking] Errors in open editors not updated on preference change

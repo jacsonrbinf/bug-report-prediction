@@ -1,0 +1,1 @@
+[JFace] ToolTip fails to accept mouse down event in Ganymede

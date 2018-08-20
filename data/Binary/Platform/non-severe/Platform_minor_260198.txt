@@ -1,0 +1,1 @@
+[Mac] Renaming Eclipse OS X launcher file before first run causes a host of bad behaviours

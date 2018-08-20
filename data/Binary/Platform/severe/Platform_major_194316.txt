@@ -1,0 +1,1 @@
+Marker and folding Icons repainted all white in Java editor on Fedora Core 7

@@ -1,0 +1,1 @@
+Exception when dealing with a feature with missing dependencies

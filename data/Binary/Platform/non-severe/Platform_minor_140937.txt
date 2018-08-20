@@ -1,0 +1,1 @@
+Tool bars under maximized view are painted on top

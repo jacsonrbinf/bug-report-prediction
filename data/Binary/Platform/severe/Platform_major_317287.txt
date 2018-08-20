@@ -1,0 +1,1 @@
+WorkbenchActionBuilder does not dispose its workbench actions

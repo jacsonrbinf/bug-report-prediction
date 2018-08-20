@@ -1,0 +1,1 @@
+[Viewers] Text compare is not visible when editor background color is set to gray

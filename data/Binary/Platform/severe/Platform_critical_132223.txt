@@ -1,0 +1,1 @@
+[browser] Acrobat Reader 7.0.5 (and up) does not activate LocationListener

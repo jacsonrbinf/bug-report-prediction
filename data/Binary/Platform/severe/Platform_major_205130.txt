@@ -1,0 +1,1 @@
+Expanding/Collapsing tree nodes in Quick Windows closes window

@@ -1,0 +1,1 @@
+[logical structures] Stepping with logical structure expanded results in blank labels

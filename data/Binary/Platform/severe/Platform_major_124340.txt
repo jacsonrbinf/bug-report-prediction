@@ -1,0 +1,1 @@
+[KeyBindings] StackOverflowError in Key preferences page with ui.tests

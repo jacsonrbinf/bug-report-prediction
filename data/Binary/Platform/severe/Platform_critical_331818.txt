@@ -1,0 +1,1 @@
+Deadlock on concurrent access to org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass

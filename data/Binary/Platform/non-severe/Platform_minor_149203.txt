@@ -1,0 +1,1 @@
+[Forms] Busy indicator leaves behind unpretty gap after setBusy(false)

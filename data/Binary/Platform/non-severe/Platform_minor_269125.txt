@@ -1,0 +1,1 @@
+UnpackUpdateJars now requires Java 5

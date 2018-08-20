@@ -1,0 +1,1 @@
+Eclipse hangs during "Software Updates > Find and Install…" when clicking "Select Required" in the Updates Windows

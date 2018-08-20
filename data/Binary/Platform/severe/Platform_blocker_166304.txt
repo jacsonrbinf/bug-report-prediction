@@ -1,0 +1,1 @@
+SWT Browser bug on SLED 10 when clicking the link to popup a new window.

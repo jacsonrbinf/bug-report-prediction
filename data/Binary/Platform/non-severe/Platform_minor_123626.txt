@@ -1,0 +1,1 @@
+Java projects permanently delete subst'd resources if subst has not been run

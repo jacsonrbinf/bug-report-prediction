@@ -1,0 +1,1 @@
+[ErrorHandling] ErrorDialog#createDialogArea does not respect  Dialog#createDialogArea contract

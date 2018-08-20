@@ -1,0 +1,1 @@
+[Help] External Web Browsers list still modifiable even when 'Use internal Web browser' is selected

@@ -1,0 +1,1 @@
+Project#hasNature returns false during project open event, even though project does have nature

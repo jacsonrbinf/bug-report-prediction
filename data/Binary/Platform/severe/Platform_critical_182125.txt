@@ -1,0 +1,1 @@
+[browser] SLED10: undifined symbol PR_NewMonitor crash eclipse when visiting applet page

@@ -1,0 +1,1 @@
+[Mac] Cut Workbench menus with missing entries

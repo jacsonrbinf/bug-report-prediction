@@ -1,0 +1,1 @@
+64 Bit Eclipse chrashes down with: Unhandled event loop exception

@@ -1,0 +1,1 @@
+[CheatSheet] Suggest "taskGroup" elements with attribute kind="choice" that have only one child should produce no warning or error

@@ -1,0 +1,1 @@
+Getting no more handles exception for 8 open files in eclipse

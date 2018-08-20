@@ -1,0 +1,1 @@
+getReferencedProjects() of IProject does not work from Eclipse runtime instance

@@ -1,0 +1,1 @@
+Can't start N20110418-2000:  Could not load SWT library

@@ -1,0 +1,1 @@
+ISynchronizeScope and its implementations miss @noextend tags

@@ -1,0 +1,1 @@
+SiteOptimizer fails to parse out non UTF-8 characters

@@ -1,0 +1,1 @@
+Eclipce crashes with Rational Robot

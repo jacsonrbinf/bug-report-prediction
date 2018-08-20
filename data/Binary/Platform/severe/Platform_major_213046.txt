@@ -1,0 +1,1 @@
+Text with SWT.MULTI on mac uses carriage return for newline

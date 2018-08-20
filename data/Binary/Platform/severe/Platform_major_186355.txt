@@ -1,0 +1,1 @@
+[DetachedView] Detached View doesn't remember content for invisible perspectives

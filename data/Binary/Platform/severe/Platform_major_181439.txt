@@ -1,0 +1,1 @@
+Regression: Broken dialog sizing on Linux GTK

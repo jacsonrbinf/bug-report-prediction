@@ -1,0 +1,1 @@
+NullPointerException in TableItem.getBounds because of SWT.EraseItem listener

@@ -1,0 +1,1 @@
+Replace with version should clear changes in the sync view

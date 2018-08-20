@@ -1,0 +1,1 @@
+[Help][Search] Add debug lines to show search hit scores

@@ -1,0 +1,1 @@
+Text.setText fails during FocusOut event listener (SWT.SINGLE, and when followed by access to the Text)

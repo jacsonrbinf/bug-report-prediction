@@ -1,0 +1,1 @@
+Eclipse crashes when 'Close' is clicked in wizard title-bar menu

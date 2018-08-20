@@ -1,0 +1,1 @@
+resizing TreeColumn can show column 0 contents to right of last column

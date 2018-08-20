@@ -1,0 +1,1 @@
+Constant lock ups and hangs on Intel Macbook Pro

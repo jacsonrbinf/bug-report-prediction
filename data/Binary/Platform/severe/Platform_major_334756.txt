@@ -1,0 +1,1 @@
+CVS Commit dialog commits comment "<Click here to enter a commit comment>"

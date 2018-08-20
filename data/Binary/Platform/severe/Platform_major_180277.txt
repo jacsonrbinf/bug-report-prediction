@@ -1,0 +1,1 @@
+[Decorators] Continuous NPE errors from JavaOutlinePage after doing File->Close All

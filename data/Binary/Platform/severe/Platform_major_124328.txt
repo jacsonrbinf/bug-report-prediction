@@ -1,0 +1,1 @@
+CVSLightweightDecorator logs for closed projects

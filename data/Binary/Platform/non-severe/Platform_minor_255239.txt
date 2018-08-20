@@ -1,0 +1,1 @@
+[Markers] Select two ot more items in Problems view - right-click context menu - "Go to" option should be disabled

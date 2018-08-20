@@ -1,0 +1,1 @@
+[implementation] External file's Save As appends unnecessary zeros after EOF

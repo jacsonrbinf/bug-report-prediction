@@ -1,0 +1,1 @@
+the widgets at the bottom of the dialog only show half in Chinese version of win7, but fully in XP.

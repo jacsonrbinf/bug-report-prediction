@@ -1,0 +1,1 @@
+Eclipse3.3: JDT can not takes response for key typing,  but can takes response for mouse event.

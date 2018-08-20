@@ -1,0 +1,1 @@
+[Dialogs] Wizard dialogs appear in the top left corner of the screen

@@ -1,0 +1,1 @@
+Hand cursor stays when releasing Ctrl after hovering a link

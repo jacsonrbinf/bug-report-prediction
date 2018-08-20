@@ -1,0 +1,1 @@
+Eclipse will fail to load if one of its parent folders has an exclamation mark in its name

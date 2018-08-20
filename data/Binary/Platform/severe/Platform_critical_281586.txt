@@ -1,0 +1,1 @@
+Eclipse 3.5, on Mac OSX 10.5.7 running on  java 1.6_05 update 1, is crashing

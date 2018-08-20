@@ -1,0 +1,1 @@
+Breakpoints disappear from editor after replacing file contents

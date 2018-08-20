@@ -1,0 +1,1 @@
+[Viewers] StructuredViewer.findItems(Object) javadoc is not precise

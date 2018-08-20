@@ -1,0 +1,1 @@
+TableItem#getBounds(0) incorrect when adding columns in asyncExec

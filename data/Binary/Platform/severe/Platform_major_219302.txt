@@ -1,0 +1,1 @@
+GTK clipboard problems

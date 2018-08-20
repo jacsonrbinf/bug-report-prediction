@@ -1,0 +1,1 @@
+[Patch] Apply Patch doesn't sort hunks with an additional info in label

@@ -1,0 +1,1 @@
+Incorrect use of "it's" in documentation for 'allowLabelUpdate' in actionSets schema definition

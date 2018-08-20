@@ -1,0 +1,1 @@
+[perfs] Regression on some perf tests running with JDK 1.5

@@ -1,0 +1,1 @@
+[EditorMgmt] Files shown with wrong icons in the navigator

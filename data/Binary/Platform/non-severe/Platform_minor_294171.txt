@@ -1,0 +1,1 @@
+Scrolling causes flush of all paint events.

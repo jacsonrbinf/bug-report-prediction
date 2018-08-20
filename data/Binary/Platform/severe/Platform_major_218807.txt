@@ -1,0 +1,1 @@
+eclipse compare fails to respect logical model changes

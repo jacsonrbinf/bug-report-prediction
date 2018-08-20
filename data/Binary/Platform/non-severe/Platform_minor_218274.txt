@@ -1,0 +1,1 @@
+The "New Project" Wizard displays an empty dialog when Eclipse is used with nVidia's nView Desktop Manager

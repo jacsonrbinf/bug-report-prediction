@@ -1,0 +1,1 @@
+[Widgets] SWT.SHEET and non responsive file and directory dialogs on Mac OS X

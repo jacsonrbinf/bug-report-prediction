@@ -1,0 +1,1 @@
+[Progress] Jobs Progress Group does not function correctly if a scheduling rule is applied

@@ -1,0 +1,1 @@
+[About] Improve performance of Help->About

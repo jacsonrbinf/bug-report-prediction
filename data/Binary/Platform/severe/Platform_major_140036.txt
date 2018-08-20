@@ -1,0 +1,1 @@
+[Intro] Eclipse Project image missing in RC2 platform feature install

@@ -1,0 +1,1 @@
+[Browser] Internal Browser "Go to the selected URL" Button Tooltip Lost

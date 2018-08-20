@@ -1,0 +1,1 @@
+[detail pane] Find action doesn't scroll to reveal selection

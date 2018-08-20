@@ -1,0 +1,1 @@
+[CommonNavigator] Source of Contribution set to lowest priority NCE, not the NCE providing the children

@@ -1,0 +1,1 @@
+Launch External Tool does not save dirty editors regardless of preference setting

@@ -1,0 +1,1 @@
+Eclipse crashes often with Unhandled exception and segmentation fault

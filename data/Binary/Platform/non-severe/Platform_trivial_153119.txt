@@ -1,0 +1,1 @@
+[rulers] Use plural for rulerColumn extension point

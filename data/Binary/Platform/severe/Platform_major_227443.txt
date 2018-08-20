@@ -1,0 +1,1 @@
+[Import/Export] Import existing projects into workspace can create infinite directory recursion.

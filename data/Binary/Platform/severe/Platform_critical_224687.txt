@@ -1,0 +1,1 @@
+SWTException on Mac 10.5

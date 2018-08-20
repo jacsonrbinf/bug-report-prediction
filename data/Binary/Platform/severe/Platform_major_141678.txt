@@ -1,0 +1,1 @@
+[Browser] JavaDoc Hover/Browser-Widget doesn`t show Text

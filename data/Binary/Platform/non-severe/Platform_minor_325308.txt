@@ -1,0 +1,1 @@
+Author display inconsistencies in compare editor

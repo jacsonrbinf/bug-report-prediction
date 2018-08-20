@@ -1,0 +1,1 @@
+[Perspectives] save a custom perspective layout based on a perspective which has not config an icon in extention point

@@ -1,0 +1,1 @@
+Disk space amount "unknown", prevents plugin install

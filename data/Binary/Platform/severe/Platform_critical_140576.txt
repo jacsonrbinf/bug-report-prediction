@@ -1,0 +1,1 @@
+[JFace] dialog has no icon or clipped error icon

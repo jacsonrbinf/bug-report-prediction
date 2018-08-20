@@ -1,0 +1,1 @@
+[cocoa, gef] Guide markers not fully visible on Cocoa

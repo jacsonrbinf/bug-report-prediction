@@ -1,0 +1,1 @@
+[Browser-IE] VM crash when disposing the browser during a location changing event

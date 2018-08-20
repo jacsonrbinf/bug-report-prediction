@@ -1,0 +1,1 @@
+[search] Double-click in Search results pages should always toggle expansion

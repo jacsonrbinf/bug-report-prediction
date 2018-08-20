@@ -1,0 +1,1 @@
+PDE no longer needs scrolling on the launch configuration tabs

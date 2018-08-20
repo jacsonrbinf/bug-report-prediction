@@ -1,0 +1,1 @@
+SWT doesn't build on OSX Carbon due to Taskbar feature addition

@@ -1,0 +1,1 @@
+[Jobs] Jobs cannot be canceled if in a blocking call because Thread.interrupt()  is not called

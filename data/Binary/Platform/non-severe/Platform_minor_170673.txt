@@ -1,0 +1,1 @@
+[Console] Select all keyboard shortcut marked incorrectly in context menu

@@ -1,0 +1,1 @@
+[Viewers] regression in 3.2 - TreeViewer does not show colors with DecoratingLabelProvider with nested label provider implementing IColorProvider

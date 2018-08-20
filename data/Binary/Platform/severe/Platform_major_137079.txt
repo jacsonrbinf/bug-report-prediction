@@ -1,0 +1,1 @@
+[CommonNavigator] (NeedsApproval) Add group id and associatedExtensionId to commonWizard

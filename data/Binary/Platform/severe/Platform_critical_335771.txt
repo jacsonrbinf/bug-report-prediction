@@ -1,0 +1,1 @@
+Eclipse exits on initiation of auto activation with out prompt, warning, or log messages when typing 'import java.'

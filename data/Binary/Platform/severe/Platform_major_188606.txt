@@ -1,0 +1,1 @@
+Linked folder pointing to wrong directory when using a path variable

@@ -1,0 +1,1 @@
+[Databinding] regression: ObservablesManager throws NPE on dispose if one of the observables is already disposed

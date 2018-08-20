@@ -1,0 +1,1 @@
+[ActivityMgmt] NPE thrown whenever context menu is being brought up

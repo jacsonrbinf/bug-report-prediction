@@ -1,0 +1,1 @@
+Import of Windows XP General Preference file on OpenSuse11.2 crashes IDE

@@ -1,0 +1,1 @@
+[Contributions] Warnings for menus/actionSet elements in IDE's plugin.xml

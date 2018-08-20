@@ -1,0 +1,1 @@
+NPE in org.eclipse.core.internal.resources.ModelObjectWriter.write

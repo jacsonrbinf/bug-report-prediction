@@ -1,0 +1,1 @@
+[Help] Exception occurred while adding document xxx.xhtml to index.

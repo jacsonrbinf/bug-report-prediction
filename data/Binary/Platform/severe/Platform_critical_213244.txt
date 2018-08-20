@@ -1,0 +1,1 @@
+VariableAdapterService should also call IAdaptable.getAdapter() for adaptables that implement this method directly.

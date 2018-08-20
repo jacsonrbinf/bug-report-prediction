@@ -1,0 +1,1 @@
+Caret position is incorrect when clearing full selection by clicking left mouse button in Text widget

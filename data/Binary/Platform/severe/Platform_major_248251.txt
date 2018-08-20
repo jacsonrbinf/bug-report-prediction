@@ -1,0 +1,1 @@
+[results] Names of generated perf results data files may be too long

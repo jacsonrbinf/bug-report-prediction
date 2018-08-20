@@ -1,0 +1,1 @@
+AsynchronousTreeViewer does not set selection if  parent of element is not visible

@@ -1,0 +1,1 @@
+BIDI:StyledText Selection of text, and BIDI formating not correct

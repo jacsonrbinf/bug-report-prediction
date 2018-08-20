@@ -1,0 +1,1 @@
+[FastView] Help view opened as fast view cannot be closed and prevents exiting from eclipse

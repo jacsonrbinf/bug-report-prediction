@@ -1,0 +1,1 @@
+[Viewers] AbstractTreeViewer.insert needs to handle empty tree path

@@ -1,0 +1,1 @@
+Toggle buttons with images have no feedback when selected with tab

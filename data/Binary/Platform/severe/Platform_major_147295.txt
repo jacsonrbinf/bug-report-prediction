@@ -1,0 +1,1 @@
+[DynamicUI] Do views support the new dynamic extension feature?

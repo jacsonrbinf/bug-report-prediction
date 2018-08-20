@@ -1,0 +1,1 @@
+[Forms] Eclipse 3.4 crashes / failes to repaint when "Close Others" is used with SharedHeaderFormEditor

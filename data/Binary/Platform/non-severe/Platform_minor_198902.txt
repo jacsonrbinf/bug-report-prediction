@@ -1,0 +1,1 @@
+SWT ToolBar.setFont quirks on Mac OS X

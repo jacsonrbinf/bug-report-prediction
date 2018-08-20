@@ -1,0 +1,1 @@
+DBCS3.5: Java Editor can not copy DBCS correctly into WordPad

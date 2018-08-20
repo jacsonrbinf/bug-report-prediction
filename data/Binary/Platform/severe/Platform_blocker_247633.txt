@@ -1,0 +1,1 @@
+Eclipse crash: Exception in thread "AutoAssist Delay"

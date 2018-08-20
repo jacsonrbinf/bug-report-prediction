@@ -1,0 +1,1 @@
+All editors and error panels have invisible text on Linux environment

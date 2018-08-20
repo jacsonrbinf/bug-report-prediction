@@ -1,0 +1,1 @@
+Apply Patch in Synchronize view > Inaccessible Projects: Typo in message

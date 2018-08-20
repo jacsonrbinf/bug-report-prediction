@@ -1,0 +1,1 @@
+Launching - save required dirty editors before launching - prompt not working

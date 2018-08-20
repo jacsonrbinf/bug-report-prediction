@@ -1,0 +1,1 @@
+[MPE] getActiveEditor() returns null inside the createPages() method of  Editor

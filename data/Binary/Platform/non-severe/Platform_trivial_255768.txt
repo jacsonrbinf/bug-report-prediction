@@ -1,0 +1,1 @@
+[CommonNavigator] Tag '@noextend' is unsupported on final class WizardActionGroup

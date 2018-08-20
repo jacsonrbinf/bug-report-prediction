@@ -1,0 +1,1 @@
+[Intro] Opening Welcome view as fast view comes up empty

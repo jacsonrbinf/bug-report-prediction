@@ -1,0 +1,1 @@
+[Preferences] The getElements(int) method of eclipse PerferenceManager does not work properly on eclipse 3.4 release

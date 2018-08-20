@@ -1,0 +1,1 @@
+[Browser] Open with > web browser for url with spaces does not work with Firefox

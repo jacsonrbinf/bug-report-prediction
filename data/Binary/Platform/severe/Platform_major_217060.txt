@@ -1,0 +1,1 @@
+[find/replace] retain caps when replacing shows "index out of bounds" for '\C'

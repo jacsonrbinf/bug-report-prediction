@@ -1,0 +1,1 @@
+Accessility problem with org.eclipse.swt.widgets.Scale class

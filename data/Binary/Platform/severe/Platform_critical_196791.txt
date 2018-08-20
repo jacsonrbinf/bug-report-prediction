@@ -1,0 +1,1 @@
+SWT ToolTip does not render Arabian text tooltip correctly on SLED10 Linux

@@ -1,0 +1,1 @@
+[WorkbenchParts] UIPlugin does not return active editor being created in IEditorPart.

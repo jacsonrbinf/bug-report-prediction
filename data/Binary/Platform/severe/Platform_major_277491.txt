@@ -1,0 +1,1 @@
+[Commands] Copy disabled in the Console view

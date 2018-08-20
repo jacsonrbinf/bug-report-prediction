@@ -1,0 +1,1 @@
+HTML forms displayed in SWT Browser does not accept accented characters input

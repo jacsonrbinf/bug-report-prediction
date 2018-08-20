@@ -1,0 +1,1 @@
+[Viewers] ComboViewer#insert() silently modifies the selected value

@@ -1,0 +1,1 @@
+[Viewers] Stack overflow if getElements returns the same object as inputElement

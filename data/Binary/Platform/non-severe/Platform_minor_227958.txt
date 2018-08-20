@@ -1,0 +1,1 @@
+DBCS3.4: Search with code-points ignores the case

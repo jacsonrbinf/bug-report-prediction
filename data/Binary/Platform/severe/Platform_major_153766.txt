@@ -1,0 +1,1 @@
+[IDE] Open properties via editor causes IllegalAccessException

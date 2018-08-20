@@ -1,0 +1,1 @@
+JobManager.cancel() does not check for about_to_schedule_state

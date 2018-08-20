@@ -1,0 +1,1 @@
+Vertical scroll bar flickers on tree.

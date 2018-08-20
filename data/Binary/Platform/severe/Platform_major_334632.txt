@@ -1,0 +1,1 @@
+IJobManager.beginRule(..) can use 100% of my CPU for seconds

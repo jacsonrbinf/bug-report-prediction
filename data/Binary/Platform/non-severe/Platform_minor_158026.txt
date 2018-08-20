@@ -1,0 +1,1 @@
+After Run or Debug, the new launch is not selected in Debug view, so Terminate and Suspend buttons are grayed out

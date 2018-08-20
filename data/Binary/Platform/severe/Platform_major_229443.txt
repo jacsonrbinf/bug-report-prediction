@@ -1,0 +1,1 @@
+No vertical scroll bar on Vista

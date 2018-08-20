@@ -1,0 +1,1 @@
+[Preferences] Preference page help is not shown when tree is selected

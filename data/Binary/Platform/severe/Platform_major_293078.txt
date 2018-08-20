@@ -1,0 +1,1 @@
+[Net] Any attempt to connect to CVS server fails with NullPointerException when network proxy is enabled

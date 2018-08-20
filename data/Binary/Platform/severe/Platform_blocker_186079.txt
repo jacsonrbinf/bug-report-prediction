@@ -1,0 +1,1 @@
+java.lang.NoClassDefFoundError occurred when try to compile JSP file in PDE develope env

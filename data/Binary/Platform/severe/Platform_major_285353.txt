@@ -1,0 +1,1 @@
+[CommonNavigator]  resourceContent provider grabs IProject adaptables but fails to provide children

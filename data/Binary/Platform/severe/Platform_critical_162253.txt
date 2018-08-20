@@ -1,0 +1,1 @@
+SWT SystemTray support on OSX - TrayItems not appearing

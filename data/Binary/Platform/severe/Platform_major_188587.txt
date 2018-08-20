@@ -1,0 +1,1 @@
+[FastView] Search view stepping in fast view mode broken

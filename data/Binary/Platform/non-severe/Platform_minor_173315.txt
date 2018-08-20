@@ -1,0 +1,1 @@
+[Help][Context] Icon for link to cheat sheet in dynamic help

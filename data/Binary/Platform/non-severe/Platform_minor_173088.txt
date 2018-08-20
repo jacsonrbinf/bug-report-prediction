@@ -1,0 +1,1 @@
+[Dialogs] Remove from type selection history action label could be less generic

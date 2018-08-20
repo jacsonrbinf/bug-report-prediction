@@ -1,0 +1,1 @@
+[FastView] Clicking in window status bar contribution should not close fast view

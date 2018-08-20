@@ -1,0 +1,1 @@
+[Help] Scope dialog from Help View should be resizeable

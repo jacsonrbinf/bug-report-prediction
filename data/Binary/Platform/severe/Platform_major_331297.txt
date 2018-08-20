@@ -1,0 +1,1 @@
+Invoking Diff on SVN source with repository causes null.exception in jface

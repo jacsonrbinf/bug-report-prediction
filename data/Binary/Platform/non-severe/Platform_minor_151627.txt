@@ -1,0 +1,1 @@
+[IDE] Changes to opened file that is outside the workspace is not actually saved

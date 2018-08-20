@@ -1,0 +1,1 @@
+Add "preference page" to ref-content-type.htm

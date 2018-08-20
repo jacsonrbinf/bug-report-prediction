@@ -1,0 +1,1 @@
+Change "extends-model" attribute type to "identifier" in Model Providers ext. point

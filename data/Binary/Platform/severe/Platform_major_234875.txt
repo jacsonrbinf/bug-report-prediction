@@ -1,0 +1,1 @@
+[Browser] Delete key is eaten in Internal Web Browser

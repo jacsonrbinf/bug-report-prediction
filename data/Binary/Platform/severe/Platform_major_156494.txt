@@ -1,0 +1,1 @@
+Debug variable window does not list the variables used.

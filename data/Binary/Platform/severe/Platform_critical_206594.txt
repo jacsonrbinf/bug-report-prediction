@@ -1,0 +1,1 @@
+On GTK platform, arabian characters are not rendered using correct font size

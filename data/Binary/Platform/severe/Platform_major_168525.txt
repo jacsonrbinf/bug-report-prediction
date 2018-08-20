@@ -1,0 +1,1 @@
+Loading Debug Core plug-in causes ClassNotFoundException

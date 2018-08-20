@@ -1,0 +1,1 @@
+[Viewers] Lines scrambled and different font size in compare

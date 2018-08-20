@@ -1,0 +1,1 @@
+Embedding external widgets into SWT using the EMBEDDED Style

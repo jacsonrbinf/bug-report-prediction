@@ -1,0 +1,1 @@
+When focus in on Eclipse, KDE4 plasma widgets randomly appear/disappear

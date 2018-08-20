@@ -1,0 +1,1 @@
+Tooltip problems handling escaped &s, and Workbench title inconsistency

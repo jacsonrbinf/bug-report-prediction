@@ -1,0 +1,1 @@
+Ok button on the dialog is not localised in languages like German

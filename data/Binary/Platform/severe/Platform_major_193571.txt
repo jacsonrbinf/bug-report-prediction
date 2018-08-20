@@ -1,0 +1,1 @@
+[Dialogs] FilteredItemsSelectionDialog does not immediately remove last history match

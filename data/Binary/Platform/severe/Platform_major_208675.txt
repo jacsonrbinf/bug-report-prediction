@@ -1,0 +1,1 @@
+Image cheese when width of TreeColumn = 0

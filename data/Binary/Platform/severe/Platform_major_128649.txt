@@ -1,0 +1,1 @@
+Eclipse crashes when long line written to the console [font antialiasing is turned off]

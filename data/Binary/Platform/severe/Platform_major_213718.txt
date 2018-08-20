@@ -1,0 +1,1 @@
+[Viewers] OwnerDrawLabelProvider: bug with getData

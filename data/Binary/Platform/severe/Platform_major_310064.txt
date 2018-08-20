@@ -1,0 +1,1 @@
+Transparent images don't render nicely on Cocoa SWT

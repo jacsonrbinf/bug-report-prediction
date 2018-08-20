@@ -1,0 +1,1 @@
+Error when using WatchExpression in plugin: findDelegate is used for variable and later the expression itself is evaluated

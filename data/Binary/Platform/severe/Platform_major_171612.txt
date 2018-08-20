@@ -1,0 +1,1 @@
+[Viewers] Breaking API change: DecoratingLabelProvider no longer extends LabelProvider

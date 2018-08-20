@@ -1,0 +1,1 @@
+Eclipse 3.2 upgrade given an error

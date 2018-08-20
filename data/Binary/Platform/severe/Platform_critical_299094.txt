@@ -1,0 +1,1 @@
+[Program] org.eclipse.swt.program.Program.launch() will add prefix "file://" before fileName

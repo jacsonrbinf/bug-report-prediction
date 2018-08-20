@@ -1,0 +1,1 @@
+[Actions] Missing mnemonic for new 'Show Annotations' ruler context menu action

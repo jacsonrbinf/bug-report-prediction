@@ -1,0 +1,1 @@
+[Markers] Problems view has minor display problems on Windows Vista beta 2

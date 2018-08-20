@@ -1,0 +1,1 @@
+Eclipse 3.2M4/Java 5.0 R4 DP3 -> Crash when in create folder dialog box (switching to new workspace)

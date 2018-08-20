@@ -1,0 +1,1 @@
+[launching] error deleting launch configurations

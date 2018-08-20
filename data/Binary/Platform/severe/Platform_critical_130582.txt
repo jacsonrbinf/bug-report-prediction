@@ -1,0 +1,1 @@
+[Connection] Password Required dialog is shown on connection error

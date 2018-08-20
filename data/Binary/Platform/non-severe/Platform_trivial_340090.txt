@@ -1,0 +1,1 @@
+[Browser] Preferences for Help - "Open help contents" label has no controls on Mac w/o org.eclipse.ui.browse

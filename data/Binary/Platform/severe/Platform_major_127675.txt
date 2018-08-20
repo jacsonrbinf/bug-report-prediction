@@ -1,0 +1,1 @@
+Editor only shows matches from last search

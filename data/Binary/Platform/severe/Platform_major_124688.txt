@@ -1,0 +1,1 @@
+[Help] Help search unreliable with non-english locale

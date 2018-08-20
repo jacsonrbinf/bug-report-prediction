@@ -1,0 +1,1 @@
+eclipse crashes during startup when using new workspace

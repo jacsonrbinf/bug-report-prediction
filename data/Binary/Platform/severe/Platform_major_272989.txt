@@ -1,0 +1,1 @@
+wrong event order in StyledText on Cocoa kills Incremental Find

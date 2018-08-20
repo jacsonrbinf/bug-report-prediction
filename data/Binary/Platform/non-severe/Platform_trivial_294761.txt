@@ -1,0 +1,1 @@
+Gripper icon on Mac status bar should be transparent

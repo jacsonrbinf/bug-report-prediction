@@ -1,0 +1,1 @@
+[EditorMgmt] Editor state isn't restored

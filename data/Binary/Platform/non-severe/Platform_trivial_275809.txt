@@ -1,0 +1,1 @@
+[Markers] Can no longer toggle description in Problem view's contents configuration dialog

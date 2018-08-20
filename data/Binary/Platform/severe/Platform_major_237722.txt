@@ -1,0 +1,1 @@
+[Help][Context] Dynamic help query  primarily returns links to unrelated information

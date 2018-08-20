@@ -1,0 +1,1 @@
+StyledCellLabelProvider does not correctly measure cell content for multi-line text

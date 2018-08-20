@@ -1,0 +1,1 @@
+[JFace] JavaDoc of ControlDecoration#setDescriptionText is wrong

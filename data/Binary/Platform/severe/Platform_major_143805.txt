@@ -1,0 +1,1 @@
+[viewers] array does not grow when parent not visible

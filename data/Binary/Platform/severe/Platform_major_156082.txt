@@ -1,0 +1,1 @@
+Notification of changes does not always work with nested projects

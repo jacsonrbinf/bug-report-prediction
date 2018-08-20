@@ -1,0 +1,1 @@
+SWT blocks display of newly attached USB devices in Windows Explorer

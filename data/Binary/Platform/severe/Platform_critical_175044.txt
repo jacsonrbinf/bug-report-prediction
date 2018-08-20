@@ -1,0 +1,1 @@
+[CommonNavigator] Common Navigator becomes unresponsive as a result of SWT Exceptions

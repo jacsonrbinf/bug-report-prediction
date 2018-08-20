@@ -1,0 +1,1 @@
+Disposing image during printing crashes SWT on MacOS

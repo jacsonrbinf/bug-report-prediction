@@ -1,0 +1,1 @@
+Vertical Scrolling with Mouse Wheel not working in Editors

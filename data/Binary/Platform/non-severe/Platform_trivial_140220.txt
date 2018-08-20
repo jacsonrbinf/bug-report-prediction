@@ -1,0 +1,1 @@
+Update counter shows more selected items than there currently is

@@ -1,0 +1,1 @@
+[KeyBindings] Can't switch to Emacs if switched to Default once

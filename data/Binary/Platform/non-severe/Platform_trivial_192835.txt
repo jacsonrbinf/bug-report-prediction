@@ -1,0 +1,1 @@
+[Doc] Outdated screen shot on Local History Example page in Plug-in Dev Guide

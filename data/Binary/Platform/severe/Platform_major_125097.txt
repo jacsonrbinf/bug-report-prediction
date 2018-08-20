@@ -1,0 +1,1 @@
+"Restore viewer state" error when a register is highlighted in Register View

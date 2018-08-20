@@ -1,0 +1,1 @@
+'gio_getMimeInfo' seems to leak a file descriptor to "/usr/share/mime/globs" on every call

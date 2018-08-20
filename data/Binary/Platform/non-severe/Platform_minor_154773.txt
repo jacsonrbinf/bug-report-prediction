@@ -1,0 +1,1 @@
+${build_project}/build.xml does not list targets for an external builder

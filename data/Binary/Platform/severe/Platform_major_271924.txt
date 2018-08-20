@@ -1,0 +1,1 @@
+[Doc][War] Search for extended characters returns no results in infocenter

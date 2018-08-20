@@ -1,0 +1,1 @@
+[Help] The background of highlighted help content ends before the text it is under in narrow help windows

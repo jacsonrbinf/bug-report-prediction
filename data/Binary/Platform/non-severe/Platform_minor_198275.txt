@@ -1,0 +1,1 @@
+[Help] Help view displays previous page first before showing requested link's page

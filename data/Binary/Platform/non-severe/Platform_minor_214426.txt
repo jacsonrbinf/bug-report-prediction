@@ -1,0 +1,1 @@
+[Patch] Confirmation dialog for overwriting a patch file is inconsistent with other dialogs

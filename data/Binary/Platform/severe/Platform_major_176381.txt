@@ -1,0 +1,1 @@
+[Forms] Accessibility:link in Product Configuration window is barely visible in high contrast mode

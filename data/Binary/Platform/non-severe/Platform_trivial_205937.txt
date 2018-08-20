@@ -1,0 +1,1 @@
+borderStyle and underlineStyle flags need clarification

@@ -1,0 +1,1 @@
+/eclipse/updates/3.4 has wrong mirrors URL

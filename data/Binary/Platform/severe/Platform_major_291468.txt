@@ -1,0 +1,1 @@
+"Out of memory" error in eclipse  ( and crash) while creating SWT image

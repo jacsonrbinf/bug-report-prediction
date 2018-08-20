@@ -1,0 +1,1 @@
+No hyperlink in LCD to set launcher after setting supported mode

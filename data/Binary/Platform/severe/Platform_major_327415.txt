@@ -1,0 +1,1 @@
+Error when comparing file versions from SVN repository

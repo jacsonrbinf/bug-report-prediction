@@ -1,0 +1,1 @@
+JVM crash when expanding tree items in project explorer

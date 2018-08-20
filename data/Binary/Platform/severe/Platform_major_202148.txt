@@ -1,0 +1,1 @@
+JPopup doesn't receive mouse event

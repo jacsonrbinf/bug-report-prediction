@@ -1,0 +1,1 @@
+[Webapp] Help in internal browser: TOC and Search frames problems on linux/firefox3

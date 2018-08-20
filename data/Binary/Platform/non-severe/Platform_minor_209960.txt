@@ -1,0 +1,1 @@
+Combo widgets cause area beneath them to flicker when resized

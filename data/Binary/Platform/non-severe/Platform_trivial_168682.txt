@@ -1,0 +1,1 @@
+[Perspectives] Externalized error message in PerspectiveRegistry

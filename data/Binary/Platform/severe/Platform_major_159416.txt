@@ -1,0 +1,1 @@
+[64] Eclipse 3.2 crashes with  SIGSEGV error

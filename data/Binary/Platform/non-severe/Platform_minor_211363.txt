@@ -1,0 +1,1 @@
+Weird resize behaviour in paint example

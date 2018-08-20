@@ -1,0 +1,1 @@
+Eclipse fails to launch - ZipException: Too many open files

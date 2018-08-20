@@ -1,0 +1,1 @@
+Preferences dialog opened from 'Search' view should be scoped

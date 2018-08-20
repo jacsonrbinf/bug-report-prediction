@@ -1,0 +1,1 @@
+Tree items shifted to the left when collapsing

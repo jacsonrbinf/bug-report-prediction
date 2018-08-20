@@ -1,0 +1,1 @@
+[Undo] DefaultOperationHistory does not maintain linear undo in simple case

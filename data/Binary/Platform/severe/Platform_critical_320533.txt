@@ -1,0 +1,1 @@
+Replacing text in a set of files should only modify each physical resource once

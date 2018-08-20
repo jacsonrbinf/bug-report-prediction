@@ -1,0 +1,1 @@
+[EFS] Drag and Drop of Folder with Spaces produces two folders in Navigator View (and other views that deal with resources)

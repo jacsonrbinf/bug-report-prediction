@@ -1,0 +1,1 @@
+Incorrect rendering of editor and task list

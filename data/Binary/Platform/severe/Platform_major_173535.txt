@@ -1,0 +1,1 @@
+[Viewers] NPE opening properties window on project

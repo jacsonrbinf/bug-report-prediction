@@ -1,0 +1,1 @@
+Adding an extension location and removing it immediately after takes two button clicks

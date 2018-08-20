@@ -1,0 +1,1 @@
+[Contributions] Dynamic menus don't work in global menubar with lazy loading

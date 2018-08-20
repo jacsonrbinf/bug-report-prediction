@@ -1,0 +1,1 @@
+History view leaves artifacts after File Search

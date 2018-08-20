@@ -1,0 +1,1 @@
+[KeyBindings] missing keyboard shortcut for Window...Show View...Problems menu item

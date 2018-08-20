@@ -1,0 +1,1 @@
+[Apply Patch] Double border in new apply patch wizard

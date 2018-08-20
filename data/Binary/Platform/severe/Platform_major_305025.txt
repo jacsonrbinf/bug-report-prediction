@@ -1,0 +1,1 @@
+Tree of incoming/outgoing changes no longer displayed in Synchronize view

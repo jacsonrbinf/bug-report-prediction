@@ -1,0 +1,1 @@
+[Commands] handlers: Ctrl+. and Ctrl+, don't work any more

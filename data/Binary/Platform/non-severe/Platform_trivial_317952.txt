@@ -1,0 +1,1 @@
+Search view label underlines letters preceded by an ampersand

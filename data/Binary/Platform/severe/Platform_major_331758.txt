@@ -1,0 +1,1 @@
+[backport] performance regression caused by fix in 298835

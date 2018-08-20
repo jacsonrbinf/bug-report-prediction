@@ -1,0 +1,1 @@
+[SWT_AWT] SWT_AWT.new_Shell(display, Canvas) crashes the application with "Invalid memory access"

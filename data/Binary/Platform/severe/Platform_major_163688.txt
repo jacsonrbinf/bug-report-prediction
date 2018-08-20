@@ -1,0 +1,1 @@
+Invalid image error attempting to write to a .GIF file

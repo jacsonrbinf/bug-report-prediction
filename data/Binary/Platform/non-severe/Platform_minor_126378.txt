@@ -1,0 +1,1 @@
+Synchronization UI uses old problem decoration icons

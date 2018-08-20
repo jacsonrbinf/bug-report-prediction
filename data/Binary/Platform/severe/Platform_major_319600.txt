@@ -1,0 +1,1 @@
+[Viewers] CheckboxTableViewer.getCheckedElements based on virtual table returns null data objects

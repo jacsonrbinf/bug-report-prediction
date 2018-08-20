@@ -1,0 +1,1 @@
+[Webapp] Eclipse help system content panel tree component is unusable by people using screen readers

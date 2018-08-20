@@ -1,0 +1,1 @@
+Function GetUserType() is missing in org.eclipse.swt.internal.ole.win32.IOleObject

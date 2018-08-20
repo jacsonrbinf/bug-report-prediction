@@ -1,0 +1,1 @@
+Error message delivered when trying to connect to the CVS server

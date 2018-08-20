@@ -1,0 +1,1 @@
+[Workbench] Editors (Ctrl + f6 )Dialog doesn't loses focus on pressing Ctrl + f6 & then, Shift + Ctrl + f6

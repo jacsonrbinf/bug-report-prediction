@@ -1,0 +1,1 @@
+[DataBinding] memory leak: disposed observables don't null out references to wrapped objects

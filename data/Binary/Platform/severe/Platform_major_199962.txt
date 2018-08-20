@@ -1,0 +1,1 @@
+FileDialog can cause UI to freeze if file is opened asynchronously while the dialog is open

@@ -1,0 +1,1 @@
+TVT36:TCT183: JPN: Missing mnemonic for Environment tab on Profile Configuration

@@ -1,0 +1,1 @@
+[Program] VM crash in SWT native code while importing preferences

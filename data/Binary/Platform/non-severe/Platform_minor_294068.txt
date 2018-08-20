@@ -1,0 +1,1 @@
+Eclipse does not start from directory containing a hash sign (#) on Linux

@@ -1,0 +1,1 @@
+Pasting large object into tree from clipboard causes eclipse to hang

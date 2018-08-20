@@ -1,0 +1,1 @@
+[Browser] SWT Browser fails to display pngs, jpgs from css background in Welcome page

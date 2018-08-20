@@ -1,0 +1,1 @@
+[Workbench] [Browser] NPE when calling PlatformUI.getWorkbench().getBrowserSupport().createBrowser(null);

@@ -1,0 +1,1 @@
+NoClassDefFoundError: org/eclipse/team/internal/ccvs/core/client/Command$1

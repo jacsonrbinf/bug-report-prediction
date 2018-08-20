@@ -1,0 +1,1 @@
+[Workbench] Help browser locked by dialog in main eclipse window

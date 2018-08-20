@@ -1,0 +1,1 @@
+[JFace] SWT Exception creates endless cycle

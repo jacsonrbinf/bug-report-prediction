@@ -1,0 +1,1 @@
+swt-xulrunner library is not loaded under win x64 using Java(32 bit), Eclipse (32 bit)

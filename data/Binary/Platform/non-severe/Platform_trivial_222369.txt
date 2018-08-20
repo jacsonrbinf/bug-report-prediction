@@ -1,0 +1,1 @@
+[navigation]  better (shorter) name for NLS hyperlink

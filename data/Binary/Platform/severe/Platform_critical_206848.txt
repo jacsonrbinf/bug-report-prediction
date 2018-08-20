@@ -1,0 +1,1 @@
+FTP and WebDAV Support - The WebDAV plugin "org.eclipse.webdav" does not contain the MANIFEST file. This prevents us to obfuscate plugins developed by us that are dependent on the WebDAV Plugin.

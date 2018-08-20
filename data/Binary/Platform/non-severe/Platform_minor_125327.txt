@@ -1,0 +1,1 @@
+[Dialogs] Error message shown in the InputDialog is not fully visible

@@ -1,0 +1,1 @@
+[Markers] Contributions to IMarker no longer show up on elements in the Problems View

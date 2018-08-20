@@ -1,0 +1,1 @@
+[painting][printing] MatchingCharacterPainter:handleDrawRequest - Not drawing the specified length of the pair but using '1'

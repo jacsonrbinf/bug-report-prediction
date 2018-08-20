@@ -1,0 +1,1 @@
+JVM terminated. Exit code=127 (openSUSE 10.2, Java 6, Linux x86_64)

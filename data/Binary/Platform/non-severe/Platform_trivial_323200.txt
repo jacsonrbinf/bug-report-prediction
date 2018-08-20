@@ -1,0 +1,1 @@
+Action Binding contribution example is incorrect for Common Navigator Framework

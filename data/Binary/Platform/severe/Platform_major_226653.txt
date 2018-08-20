@@ -1,0 +1,1 @@
+DBCS3.4: Unicode Ideogrpahic characters for Vista Japanese are not displayed in text editor

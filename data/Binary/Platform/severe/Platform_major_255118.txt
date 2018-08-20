@@ -1,0 +1,1 @@
+Default Cocoa quit handler calls exit()

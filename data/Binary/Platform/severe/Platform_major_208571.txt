@@ -1,0 +1,1 @@
+[leopard] Crash when using Eclipse 3.3.1.1 and Instantiation's SWT Designer

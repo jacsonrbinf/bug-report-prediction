@@ -1,0 +1,1 @@
+Incorrect casting statement in FormEditor.commitPages(boolean)

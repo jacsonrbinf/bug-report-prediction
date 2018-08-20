@@ -1,0 +1,1 @@
+[Viewers] JFace viewers performance issues in 3.3

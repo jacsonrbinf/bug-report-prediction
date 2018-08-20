@@ -1,0 +1,1 @@
+Eclipse (phpeclipse) crashes when trying to open a php file on nfs mounted dir

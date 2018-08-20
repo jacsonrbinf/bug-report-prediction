@@ -1,0 +1,1 @@
+Eclipse 3.2 gtk RC2 dumps core on Solaris 9

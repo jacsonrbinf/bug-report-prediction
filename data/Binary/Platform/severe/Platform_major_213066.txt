@@ -1,0 +1,1 @@
+OSX SWT - Crash on running org.eclipse.draw2d.examples.connections.ConnectionAndAnchorExample from org.eclipse.draw2d.examples

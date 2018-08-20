@@ -1,0 +1,1 @@
+ControlExample crash when setting background image on SEPARATOR Label

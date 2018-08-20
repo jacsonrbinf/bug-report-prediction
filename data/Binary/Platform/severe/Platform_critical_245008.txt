@@ -1,0 +1,1 @@
+Workspace's ElementTree object holding 500MB in large workspace

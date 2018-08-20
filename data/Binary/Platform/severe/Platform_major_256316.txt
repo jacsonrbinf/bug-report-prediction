@@ -1,0 +1,1 @@
+[EditorMgmt] getImageDescriptor() is not thread safe, has race condition

@@ -1,0 +1,1 @@
+On Linux, TableColumn#getWidth() sometimes incorrectly returns 0.

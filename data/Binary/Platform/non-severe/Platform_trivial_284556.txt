@@ -1,0 +1,1 @@
+[DataBinding] IDisposeListener.handleDispose parameter has wrong name (staleEvent)

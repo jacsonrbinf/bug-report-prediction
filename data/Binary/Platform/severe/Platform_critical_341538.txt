@@ -1,0 +1,1 @@
+Setting GTK Look and Feel causes window to freeze when closed.

@@ -1,0 +1,1 @@
+Paint event invoked infinitely when call setBackground in paintControl listener on Mac OSX

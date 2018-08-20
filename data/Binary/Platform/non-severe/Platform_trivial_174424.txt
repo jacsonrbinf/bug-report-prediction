@@ -1,0 +1,1 @@
+middle mouse button causes busy cursor

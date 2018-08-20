@@ -1,0 +1,1 @@
+[Doc] "Adding criteria to help content": XML example snippet invalid

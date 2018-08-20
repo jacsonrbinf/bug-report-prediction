@@ -1,0 +1,1 @@
+[Preferences] Startup and shutdown preference page: Restore defaults does not work as expected

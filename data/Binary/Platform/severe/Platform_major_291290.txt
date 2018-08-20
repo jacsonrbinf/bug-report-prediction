@@ -1,0 +1,1 @@
+[Text] setTextLimit() doesn't work

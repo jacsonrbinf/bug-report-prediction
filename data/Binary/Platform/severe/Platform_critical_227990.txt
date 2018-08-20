@@ -1,0 +1,1 @@
+IEditableContent#replace or IEditableContent#setContent is not called

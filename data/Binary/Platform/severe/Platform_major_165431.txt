@@ -1,0 +1,1 @@
+Delay when opening compare from Sync view and same editor opened n-times

@@ -1,0 +1,1 @@
+[navigation] hyperlink decoration is not erased when mouse is moved out of Text widget

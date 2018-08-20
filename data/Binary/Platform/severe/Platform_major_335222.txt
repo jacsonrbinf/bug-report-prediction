@@ -1,0 +1,1 @@
+[CommonNavigator] Edit actions (cut, copy, paste, delete) missing from context menu

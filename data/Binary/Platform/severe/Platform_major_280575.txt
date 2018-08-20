@@ -1,0 +1,1 @@
+SWT Browser widget yields "An unrecoverable stack overflow has occurred."

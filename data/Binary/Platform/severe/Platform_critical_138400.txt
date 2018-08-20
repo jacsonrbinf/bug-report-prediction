@@ -1,0 +1,1 @@
+[Workbench] Problem deleting a perspective descriptor created from restore state

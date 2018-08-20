@@ -1,0 +1,1 @@
+NPE when installing a signed, packed bundle that contains a nested jar on Windows

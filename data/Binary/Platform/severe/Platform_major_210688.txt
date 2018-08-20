@@ -1,0 +1,1 @@
+Three-way compare shows wrong changes

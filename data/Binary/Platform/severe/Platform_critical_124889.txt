@@ -1,0 +1,1 @@
+Crash using 64-bit VM when trying to open file dialog

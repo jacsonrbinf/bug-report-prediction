@@ -1,0 +1,1 @@
+[Webapp] Navigating search result with arrow keys should scroll far enough to read entire result

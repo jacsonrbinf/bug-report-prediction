@@ -1,0 +1,1 @@
+[DND] Previously maximized view can get into a state where it can no longer be maximized

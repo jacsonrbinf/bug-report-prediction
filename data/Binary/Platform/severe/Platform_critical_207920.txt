@@ -1,0 +1,1 @@
+Updates Dialog blocks the entire UI Thread for seconds

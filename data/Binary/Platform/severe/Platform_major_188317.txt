@@ -1,0 +1,1 @@
+Opening a FileDialog core dumps on Vista

@@ -1,0 +1,1 @@
+Quick-outline has unnecessary window decration.

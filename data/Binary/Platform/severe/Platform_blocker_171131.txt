@@ -1,0 +1,1 @@
+[OLE] SWT OLE Variant class - incorrect VT_DATE handling

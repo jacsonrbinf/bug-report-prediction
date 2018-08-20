@@ -1,0 +1,1 @@
+[Help][Context] BIDI3.4:HCG DynamicHelp section in ContextHelp can't be used

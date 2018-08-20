@@ -1,0 +1,1 @@
+Scrolling insanely slow after upgrading from 3.2RC6 to 3.2RC7

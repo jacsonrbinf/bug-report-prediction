@@ -1,0 +1,1 @@
+[DataBinding] ListDiff is calculated incorrectly

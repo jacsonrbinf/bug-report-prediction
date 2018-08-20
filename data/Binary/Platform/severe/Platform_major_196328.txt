@@ -1,0 +1,1 @@
+Table viewer placed inside  a wizard does not expand vertically when size of the wizard expands

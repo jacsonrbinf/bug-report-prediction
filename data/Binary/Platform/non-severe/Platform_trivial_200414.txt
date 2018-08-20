@@ -1,0 +1,1 @@
+Team > Apply Patch... context menu item does not show keybinding

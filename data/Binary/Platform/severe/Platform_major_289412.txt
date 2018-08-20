@@ -1,0 +1,1 @@
+"org.eclipse.platform" feature in eclipse-3.5.1RC3-delta-pack.zip includes a fetaure that does not exist

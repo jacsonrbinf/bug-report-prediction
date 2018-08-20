@@ -1,0 +1,1 @@
+[Memory View] NPE when terminating the debug session

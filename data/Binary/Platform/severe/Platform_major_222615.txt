@@ -1,0 +1,1 @@
+Export Ant buildfile does not export JUnit4 style tests

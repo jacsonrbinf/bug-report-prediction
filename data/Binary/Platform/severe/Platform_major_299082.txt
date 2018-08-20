@@ -1,0 +1,1 @@
+[Intro] label attribute of tag link doesn't substitute variables like $varName$

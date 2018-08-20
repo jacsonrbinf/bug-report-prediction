@@ -1,0 +1,1 @@
+[javadoc][find/replace] The Document 's Tree Line Tracker breaks when part of a line delimiter is replaced

@@ -1,0 +1,1 @@
+move close from right-click menu

@@ -1,0 +1,1 @@
+[Browser] SWT Browser crashes Eclipse if page contents set by setText contains a named anchor

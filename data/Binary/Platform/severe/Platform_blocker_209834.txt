@@ -1,0 +1,1 @@
+*.a under "Team->Ignored Resources" unchecks itself after each session

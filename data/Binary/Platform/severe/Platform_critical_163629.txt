@@ -1,0 +1,1 @@
+[MAC]SWT_AWT: Eclipse crashes when embed SWT_AWT.new_Frame in a ViewPart.

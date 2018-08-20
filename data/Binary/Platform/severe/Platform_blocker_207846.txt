@@ -1,0 +1,1 @@
+[Viewers] Virtual TableViewer setSelection() does not work properly

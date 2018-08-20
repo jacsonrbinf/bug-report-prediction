@@ -1,0 +1,1 @@
+[Widgets] clear icon not enabled when setText is called on a Text with the SWT.ICON_CANCEL style

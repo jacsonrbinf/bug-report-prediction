@@ -1,0 +1,1 @@
+Change Value dialogs do not have F1 help

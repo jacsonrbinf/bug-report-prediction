@@ -1,0 +1,1 @@
+Eclipse 3.5 New&Noteworthy has "3.4" in its <title>

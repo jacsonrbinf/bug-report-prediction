@@ -1,0 +1,1 @@
+Eclipse ANT classloader eats up 95% CPU on 1.5 VM

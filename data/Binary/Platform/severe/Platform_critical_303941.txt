@@ -1,0 +1,1 @@
+tab properties slows down over time because of bug in "Display.java" class

@@ -1,0 +1,1 @@
+[Mozilla] DOM is unavailable in completed event listener after setText()

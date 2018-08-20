@@ -1,0 +1,1 @@
+Icons being drawn on top of text in tabbed folder

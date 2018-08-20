@@ -1,0 +1,1 @@
+Display keeps lock on runnable for timerExcec when disposed

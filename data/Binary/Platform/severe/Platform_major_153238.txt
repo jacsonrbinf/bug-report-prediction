@@ -1,0 +1,1 @@
+[KeyBindings] All key bindings using letters (e.g. Ctrl+S) stop working when keyboard layout is switched to non-English

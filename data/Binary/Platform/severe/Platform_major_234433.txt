@@ -1,0 +1,1 @@
+[Browser] Some characters cannot be entered in forms

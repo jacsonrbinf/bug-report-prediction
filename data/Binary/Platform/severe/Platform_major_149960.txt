@@ -1,0 +1,1 @@
+JVM crash on startup in gtk_tooltips_force_window (Solaris/GTK)

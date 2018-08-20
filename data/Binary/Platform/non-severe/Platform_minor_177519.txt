@@ -1,0 +1,1 @@
+[Wizards] Adopt new IResource.findMaxProblemSeverity API

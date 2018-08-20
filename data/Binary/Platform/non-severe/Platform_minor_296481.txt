@@ -1,0 +1,1 @@
+AddSourceContainerDialog.createDialogArea should use super.createDialogArea

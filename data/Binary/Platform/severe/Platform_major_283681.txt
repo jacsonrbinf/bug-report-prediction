@@ -1,0 +1,1 @@
+Regression: No longer possible to post an event to the Browser

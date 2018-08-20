@@ -1,0 +1,1 @@
+[Viewers] Schemas for viewer creators wrongly indicate to subclass Viewer

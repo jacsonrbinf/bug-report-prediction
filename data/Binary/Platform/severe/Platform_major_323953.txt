@@ -1,0 +1,1 @@
+External Tools Launch delegate no longer supports launch in background

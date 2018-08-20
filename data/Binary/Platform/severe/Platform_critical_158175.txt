@@ -1,0 +1,1 @@
+Java core [WM_BUTTONDOWN] when selecting a tree in Vista

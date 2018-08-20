@@ -1,0 +1,1 @@
+[Browser] Eclipse crashes when "Show in Browser" is requested

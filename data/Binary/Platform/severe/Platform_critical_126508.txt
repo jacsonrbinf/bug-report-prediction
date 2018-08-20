@@ -1,0 +1,1 @@
+[CommonNavigator] Support overriding an existing extension

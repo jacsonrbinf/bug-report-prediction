@@ -1,0 +1,1 @@
+[KeyBindings] New keys preference page unusably slow

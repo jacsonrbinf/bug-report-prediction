@@ -1,0 +1,1 @@
+Random "Invalid memory access of location" on Open Resource function

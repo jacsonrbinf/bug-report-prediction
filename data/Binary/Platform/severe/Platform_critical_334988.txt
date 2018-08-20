@@ -1,0 +1,1 @@
+Wrong instance of selected element in SynchronizePageActionGroup.fillContextMenu()

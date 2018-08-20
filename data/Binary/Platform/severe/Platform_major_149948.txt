@@ -1,0 +1,1 @@
+Eclipse runs out of memory periodically with full Callisto install.

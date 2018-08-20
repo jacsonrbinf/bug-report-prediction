@@ -1,0 +1,1 @@
+[Preferences] Preferences dialog fails to create hierarchy if category referenced before declared

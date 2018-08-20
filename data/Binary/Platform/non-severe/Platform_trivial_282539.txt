@@ -1,0 +1,1 @@
+Cursor doesn't blink in black and white

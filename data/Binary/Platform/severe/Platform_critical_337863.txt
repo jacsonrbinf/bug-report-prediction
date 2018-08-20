@@ -1,0 +1,1 @@
+Eclipse does not start, no errors not even in console on ubuntu 10.4 64bit

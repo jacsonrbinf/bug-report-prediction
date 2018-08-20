@@ -1,0 +1,1 @@
+[Browser] SWT_AWT: new Browser SWT.MOZILLA gives NPE in MozillaDelegate

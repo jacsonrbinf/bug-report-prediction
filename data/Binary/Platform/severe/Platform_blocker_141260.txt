@@ -1,0 +1,1 @@
+Unexpected Eclipse crash RC3 ( JavaNativeCrash)

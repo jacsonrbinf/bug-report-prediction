@@ -1,0 +1,1 @@
+4 failures in org.eclipse.core.tests.resources

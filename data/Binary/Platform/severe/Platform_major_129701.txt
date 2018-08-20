@@ -1,0 +1,1 @@
+[JFace Text] Editing build.xml file causes Assertion exception and IllegalStateExceptions

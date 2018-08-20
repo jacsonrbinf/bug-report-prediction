@@ -1,0 +1,1 @@
+[Commands] handlers: Key binding availability dependant on view focus

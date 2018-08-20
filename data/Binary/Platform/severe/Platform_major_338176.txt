@@ -1,0 +1,1 @@
+Eclipse takes long time to start & problem continues later.

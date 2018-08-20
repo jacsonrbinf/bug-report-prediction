@@ -1,0 +1,1 @@
+[Sync View] Link with Editor view menu has no mnemonic

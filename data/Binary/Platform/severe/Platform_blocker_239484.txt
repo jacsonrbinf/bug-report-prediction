@@ -1,0 +1,1 @@
+SWT.VIRTUAL Table Freezes under 3.4 when dragging (DND)

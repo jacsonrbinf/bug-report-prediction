@@ -1,0 +1,1 @@
+[Preferences] Editors preference page should support more keywords

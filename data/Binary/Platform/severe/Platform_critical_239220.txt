@@ -1,0 +1,1 @@
+Text.getText() returns empty string after calling setText() with non-empty string

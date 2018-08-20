@@ -1,0 +1,1 @@
+Eclipse creates replica of project in a subdirectory, and points Repositiory tags at these files

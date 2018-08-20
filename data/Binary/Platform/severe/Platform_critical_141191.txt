@@ -1,0 +1,1 @@
+[WorkbenchParts] ISaveablePart2 prompting does not happen when closing a perspective

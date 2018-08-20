@@ -1,0 +1,1 @@
+[EFS] Minor JavaDoc fix for org.eclipse.core.IFileStore

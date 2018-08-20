@@ -1,0 +1,1 @@
+[Apply Patch] cancel save modified resource does not cancel apply patch

@@ -1,0 +1,1 @@
+Eclipse Ganymede and $_SERVER['HTTP_USER_AGENT']

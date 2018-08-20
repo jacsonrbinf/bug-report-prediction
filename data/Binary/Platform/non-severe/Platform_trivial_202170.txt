@@ -1,0 +1,1 @@
+[Wizards] Empy Source Folder and Package in New Class Wizard

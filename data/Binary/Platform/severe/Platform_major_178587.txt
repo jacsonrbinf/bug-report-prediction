@@ -1,0 +1,1 @@
+[ScrolledComposite] Accessibility: ScrolledComposite widgets don't automatically scroll when controls are tabbed to inside the composite

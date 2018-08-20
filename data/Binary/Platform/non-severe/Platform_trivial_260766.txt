@@ -1,0 +1,1 @@
+Javadoc bugs in org.eclipse.core.resources plug-in

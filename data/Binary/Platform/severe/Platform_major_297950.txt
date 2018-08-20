@@ -1,0 +1,1 @@
+CompareEditorInputs are leaked when reusing editors

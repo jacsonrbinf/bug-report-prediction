@@ -1,0 +1,1 @@
+[Browser] SWTError (XPCOM error -2147467259) when using the SWT 3.3 Broswer widget on Linux with Mozilla 1.7.8

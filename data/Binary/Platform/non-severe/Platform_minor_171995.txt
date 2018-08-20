@@ -1,0 +1,1 @@
+SWT Labels does not show accelerator characters when thier parent is a TabFolder

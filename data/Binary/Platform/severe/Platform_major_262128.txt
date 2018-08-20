@@ -1,0 +1,1 @@
+Eclipse crashed after added a file association

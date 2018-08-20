@@ -1,0 +1,1 @@
+[CheatSheet] Image to perform action does not change after action completed if confirm=true

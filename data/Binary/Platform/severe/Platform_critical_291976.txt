@@ -1,0 +1,1 @@
+Eclipse doesn't start after update from Karmic Koala's repository at main server

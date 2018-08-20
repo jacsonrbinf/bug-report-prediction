@@ -1,0 +1,1 @@
+Fail to run Ant script in the same JRE when installed at a path with space

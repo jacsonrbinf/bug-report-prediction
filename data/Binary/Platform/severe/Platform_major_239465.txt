@@ -1,0 +1,1 @@
+[CommonNavigator] Incorrect missing label provider message when plugin project associated with working set

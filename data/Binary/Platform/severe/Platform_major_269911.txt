@@ -1,0 +1,1 @@
+Using setColumnOrder on a SWT Tree widget (Cocoa) does not move the Disclosure columns to the first column

@@ -1,0 +1,1 @@
+[DetachedView] Detached window problem, views are forgotten upon restart

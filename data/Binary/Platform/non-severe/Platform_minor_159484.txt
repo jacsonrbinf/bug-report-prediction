@@ -1,0 +1,1 @@
+[Problems] Columns in Problems view grow wider with each restart

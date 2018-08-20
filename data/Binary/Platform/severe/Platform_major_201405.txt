@@ -1,0 +1,1 @@
+[Webapp] On RedHat EL 4 with default browser and default eclipse settings, Help->Content Help, Type anything (ex: pdt) and press "Enter" launches another window with search box in the middle in the new window

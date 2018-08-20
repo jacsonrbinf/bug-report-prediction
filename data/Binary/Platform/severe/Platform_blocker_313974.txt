@@ -1,0 +1,1 @@
+s390x build has 32bit java code

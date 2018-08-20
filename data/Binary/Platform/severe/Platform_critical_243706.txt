@@ -1,0 +1,1 @@
+SWT tool tip behaves abnormally on MAC platform.

@@ -1,0 +1,1 @@
+[Dialogs] SWT error in Wizard dialog when help is displayed and "Finish" is pressed

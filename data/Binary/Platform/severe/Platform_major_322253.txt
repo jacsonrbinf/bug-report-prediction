@@ -1,0 +1,1 @@
+[Widgets] Context menu does not go away after setVisible(false)

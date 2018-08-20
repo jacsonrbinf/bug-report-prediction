@@ -1,0 +1,1 @@
+Widgets with DOUBLE_BUFFERED style and paint listeners paint wrong

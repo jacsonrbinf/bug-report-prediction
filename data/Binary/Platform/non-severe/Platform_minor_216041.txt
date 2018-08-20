@@ -1,0 +1,1 @@
+[Navigator] Context help link for Navigator View has title "Project Explorer View"

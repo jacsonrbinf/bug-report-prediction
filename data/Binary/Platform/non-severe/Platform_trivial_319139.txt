@@ -1,0 +1,1 @@
+[Import/Export] Cocoa: Import existing projects into workspace has misaligned text fields

@@ -1,0 +1,1 @@
+[Viewers] Focus cell manager scroll-to-first-cell behaviour causes bad interaction with cell editor activation

@@ -1,0 +1,1 @@
+Unable to restart Eclipse after Windows crash

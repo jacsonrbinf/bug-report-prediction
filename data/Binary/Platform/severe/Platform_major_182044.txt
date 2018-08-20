@@ -1,0 +1,1 @@
+Font decorations aren't cleared on Replace With Latest

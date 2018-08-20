@@ -1,0 +1,1 @@
+Workspace corruption prevents Eclipse from starting

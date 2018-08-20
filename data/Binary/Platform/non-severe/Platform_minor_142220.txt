@@ -1,0 +1,1 @@
+[misc] AFE in DocEquivalenceComparator when moving lines in HTML editor

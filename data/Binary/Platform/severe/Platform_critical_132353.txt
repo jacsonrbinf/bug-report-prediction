@@ -1,0 +1,1 @@
+WEBDAV/FTP plugin - .changes in .properties files are ignored

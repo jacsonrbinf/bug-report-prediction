@@ -1,0 +1,1 @@
+SiteOptimizer generates bad digests if an included feature is optional

@@ -1,0 +1,1 @@
+Always ensure a progress monitor is completed

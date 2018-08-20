@@ -1,0 +1,1 @@
+BIDI: direction of code in "compare with" window is RTL

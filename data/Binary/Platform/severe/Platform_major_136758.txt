@@ -1,0 +1,1 @@
+Eclispe is crashed after a combo box disposes itself.

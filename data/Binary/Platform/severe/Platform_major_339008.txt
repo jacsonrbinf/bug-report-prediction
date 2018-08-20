@@ -1,0 +1,1 @@
+Eclipse starts with errors then won't open project. GLib-GObject-CRITICAL

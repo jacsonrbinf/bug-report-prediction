@@ -1,0 +1,1 @@
+Editor hangs while using browser to load page

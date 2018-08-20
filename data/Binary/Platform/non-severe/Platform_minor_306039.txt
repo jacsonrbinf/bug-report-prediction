@@ -1,0 +1,1 @@
+[Widgets] Windows 7 Jump List items impose "standard" on arguments passed to new instance

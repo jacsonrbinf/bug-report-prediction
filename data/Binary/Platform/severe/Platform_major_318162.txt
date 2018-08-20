@@ -1,0 +1,1 @@
+[backport] Resource filters do not work in CDT 7.0 projects

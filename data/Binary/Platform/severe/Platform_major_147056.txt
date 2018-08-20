@@ -1,0 +1,1 @@
+[PropertiesDialog] Invalid characters within project properties' location value

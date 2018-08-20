@@ -1,0 +1,1 @@
+[CheatSheet] Advance viewing a cheat sheet item containing subitems shows an empty space where subitems should be

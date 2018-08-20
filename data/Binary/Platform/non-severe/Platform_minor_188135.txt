@@ -1,0 +1,1 @@
+With twm on Linux, tooltip for editor selection vanishes when trying to move the mouse into it

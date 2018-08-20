@@ -1,0 +1,1 @@
+[Commands] TVT34:TCT352: IT: Copy item in menu is untranslated

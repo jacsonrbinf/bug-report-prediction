@@ -1,0 +1,1 @@
+Team Project Set export dialog should sort projects in Working Set mode

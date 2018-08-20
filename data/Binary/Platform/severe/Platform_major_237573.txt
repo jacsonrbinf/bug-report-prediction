@@ -1,0 +1,1 @@
+ModifyListener can't be nitified when input chinese characters in the Text Widget

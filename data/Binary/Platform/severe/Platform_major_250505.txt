@@ -1,0 +1,1 @@
+[Forms] AbstractHyperlink should check if widget is disposed before calling triggerAccessible

@@ -1,0 +1,1 @@
+[Contributions] Problem with the function "selectionChanged"

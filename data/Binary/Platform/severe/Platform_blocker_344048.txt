@@ -1,0 +1,1 @@
+something is amiss with org.eclipse.equinox.executable.feature.group

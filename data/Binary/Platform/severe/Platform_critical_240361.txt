@@ -1,0 +1,1 @@
+Large SWT Trees cannot be scrolled to the bottom TreeItem.

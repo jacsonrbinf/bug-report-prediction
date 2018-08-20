@@ -1,0 +1,1 @@
+[Graphics] Dock icon for host and runtime workbenches are different on mac

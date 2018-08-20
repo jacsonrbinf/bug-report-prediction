@@ -1,0 +1,1 @@
+Dialog title looks weird when creating a patch file in the workspace

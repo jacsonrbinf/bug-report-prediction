@@ -1,0 +1,1 @@
+Contents of text control inside a group does not correctly wrap

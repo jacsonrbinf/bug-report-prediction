@@ -1,0 +1,1 @@
+[Markers] Problems view does not display anything (index out of bounds)

@@ -1,0 +1,1 @@
+Updatemanager does report errors, but the statements are contradictory

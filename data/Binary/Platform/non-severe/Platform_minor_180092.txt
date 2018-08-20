@@ -1,0 +1,1 @@
+Menu button / Shift F10 opens context menu from mouse arrow,  not text cursor when cursor is active

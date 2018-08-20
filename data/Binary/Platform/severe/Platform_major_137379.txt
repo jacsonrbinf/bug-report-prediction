@@ -1,0 +1,1 @@
+Assert error from actions when wrappering JDT debug elements.

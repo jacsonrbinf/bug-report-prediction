@@ -1,0 +1,1 @@
+[Markers] Popup menu on bookmarks view has duplicate delete actions.

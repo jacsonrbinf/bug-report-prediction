@@ -1,0 +1,1 @@
+[rulers] LineNumberChangeRulerColumn throws 'widget is disposed' error

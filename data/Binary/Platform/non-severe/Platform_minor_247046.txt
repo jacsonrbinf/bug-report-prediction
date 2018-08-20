@@ -1,0 +1,1 @@
+Weird-looking tree tables and lists with Sun JDK 1.6.0_10-rc2-b31

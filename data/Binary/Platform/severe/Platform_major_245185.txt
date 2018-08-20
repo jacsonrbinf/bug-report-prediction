@@ -1,0 +1,1 @@
+Message in the MessaeBox is not BiDi correctly

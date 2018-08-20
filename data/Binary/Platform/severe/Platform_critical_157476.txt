@@ -1,0 +1,1 @@
+after starting 2 instances of workspace, eclipse does not start

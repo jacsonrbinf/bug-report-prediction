@@ -1,0 +1,1 @@
+[Themes] Colors and Fonts preference page: tree initially scrolled to the right if folders expanded

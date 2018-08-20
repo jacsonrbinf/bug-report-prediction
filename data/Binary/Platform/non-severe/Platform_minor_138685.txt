@@ -1,0 +1,1 @@
+[ViewMgmt] No command to close currently active view

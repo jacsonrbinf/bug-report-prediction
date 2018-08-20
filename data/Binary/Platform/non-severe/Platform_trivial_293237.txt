@@ -1,0 +1,1 @@
+[implementation] Clean up usages of new GridData(int) in QuickDiffConfigurationBlock.java

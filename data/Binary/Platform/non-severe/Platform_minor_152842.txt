@@ -1,0 +1,1 @@
+[CheatSheet] cheat sheet item doesn't display correctly when leaving dialog tray

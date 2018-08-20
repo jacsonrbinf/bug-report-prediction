@@ -1,0 +1,1 @@
+Stack overflow due to infinite recursion when calling Control.update from inside a PaintListener

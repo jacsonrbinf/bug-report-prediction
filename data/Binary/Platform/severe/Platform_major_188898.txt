@@ -1,0 +1,1 @@
+[Apply Patch] Internal Error written to .log when applying patch

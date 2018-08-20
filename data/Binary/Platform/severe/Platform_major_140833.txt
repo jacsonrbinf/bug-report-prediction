@@ -1,0 +1,1 @@
+TVT3.2:TCT325: FI: several strings in English in XML content types

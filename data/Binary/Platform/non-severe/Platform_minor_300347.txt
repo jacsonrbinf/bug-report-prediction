@@ -1,0 +1,1 @@
+[Sync View][Apply Patch] Fix hunks sorting

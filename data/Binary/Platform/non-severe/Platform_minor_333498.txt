@@ -1,0 +1,1 @@
+[navigation] Multi hyperlink popup should close when another modifier is pressed

@@ -1,0 +1,1 @@
+Installing JDT from Europa discovery site is completely broken

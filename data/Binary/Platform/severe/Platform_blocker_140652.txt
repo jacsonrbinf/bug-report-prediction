@@ -1,0 +1,1 @@
+*s in the launcher feature prevent to install features from an update site

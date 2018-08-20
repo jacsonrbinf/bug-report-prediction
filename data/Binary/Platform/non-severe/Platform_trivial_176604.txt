@@ -1,0 +1,1 @@
+[Dialogs] FilteredItemsSelectionDialog should show view menu on mouseDown

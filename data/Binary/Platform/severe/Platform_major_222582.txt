@@ -1,0 +1,1 @@
+[Perspectives] BIDI3.4:HCG Wrong caption alignment in Customize Perspecitve dialog  with Hebrew translation

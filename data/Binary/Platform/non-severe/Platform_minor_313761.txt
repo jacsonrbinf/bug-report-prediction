@@ -1,0 +1,1 @@
+[Viewers][doc] ViewerDropAdapter.getSelectedObject impl doesn't match javadoc

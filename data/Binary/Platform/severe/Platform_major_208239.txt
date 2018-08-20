@@ -1,0 +1,1 @@
+StyledTextRenderer ArrayIndexOutOfBoundsException

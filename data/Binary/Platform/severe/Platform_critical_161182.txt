@@ -1,0 +1,1 @@
+swt and eclipse-sdk: doesn't display text on ppc with ibm-jdk-bin-1.5

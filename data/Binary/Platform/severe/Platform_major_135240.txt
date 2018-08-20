@@ -1,0 +1,1 @@
+Console sometimes does not appear on very 'quick' runs

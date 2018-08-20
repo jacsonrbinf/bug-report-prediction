@@ -1,0 +1,1 @@
+Splash: Need the ability to define the splash in a splash handler plugin

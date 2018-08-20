@@ -1,0 +1,1 @@
+[Widgets] bold text in dynamic help tooltip overlaps and is not readable

@@ -1,0 +1,1 @@
+Display.getAppMenuBar() removes all existing menus

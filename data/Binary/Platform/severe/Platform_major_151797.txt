@@ -1,0 +1,1 @@
+Update does not work if *ANY* error is found in configuration

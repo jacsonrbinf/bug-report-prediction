@@ -1,0 +1,1 @@
+Application does not start maximized if setMaximized called before Shell.open()

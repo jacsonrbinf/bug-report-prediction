@@ -1,0 +1,1 @@
+[SWT] add @see SWT#TOOL to Shell constructor javadocs

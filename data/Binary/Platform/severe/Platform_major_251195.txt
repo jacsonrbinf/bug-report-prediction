@@ -1,0 +1,1 @@
+[Markers] Quick fix is not available in Markers view

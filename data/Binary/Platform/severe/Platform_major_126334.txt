@@ -1,0 +1,1 @@
+welcome/intro screen renders very badly when Internet Explorer IE7 beta 2 is installed

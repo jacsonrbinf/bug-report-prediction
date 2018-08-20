@@ -1,0 +1,1 @@
+[BiDi] Bidi3.2: [HCG]Right-Click mouse button is not active on Linux

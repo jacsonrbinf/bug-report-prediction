@@ -1,0 +1,1 @@
+[Viewers] Scrollbar doesn't appear on table when enclosing composite contains other controls

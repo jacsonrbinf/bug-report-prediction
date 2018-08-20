@@ -1,0 +1,1 @@
+Tons of "Widget is disposed" errors from CVSHistoryPage$1.run

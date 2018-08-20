@@ -1,0 +1,1 @@
+[FastView] [workbench] NPE raised when fast view is about to be moved

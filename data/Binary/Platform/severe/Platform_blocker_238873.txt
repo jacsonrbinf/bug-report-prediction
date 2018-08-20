@@ -1,0 +1,1 @@
+Eclipse x64 crashes on java project refresh

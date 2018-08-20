@@ -1,0 +1,1 @@
+DBCS3.3: corruptions in editor on WindowsVista

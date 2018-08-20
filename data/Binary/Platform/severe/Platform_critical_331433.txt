@@ -1,0 +1,1 @@
+Eclipse wont start on later versions of Java on Snow Lepoard

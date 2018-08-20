@@ -1,0 +1,1 @@
+Eclipse process continues to run in background after shutdown

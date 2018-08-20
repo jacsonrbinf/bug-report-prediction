@@ -1,0 +1,1 @@
+Mac OS X 10.5 - icon not changing between vertical edit and error long panes.

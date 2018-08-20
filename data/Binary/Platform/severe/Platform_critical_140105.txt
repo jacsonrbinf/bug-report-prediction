@@ -1,0 +1,1 @@
+Eclipse hangs wen Error log is opened while initializing java tooling

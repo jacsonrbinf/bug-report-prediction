@@ -1,0 +1,1 @@
+JVM terminates with exit code=1 on File->Open (eclipse3.2, PC, amd64, Mandriva06)

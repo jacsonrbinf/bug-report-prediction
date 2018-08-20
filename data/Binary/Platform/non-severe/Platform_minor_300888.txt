@@ -1,0 +1,1 @@
+[Preferences] 'Ignored Resources' preference page needs to support multiselect

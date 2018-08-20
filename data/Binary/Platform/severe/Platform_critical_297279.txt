@@ -1,0 +1,1 @@
+Eclipse crashes when autocomplete proposal popup is displayed

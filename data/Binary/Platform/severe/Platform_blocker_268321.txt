@@ -1,0 +1,1 @@
+[Net] UnixProxyProvider stuck on my RHEL5 gnome system

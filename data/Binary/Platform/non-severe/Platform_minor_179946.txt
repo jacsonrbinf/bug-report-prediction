@@ -1,0 +1,1 @@
+GC dispose thread invalid access missing from API Javadoc

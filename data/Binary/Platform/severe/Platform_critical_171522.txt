@@ -1,0 +1,1 @@
+[KeyBindings] When "@Ctrl+Break" was appended into lable of menu, Workbench can not startup

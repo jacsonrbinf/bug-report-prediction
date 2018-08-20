@@ -1,0 +1,1 @@
+[Forms] New Plugin Project Wizard and MS Narrator lock up workbench

@@ -1,0 +1,1 @@
+case test2ndSession failed when run automated test cases of coreresources

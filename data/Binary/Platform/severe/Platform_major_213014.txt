@@ -1,0 +1,1 @@
+[Markers] New view doesn't rank fatal errors first any longer when sorting per Java type

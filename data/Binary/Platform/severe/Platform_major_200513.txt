@@ -1,0 +1,1 @@
+[Forms] Removing an CTabItem disposes menu set on CTabFolder

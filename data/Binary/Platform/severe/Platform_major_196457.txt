@@ -1,0 +1,1 @@
+Project renaming fails if .project is hidden

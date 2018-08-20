@@ -1,0 +1,1 @@
+Breakpoints markers are lost when a JavaScript, Html, or XML  file is saved.

@@ -1,0 +1,1 @@
+[FastView] Add separator after "Show View as Fast View" action

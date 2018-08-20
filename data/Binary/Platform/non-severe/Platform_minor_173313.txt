@@ -1,0 +1,1 @@
+[Help] Remove preference for "Allow multiple open books"

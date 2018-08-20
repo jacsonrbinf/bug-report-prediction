@@ -1,0 +1,1 @@
+[StatusHandling] Error dialog flickers on opening and very strange temporary button visible

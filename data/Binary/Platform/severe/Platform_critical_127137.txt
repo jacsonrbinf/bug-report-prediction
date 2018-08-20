@@ -1,0 +1,1 @@
+[Workbench] Installing new feature from update site resets workbench layout

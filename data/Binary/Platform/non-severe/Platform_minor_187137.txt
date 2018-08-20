@@ -1,0 +1,1 @@
+[CommonNavigator] Project Explorer Link with Editor tooltip verbose and truncated

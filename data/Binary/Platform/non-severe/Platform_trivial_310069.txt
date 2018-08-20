@@ -1,0 +1,1 @@
+Remove icons from dialog that appears on DnD

@@ -1,0 +1,1 @@
+[PropertiesView] REGRESSION: Pressing F1 causes loss of editor properties

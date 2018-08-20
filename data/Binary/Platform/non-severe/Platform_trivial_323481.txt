@@ -1,0 +1,1 @@
+Remove activeWorkbenchWindow parameter from TeamAction.updateSelection(IWorkbenchWindow, IWorkbenchPart, ISelection)

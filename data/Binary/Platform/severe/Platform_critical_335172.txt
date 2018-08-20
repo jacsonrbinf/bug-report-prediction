@@ -1,0 +1,1 @@
+Broken DND feedback indicator when dragging TableItems on Mac

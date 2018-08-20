@@ -1,0 +1,1 @@
+Text formatting finishes too early when pasted

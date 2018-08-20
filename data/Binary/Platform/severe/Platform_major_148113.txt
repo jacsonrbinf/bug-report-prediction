@@ -1,0 +1,1 @@
+Selection of all Problems in the Problems view is very slow

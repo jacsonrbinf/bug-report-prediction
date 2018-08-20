@@ -1,0 +1,1 @@
+[DND] Clipboard.setContents(..) writes to stderr when FileTransfer path does not exist

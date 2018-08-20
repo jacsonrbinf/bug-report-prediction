@@ -1,0 +1,1 @@
+NPE in ProjectSetCapability.ensureBackwardsCompatible(RepositoryProviderType, ProjectSetCapability) if there is no compatibility layer available

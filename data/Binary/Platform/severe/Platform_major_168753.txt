@@ -1,0 +1,1 @@
+Malformed tree exception getting children of workspace root

@@ -1,0 +1,1 @@
+[QuickAccess] Ctrl+3 popup doesn't handle Home and End keys

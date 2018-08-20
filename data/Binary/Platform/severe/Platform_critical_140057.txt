@@ -1,0 +1,1 @@
+[CommonNavigator] (NeedsApproval) Please harden against IllegalAccessError

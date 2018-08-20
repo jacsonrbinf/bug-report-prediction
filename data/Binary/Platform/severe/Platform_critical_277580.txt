@@ -1,0 +1,1 @@
+Pre-bundled Eclipse packages for Mac are Cocoa only, not available on Carbon

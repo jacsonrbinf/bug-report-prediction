@@ -1,0 +1,1 @@
+[Markers] Marker views update on each resource delta (was: Problems view flashes when launching anything)

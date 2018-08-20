@@ -1,0 +1,1 @@
+Ctrl+Click doesnt behave as expected. Locks Scrolling.

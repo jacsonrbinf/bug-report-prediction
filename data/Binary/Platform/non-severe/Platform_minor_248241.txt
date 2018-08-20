@@ -1,0 +1,1 @@
+[Wizards] Imported project does not appear in the selected working set but in "Other Projects" section

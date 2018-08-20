@@ -1,0 +1,1 @@
+[History View] Menu entries for viewers unchecked while viewers are visible

@@ -1,0 +1,1 @@
+[StatusHandling] View with an error opens an error dialog

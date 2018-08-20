@@ -1,0 +1,1 @@
+[Viewers] Can't select multiple items in "externalize strings" dialog.

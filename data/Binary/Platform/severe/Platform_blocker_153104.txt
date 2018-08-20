@@ -1,0 +1,1 @@
+Eclipse core dumps while loading SDK workbench

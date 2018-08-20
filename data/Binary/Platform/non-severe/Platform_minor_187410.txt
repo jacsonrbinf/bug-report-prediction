@@ -1,0 +1,1 @@
+Cancelling 'Scan for updates' causes NPE on subsequent scans

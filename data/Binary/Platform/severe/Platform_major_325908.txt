@@ -1,0 +1,1 @@
+[Forms] [Helios] Allow FormText to be transparent

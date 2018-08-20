@@ -1,0 +1,1 @@
+Mozilla SWT browser crashes eclipse when closing a popup window

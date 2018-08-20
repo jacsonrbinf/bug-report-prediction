@@ -1,0 +1,1 @@
+SWT - up arrow points down on MacOS

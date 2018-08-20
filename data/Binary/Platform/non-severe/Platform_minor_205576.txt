@@ -1,0 +1,1 @@
+FSRM#read(...) throws a wrong exception when a file doesn't exist

@@ -1,0 +1,1 @@
+"Reveal End of Document" (internal error: ArrayIndexOutOfBoundException) in Console displaying long lines

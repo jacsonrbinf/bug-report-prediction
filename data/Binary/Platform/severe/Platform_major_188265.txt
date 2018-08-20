@@ -1,0 +1,1 @@
+Trees flicker when focus changes

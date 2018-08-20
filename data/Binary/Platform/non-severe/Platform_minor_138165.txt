@@ -1,0 +1,1 @@
+[OLE] Cannot move focus to Excel when OleClientSite(..."Excel.Sheet") is running

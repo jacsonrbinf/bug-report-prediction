@@ -1,0 +1,1 @@
+[Contributions] editor leaked when invoking action from visible action set via keybinding

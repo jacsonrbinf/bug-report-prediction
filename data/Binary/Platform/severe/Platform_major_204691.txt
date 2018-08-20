@@ -1,0 +1,1 @@
+Debug view shows only empty stack frames, Find action blocks

@@ -1,0 +1,1 @@
+Javadoc of MouseEvent.stateMask should mention mouse masks

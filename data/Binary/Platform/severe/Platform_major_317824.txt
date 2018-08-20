@@ -1,0 +1,1 @@
+[Filters] Renaming a project that contains resource filters fails.

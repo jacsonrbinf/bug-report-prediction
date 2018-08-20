@@ -1,0 +1,1 @@
+Can not DnD a file into a empty folder within a project if the folder ever is expanded

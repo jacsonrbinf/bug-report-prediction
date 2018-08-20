@@ -1,0 +1,1 @@
+[Workbench] IWorkbenchPreferenceConstants.PROMPT_WHEN_SAVEABLE_STILL_OPEN has malformed javadocs

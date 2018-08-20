@@ -1,0 +1,1 @@
+SWT Text component remove the last character introduced when the text field lose the focus (cocoa 64 bits).

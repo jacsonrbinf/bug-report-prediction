@@ -1,0 +1,1 @@
+Dialogs and Wizards not rendering content in Vista 64 bit

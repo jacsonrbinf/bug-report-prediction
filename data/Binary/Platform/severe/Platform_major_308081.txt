@@ -1,0 +1,1 @@
+[Forms] Image not displayed in disabled ImageHyperlink

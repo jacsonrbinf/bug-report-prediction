@@ -1,0 +1,1 @@
+[CommonNavigator] getParent of NavigatorContentServiceContentProvider does not return expected node.

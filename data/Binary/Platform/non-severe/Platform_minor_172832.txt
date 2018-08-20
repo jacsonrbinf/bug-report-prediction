@@ -1,0 +1,1 @@
+GC.getClipping( ) difference GTK / Windows

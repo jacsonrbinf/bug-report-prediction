@@ -1,0 +1,1 @@
+OK button not working in "Edit" dialog in available software sites tab

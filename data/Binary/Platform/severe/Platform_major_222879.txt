@@ -1,0 +1,1 @@
+BIDI3.4:HCG Editor should not be mirrored

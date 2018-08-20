@@ -1,0 +1,1 @@
+[MacOSX] getFileName() method in FileDialog returns an empty String

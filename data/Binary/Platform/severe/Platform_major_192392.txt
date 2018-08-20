@@ -1,0 +1,1 @@
+[CVS] "Switch to another branch or version" does not work for modified file

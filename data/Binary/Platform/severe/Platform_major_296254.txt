@@ -1,0 +1,1 @@
+[DND] No Drop on Label with filtransfer

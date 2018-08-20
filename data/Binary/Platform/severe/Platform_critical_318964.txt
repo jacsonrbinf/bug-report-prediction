@@ -1,0 +1,1 @@
+The preload message shows in system tray is not readable

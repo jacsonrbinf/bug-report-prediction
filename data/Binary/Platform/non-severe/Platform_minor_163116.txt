@@ -1,0 +1,1 @@
+[implementation] Potential for infinite loop in WordRule

@@ -1,0 +1,1 @@
+Eclipse crashes when using Command+Option+Space to show parameter tooltip

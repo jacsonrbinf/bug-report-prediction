@@ -1,0 +1,1 @@
+Version of org.eclipse.update.core needs higher value for qualifier

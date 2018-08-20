@@ -1,0 +1,1 @@
+Remove Trailing Whitespace command should always work on single file

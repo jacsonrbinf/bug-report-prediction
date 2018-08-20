@@ -1,0 +1,1 @@
+When I ran complitation after two or three times the application crashes

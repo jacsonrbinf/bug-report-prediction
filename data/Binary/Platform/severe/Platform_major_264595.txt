@@ -1,0 +1,1 @@
+Help -> Contents crashes eclipse on RHEL 5

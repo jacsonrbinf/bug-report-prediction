@@ -1,0 +1,1 @@
+[Widgets] Unhandled event loop exception - org.eclipse.swt.SWTError: No more handles

@@ -1,0 +1,1 @@
+[typing] Hyperlink presenter must react to document changes

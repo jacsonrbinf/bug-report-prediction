@@ -1,0 +1,1 @@
+Eclipse / JRE crashes when setting font preferences

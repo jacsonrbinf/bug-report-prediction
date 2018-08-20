@@ -1,0 +1,1 @@
+[Webapp] Cross Site Scripting vulnerabilities in the Eclipse help system

@@ -1,0 +1,1 @@
+[IDE] Error logged about missing ResourceNavigator when opening Resource Perspective

@@ -1,0 +1,1 @@
+[ViewMgmt] Show View dialog selects wrong entry on Enter

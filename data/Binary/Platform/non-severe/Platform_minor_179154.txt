@@ -1,0 +1,1 @@
+ANT build autocomplete resolvers wrong to wrong basedir when doing complex import.

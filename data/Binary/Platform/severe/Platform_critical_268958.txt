@@ -1,0 +1,1 @@
+Null pointer exception in thread "Help Browser UI" when PDF files opened from Help Content of plug-in

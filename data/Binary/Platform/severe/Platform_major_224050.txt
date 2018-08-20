@@ -1,0 +1,1 @@
+Wrong font and selection in content assist on osx

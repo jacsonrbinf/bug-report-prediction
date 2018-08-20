@@ -1,0 +1,1 @@
+Odd dialog behavior when parent minimized.

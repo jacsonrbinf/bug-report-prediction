@@ -1,0 +1,1 @@
+DebugUIPlugin.start() pollutes SWT Display

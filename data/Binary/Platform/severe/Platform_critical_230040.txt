@@ -1,0 +1,1 @@
+[Proxy] Hang when using system detected proxy with Gnome window manager

@@ -1,0 +1,1 @@
+[FastView] Show view brings back minimized 'Welcome' view

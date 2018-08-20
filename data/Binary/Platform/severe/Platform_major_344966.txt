@@ -1,0 +1,1 @@
+Controls with a size of 0,x or x,0 are prevented from the tab list

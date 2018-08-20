@@ -1,0 +1,1 @@
+SWT FillPolygon crashes eclipse GDI+

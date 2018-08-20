@@ -1,0 +1,1 @@
+[navigation] Second hyperlink on same line not detected

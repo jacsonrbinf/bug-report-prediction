@@ -1,0 +1,1 @@
+[Viewers] ViewerColumn needs a dispose method

@@ -1,0 +1,1 @@
+TextLayout implementation on VISTA platform cannot correctly render some gb18030 characters(Mongolian Baiti, Microsoft Yi Baiti etc)

@@ -1,0 +1,1 @@
+[Console] Cannot save console output to a file in workspace unless file is created beforehand.

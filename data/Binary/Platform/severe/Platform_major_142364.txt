@@ -1,0 +1,1 @@
+Replacing a large number of files hangs Eclipse

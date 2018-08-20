@@ -1,0 +1,1 @@
+tooltips not read by screen reader/MSAA for toolbar items w/ image

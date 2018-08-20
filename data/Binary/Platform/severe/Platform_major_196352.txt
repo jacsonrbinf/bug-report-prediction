@@ -1,0 +1,1 @@
+[WorkbenchLauncher] Null Display using Display.getCurrent()

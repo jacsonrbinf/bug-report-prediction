@@ -1,0 +1,1 @@
+org.eclipse.jsch.core falsely depends on .core.resources, barring use in RCP

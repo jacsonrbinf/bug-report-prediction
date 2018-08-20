@@ -1,0 +1,1 @@
+[Trim] Can't restore minimized EditorArea after opening perspective

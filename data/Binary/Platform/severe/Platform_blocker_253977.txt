@@ -1,0 +1,1 @@
+[Help]  For Eclipse 3.4.2  fix regression caused by fix for Bug 237326 - [Help][Context] F1 accessibility - no indication that help view has opened (since there is no focus change)

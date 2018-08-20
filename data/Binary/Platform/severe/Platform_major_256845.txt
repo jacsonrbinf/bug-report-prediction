@@ -1,0 +1,1 @@
+Shell control: "remain on top" property is voided when one goes to another application

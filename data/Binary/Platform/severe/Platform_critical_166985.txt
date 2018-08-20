@@ -1,0 +1,1 @@
+Compare with History in dialog crashes with 100% CPU

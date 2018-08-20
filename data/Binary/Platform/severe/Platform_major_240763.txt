@@ -1,0 +1,1 @@
+[key binding] Not able to use short cut for completions

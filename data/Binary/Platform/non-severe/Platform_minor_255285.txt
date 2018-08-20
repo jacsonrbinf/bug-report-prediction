@@ -1,0 +1,1 @@
+Project.internalBuild() calls beginTask() with the wrong amount of total work

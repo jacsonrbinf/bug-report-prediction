@@ -1,0 +1,1 @@
+[GlobalActions] CyclePerspectiveHandler leaks one image per perspective per switch

@@ -1,0 +1,1 @@
+[Dialogs] Accessibility: Cannnot tab to the Help button in dialogs, wizards

@@ -1,0 +1,1 @@
+the IDE don't run. show a error message and quit the IDE.

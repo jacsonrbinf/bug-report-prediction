@@ -1,0 +1,1 @@
+Preferences Import / Export does not include Workbench Capabilities selections

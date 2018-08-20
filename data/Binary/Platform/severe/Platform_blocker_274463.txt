@@ -1,0 +1,1 @@
+eclipse hangs after splash screen, Initializing Java Tooling: (1%)

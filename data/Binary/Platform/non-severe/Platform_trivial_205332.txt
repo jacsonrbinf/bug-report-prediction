@@ -1,0 +1,1 @@
+[FilteredItemsSelectionDialog] FilteredItemsSelectionDialog: history size off by 1 and Javadoc clarifications

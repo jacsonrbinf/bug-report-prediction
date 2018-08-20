@@ -1,0 +1,1 @@
+JUnit 4 assertEquals gives wrong result

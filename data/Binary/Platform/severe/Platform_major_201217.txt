@@ -1,0 +1,1 @@
+NPE in Canvas.kEventControlSetFocusPart(Canvas.java:150)

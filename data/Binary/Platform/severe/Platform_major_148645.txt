@@ -1,0 +1,1 @@
+Ctrl+F in "Package Explorer" view causes application crash.

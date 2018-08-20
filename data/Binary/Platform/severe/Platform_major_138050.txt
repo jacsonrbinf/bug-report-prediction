@@ -1,0 +1,1 @@
+Code assist/pop-up window hangs/beachballs Eclipse for 1-2 minutes

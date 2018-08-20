@@ -1,0 +1,1 @@
+[Clipboard] X selection clipboard (PRIMARY buffer) set by pre-selected text in dialogs

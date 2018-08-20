@@ -1,0 +1,1 @@
+[misc] Eclipse-3.2.1 TextEditor no longer auto-sizes help descriptions

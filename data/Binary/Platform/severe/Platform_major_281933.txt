@@ -1,0 +1,1 @@
+[Dialogs] Show Views Dialog and Windows Preference Dialog fail to open if SHOW_FILTERED_TEXTS is set to false

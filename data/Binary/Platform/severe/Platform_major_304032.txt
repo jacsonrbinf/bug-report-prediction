@@ -1,0 +1,1 @@
+[CommonNavigator] hasChildren() for pipelined providers is broken

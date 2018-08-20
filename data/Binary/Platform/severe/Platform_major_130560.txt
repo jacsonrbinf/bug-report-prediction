@@ -1,0 +1,1 @@
+[CommonNavigator] Should try to implement lazy tree expansion in background

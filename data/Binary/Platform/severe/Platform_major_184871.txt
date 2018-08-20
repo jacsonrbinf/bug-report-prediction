@@ -1,0 +1,1 @@
+[Help] Two images leaked each time help view is opened

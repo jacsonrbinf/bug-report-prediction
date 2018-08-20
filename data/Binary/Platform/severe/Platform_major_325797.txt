@@ -1,0 +1,1 @@
+views automatically opened based on debug context are hidden/closed on perspective switch

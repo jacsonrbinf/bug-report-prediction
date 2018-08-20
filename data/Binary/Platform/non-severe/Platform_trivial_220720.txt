@@ -1,0 +1,1 @@
+[RCP] FAQ about ui.ide and RCP is outdated

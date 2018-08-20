@@ -1,0 +1,1 @@
+Cannot load flash part of an html in a Browser component using method setText

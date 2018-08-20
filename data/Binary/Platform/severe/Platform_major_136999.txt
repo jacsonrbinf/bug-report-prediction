@@ -1,0 +1,1 @@
+[CommonNavigator] Link with editor fails for PDE

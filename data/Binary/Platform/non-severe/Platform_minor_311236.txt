@@ -1,0 +1,1 @@
+[breakpoints] breakpoint view not updated on delete when 'group by' and 'show supported' options are enabled

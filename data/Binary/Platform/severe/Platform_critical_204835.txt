@@ -1,0 +1,1 @@
+[Help] Issue with <index> extension point in plugin.xml file crashes the IC.

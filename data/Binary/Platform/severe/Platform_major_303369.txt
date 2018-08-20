@@ -1,0 +1,1 @@
+Open Resource dialog shows only window title bar

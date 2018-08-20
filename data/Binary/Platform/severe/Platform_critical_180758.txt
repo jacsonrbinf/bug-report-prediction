@@ -1,0 +1,1 @@
+[IDE] Deleting a project but not the contents asks if you want to delete read-only files

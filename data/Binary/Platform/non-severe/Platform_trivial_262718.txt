@@ -1,0 +1,1 @@
+File path labels in compare editor should escape mnemonics

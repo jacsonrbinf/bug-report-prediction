@@ -1,0 +1,1 @@
+[Forms] Cocoa form title bars color use UI Highlight color

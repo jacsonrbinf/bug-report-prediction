@@ -1,0 +1,1 @@
+[CommonNavigator][arch] Should common sorters be associated with a content extension?

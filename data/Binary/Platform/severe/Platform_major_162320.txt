@@ -1,0 +1,1 @@
+Toggle step filters action does not initialize state properly

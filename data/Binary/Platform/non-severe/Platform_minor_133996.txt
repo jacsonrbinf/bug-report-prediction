@@ -1,0 +1,1 @@
+Exception on running SWT snippet 223

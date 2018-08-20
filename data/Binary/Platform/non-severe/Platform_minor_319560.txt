@@ -1,0 +1,1 @@
+[find/replace] buttonPressed in Find/Replace dialog should not change focus/selection

@@ -1,0 +1,1 @@
+Menu images (PNG) does not support semi-alpha-transparency on Windows Vista/7

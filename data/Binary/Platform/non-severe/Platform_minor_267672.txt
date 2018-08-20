@@ -1,0 +1,1 @@
+[navigation] Clicking on hyperlink while popup is open should close the popup

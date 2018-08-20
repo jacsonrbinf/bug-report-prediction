@@ -1,0 +1,1 @@
+spell checker marks capitalized words as incorectly spelled

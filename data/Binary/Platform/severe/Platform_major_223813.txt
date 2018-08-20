@@ -1,0 +1,1 @@
+TextLayout#getBounds() only considers first line on carbon

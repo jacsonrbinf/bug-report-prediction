@@ -1,0 +1,1 @@
+[spell checking] Java Editor barely usable with spell check on and no dictionary

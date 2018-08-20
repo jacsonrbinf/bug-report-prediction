@@ -1,0 +1,1 @@
+[Markers] [Problems View] Changing columns in the preferences makes errors disappear from the view

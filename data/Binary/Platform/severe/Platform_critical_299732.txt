@@ -1,0 +1,1 @@
+Eclipse crash when virtual table is being refreshed very quickly

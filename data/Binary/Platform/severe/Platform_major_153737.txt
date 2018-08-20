@@ -1,0 +1,1 @@
+[Progress] Modal dialogs deadlock during launching an Eclipse app

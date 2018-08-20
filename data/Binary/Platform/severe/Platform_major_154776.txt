@@ -1,0 +1,1 @@
+DVT3.2:TCT1056: references to former htm files for new xhtml files need to be changed

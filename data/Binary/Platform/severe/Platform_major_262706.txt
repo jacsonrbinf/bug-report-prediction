@@ -1,0 +1,1 @@
+[CommonNavigator] Sorter inconsistently uses possible children instead of trigger points

@@ -1,0 +1,1 @@
+[Markers] quick fix from problems view: don't show empty dialog

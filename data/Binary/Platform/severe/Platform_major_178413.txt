@@ -1,0 +1,1 @@
+Accessibility: There is no tooltip for the icon in front of the SWT tree widget

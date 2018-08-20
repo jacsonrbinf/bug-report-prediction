@@ -1,0 +1,1 @@
+[Wizards] File->New->Project (Select a wizard) does not respond to keyboard on Windows 64 bit

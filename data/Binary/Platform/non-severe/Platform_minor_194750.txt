@@ -1,0 +1,1 @@
+[preferences] revert to default button should become active only when changing template's content

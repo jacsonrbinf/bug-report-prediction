@@ -1,0 +1,1 @@
+[Viewers] Application doesn't shutdown because background thread is running

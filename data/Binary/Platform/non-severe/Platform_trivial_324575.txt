@@ -1,0 +1,1 @@
+Change name of the search results view "org.eclipse.search.ui.views.SearchView"

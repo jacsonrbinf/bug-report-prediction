@@ -1,0 +1,1 @@
+[Contributions] org.eclipse.ui.menus problem(?) with visibleWhen

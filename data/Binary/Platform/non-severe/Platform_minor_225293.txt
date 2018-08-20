@@ -1,0 +1,1 @@
+Can't override default project location when choosing Examples->Editing and Validating XML files

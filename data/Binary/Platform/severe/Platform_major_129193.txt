@@ -1,0 +1,1 @@
+[JFace] Setting the sorter on AbstractTreeViewer before input can cause NPE

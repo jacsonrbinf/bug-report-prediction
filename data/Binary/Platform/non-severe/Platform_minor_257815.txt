@@ -1,0 +1,1 @@
+TableViewer truncates Strings longer than 259 chars.

@@ -1,0 +1,1 @@
+[Mac] Toggle toolbar button is missing in the first workbench window

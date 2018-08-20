@@ -1,0 +1,1 @@
+[Intro] Opening an intro result from search when a turorial is open

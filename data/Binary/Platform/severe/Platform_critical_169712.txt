@@ -1,0 +1,1 @@
+[Launcher] Eclipse won't launch in Mac OS X 10.5

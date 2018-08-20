@@ -1,0 +1,1 @@
+[Commands] File > Move in Project Explorer misses ellipsis

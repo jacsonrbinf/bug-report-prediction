@@ -1,0 +1,1 @@
+On AIX- In SWT Text control Ctrl-c Ctrl-v does not work.

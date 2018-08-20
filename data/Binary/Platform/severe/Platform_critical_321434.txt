@@ -1,0 +1,1 @@
+Eclipse fails to start - log reports java.lang.ClassFormatError: Unknown constant tag 117 in class file org/eclipse/ui/ide/IDE

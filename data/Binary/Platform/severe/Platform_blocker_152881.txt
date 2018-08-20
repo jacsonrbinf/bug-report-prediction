@@ -1,0 +1,1 @@
+Eclipse crash when try to open a file or browse on a Samba shared filesystem

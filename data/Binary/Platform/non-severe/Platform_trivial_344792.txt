@@ -1,0 +1,1 @@
+Copyright date needs to be updated in help.base about.properties

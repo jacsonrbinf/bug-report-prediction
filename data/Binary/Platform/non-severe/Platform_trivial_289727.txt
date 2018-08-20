@@ -1,0 +1,1 @@
+If name of a Synchronize Participant is null set it to "Unknown"

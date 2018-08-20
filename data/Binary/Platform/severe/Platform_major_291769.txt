@@ -1,0 +1,1 @@
+[Widgets] Frozen when opening 25 manifest editors at once

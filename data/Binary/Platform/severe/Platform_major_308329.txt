@@ -1,0 +1,1 @@
+[TUR3.6]: ArrayIndexoutOfBoundsException occurred when paste TR characters in Console when Run C++ project

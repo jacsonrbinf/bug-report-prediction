@@ -1,0 +1,1 @@
+Widget life cycle methods should be availble for subclasses

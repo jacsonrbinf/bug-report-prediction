@@ -1,0 +1,1 @@
+TVT3.2:TCT383: FI: New option Migrate JAR file not translated in RC3

@@ -1,0 +1,1 @@
+Eclipse modifies .project file on project import without reason

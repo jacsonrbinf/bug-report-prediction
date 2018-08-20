@@ -1,0 +1,1 @@
+[misc] Last Quick Diff Provider gives wrong results (line delimiter bug?)

@@ -1,0 +1,1 @@
+TextConsole setBackground method incorrectly spelled as setBackgrond

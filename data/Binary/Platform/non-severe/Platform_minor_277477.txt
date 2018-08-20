@@ -1,0 +1,1 @@
+CompareEditorInput should not instantiate new Booleans

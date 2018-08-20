@@ -1,0 +1,1 @@
+Unable to copy text from Eclipse (OS X 10.6.1) and paste into VMware Fusion Virtual Machine (Windows XP SP3)

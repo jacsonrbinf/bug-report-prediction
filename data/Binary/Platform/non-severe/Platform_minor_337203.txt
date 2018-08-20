@@ -1,0 +1,1 @@
+[refactoring] Cocoa only: Preview page in org.eclipse.ltk.ui.refactoring.RefactoringWizard shows no changes when empty space is clicked

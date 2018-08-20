@@ -1,0 +1,1 @@
+Getting immediately setting back a Region on a GC once setAdvanced is set to true causes the region to change provided the repaint region is offset

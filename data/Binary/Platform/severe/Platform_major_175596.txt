@@ -1,0 +1,1 @@
+[StatusHandling] Reference to internal class in StatusManager API

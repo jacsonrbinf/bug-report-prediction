@@ -1,0 +1,1 @@
+[results] Comment not displayed in perf result

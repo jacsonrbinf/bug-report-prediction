@@ -1,0 +1,1 @@
+Arrow keys, PgUp, PgDn, BkSp, Ctrl+F6... key bindings are not working

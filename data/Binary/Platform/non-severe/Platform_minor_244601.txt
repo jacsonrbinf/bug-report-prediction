@@ -1,0 +1,1 @@
+[Help][Context] A description element in a help context declaration for a dialog hides topic href

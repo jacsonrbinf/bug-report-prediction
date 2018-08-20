@@ -1,0 +1,1 @@
+[Browser] Selecting Window/Preferences/Help crashes Eclipse

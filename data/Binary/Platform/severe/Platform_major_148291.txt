@@ -1,0 +1,1 @@
+[Help] Internal Error (HTTP Status 500) when searched for "what's new" in Eclipse 3.2RC7 help

@@ -1,0 +1,1 @@
+[IDE] ConcurrentModificationException - possibly related to simultaneously opening project and doing a Team sync

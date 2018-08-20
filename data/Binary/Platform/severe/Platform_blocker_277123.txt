@@ -1,0 +1,1 @@
+Suddenly cannot use "Open type" (CTRL+SHIFT+T) anymore

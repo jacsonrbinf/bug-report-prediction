@@ -1,0 +1,1 @@
+XULRunner Browser.execute() affects the content of the page

@@ -1,0 +1,1 @@
+[misc] Missing F1 help for 'Show Information' (F2)

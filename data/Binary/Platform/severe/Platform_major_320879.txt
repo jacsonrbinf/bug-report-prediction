@@ -1,0 +1,1 @@
+Application crashes when the link widget is invoked through keyboard

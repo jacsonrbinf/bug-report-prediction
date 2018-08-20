@@ -1,0 +1,1 @@
+StyledText problem in linux with justify property

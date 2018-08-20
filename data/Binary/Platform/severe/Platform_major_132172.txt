@@ -1,0 +1,1 @@
+[Common Navigator] OutOfMemoryError when running navigator tests

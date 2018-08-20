@@ -1,0 +1,1 @@
+[CommonNavigator] Project labels missing in Project Explorer when working sets are top level elements

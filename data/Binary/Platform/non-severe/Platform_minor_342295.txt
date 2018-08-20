@@ -1,0 +1,1 @@
+[templates] Template variable names can only contain ASCII characters

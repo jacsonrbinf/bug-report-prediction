@@ -1,0 +1,1 @@
+CVS decorator shows () for ignored files

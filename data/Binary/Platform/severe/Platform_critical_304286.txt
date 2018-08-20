@@ -1,0 +1,1 @@
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.internal.DefaultSaveable@1573872 from part: org.eclipse.ui.internal.ErrorEditorPart@1573872

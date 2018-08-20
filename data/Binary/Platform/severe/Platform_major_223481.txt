@@ -1,0 +1,1 @@
+[GlobalActions] regression : Refresh is no longer performed in background

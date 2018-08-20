@@ -1,0 +1,1 @@
+Team UI should not require navigator.resources

@@ -1,0 +1,1 @@
+[ErrorHandling] Copy action from error dialog causes invalid argument exception

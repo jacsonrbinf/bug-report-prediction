@@ -1,0 +1,1 @@
+[IDE] Binary compatibility breakage: public static api method removed from IDEEncoding

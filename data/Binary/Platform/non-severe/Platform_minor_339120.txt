@@ -1,0 +1,1 @@
+Show open windows >> doesn't support dual monitor

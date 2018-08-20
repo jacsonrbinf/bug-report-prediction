@@ -1,0 +1,1 @@
+Can't add file association when on Preferences->General->Content Types (dialog doesn't show up)

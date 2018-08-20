@@ -1,0 +1,1 @@
+When expanding tree in variables view, icon does not show expanded

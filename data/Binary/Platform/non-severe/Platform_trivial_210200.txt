@@ -1,0 +1,1 @@
+[ActionSets] Deleting a file prompts the user to save changes

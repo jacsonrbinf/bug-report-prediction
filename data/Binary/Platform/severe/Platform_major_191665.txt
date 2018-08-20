@@ -1,0 +1,1 @@
+[Clipboard] paste ignores sometimes the last line

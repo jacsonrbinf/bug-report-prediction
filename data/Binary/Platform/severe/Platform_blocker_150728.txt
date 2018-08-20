@@ -1,0 +1,1 @@
+SWT_AWT : crash @ org.eclipse.swt.internal.carbon.OS.ReceiveNextEvent

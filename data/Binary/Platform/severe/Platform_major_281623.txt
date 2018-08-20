@@ -1,0 +1,1 @@
+[FastView] NPE in FastViewPane$2.setState (was: File Search doesn't work in 3.5.0)

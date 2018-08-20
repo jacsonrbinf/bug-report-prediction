@@ -1,0 +1,1 @@
+[EditorMgmt] File association default needs to be set twice to take effect

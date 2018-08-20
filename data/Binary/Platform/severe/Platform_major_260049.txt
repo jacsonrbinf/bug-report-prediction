@@ -1,0 +1,1 @@
+NPE prevents from applying a patch

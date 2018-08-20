@@ -1,0 +1,1 @@
+Workbench dies with no-more-handles

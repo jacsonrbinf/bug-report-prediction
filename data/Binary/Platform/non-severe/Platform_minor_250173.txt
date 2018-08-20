@@ -1,0 +1,1 @@
+block selection can be expanded over the right edge of the editor area

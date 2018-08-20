@@ -1,0 +1,1 @@
+Crash while starting up because of symbolic link

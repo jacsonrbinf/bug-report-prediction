@@ -1,0 +1,1 @@
+Updating a CVS project via the synchronize perspective is error prone

@@ -1,0 +1,1 @@
+Mention PRE_REFRESH in IResourceChangeEvent.getResource() and getSource()

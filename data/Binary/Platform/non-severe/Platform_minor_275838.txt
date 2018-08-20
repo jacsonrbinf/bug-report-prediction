@@ -1,0 +1,1 @@
+Project disappears after a few rename actions

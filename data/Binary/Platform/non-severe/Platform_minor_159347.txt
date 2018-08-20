@@ -1,0 +1,1 @@
+Odd item in Eclipse 3.2.1 and WTP 1.5.1

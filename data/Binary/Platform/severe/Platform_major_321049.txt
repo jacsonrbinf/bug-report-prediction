@@ -1,0 +1,1 @@
+Resource Filters not working if you use / (slash) oon the include or exclude rules.

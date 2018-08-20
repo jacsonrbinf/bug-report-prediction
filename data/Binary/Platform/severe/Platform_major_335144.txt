@@ -1,0 +1,1 @@
+[Help] Allow registering of more than one prebuilt index per plug-in

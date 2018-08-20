@@ -1,0 +1,1 @@
+SWT_AWT bridge hangs in Cocoa SWT

@@ -1,0 +1,1 @@
+Source lookup dialog does not have a description

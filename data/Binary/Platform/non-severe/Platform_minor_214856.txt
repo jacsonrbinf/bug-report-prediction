@@ -1,0 +1,1 @@
+[compare] compare dialog lines between text disappear in high contrast mode.

@@ -1,0 +1,1 @@
+[DND] On Windows XP platform, DND image can not display in bidi mode.

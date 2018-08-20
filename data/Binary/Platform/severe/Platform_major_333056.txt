@@ -1,0 +1,1 @@
+CharsetManager#getCharsetFor can't return null, if 'recurse' is true

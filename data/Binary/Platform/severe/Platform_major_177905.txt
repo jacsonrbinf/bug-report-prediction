@@ -1,0 +1,1 @@
+[Min/Max] Dragging open Fast View by using its tab makes it go unresponsive

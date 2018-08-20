@@ -1,0 +1,1 @@
+RemoteRevisionQuickDiffProvider.getReference(...)  does not react on cancel

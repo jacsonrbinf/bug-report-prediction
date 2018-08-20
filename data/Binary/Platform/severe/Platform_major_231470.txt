@@ -1,0 +1,1 @@
+[Contributions] NPE in DynamicEditorList.getContributionItems()

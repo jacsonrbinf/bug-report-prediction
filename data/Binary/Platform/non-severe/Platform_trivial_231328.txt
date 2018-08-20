@@ -1,0 +1,1 @@
+[JFace] Javadoc typo in ToolTip.setShift(Point): default is 3px to right

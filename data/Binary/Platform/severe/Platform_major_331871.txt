@@ -1,0 +1,1 @@
+Unhandled event loop exception - saving img from uml model

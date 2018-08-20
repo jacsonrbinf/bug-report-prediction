@@ -1,0 +1,1 @@
+currently selected item is truncated in the content assist list

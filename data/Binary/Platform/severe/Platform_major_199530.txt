@@ -1,0 +1,1 @@
+IAE 'Widget has the wrong parent' when right click detached view tab

@@ -1,0 +1,1 @@
+Path.close() method on results in different behavior on Cocoa

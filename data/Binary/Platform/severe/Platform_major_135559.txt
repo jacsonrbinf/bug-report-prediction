@@ -1,0 +1,1 @@
+[Markers] Problem view sections collapse after manual build

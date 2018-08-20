@@ -1,0 +1,1 @@
+[Trim] Missing repaint if new appearance "3.3 Presentation (Experimantal)" is used

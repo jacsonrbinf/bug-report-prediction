@@ -1,0 +1,1 @@
+[64] New project wizard does not work on Vista 64 bits

@@ -1,0 +1,1 @@
+AbstractHyperlink.handleActivate() causes "Widget is disposed" exception

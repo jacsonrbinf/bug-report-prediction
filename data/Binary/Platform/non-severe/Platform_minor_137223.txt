@@ -1,0 +1,1 @@
+[CheatSheet] Advance focus to next cheat sheet subitem after current subitem is completed

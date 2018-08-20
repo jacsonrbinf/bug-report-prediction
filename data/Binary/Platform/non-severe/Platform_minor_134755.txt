@@ -1,0 +1,1 @@
+[RCP] plugin.xml: Runtime suggests categoryId but editor tip category

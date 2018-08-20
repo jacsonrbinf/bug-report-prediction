@@ -1,0 +1,1 @@
+[CommonNavigator] stack overflow when opening a common navigator

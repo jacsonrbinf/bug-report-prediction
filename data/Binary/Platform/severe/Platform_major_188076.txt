@@ -1,0 +1,1 @@
+[KeyBindings] Keys pref page: switching scheme not applied

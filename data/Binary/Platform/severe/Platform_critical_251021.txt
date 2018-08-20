@@ -1,0 +1,1 @@
+MacOSX-cocoa swt crash importing a folder containing ~800 Java files

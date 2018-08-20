@@ -1,0 +1,1 @@
+[EditorMgmt] TVT34:TCT545: JA: One item missing mnemonic in Editor preferences panel

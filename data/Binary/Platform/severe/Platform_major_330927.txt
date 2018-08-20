@@ -1,0 +1,1 @@
+[backport] Default external web browser not found when running 32-bit Eclipse on 64-bit Ubuntu 9.04

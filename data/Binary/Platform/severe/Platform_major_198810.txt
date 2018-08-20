@@ -1,0 +1,1 @@
+[misc] RCP Text broken due to EFS dependency in org.eclipse.workbench.texteditor
